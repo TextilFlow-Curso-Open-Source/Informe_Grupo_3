@@ -169,6 +169,19 @@
 
 #### 1.1.1. Descripción de la Startup
 
+#### Qualyx es una startup tecnológica orientada al desarrollo de soluciones digitales que optimizan la gestión operativa de las empresas del sector textil. Esta iniciativa surge como respuesta a la necesidad urgente de digitalizar y transparentar los procesos relacionados con la recepción, evaluación y trazabilidad de los insumos textiles, aspectos clave para asegurar la calidad en la producción de prendas y productos confeccionados.
+
+#### Fundada por estudiantes de Ingeniería de Software de la Universidad de Ciencias Aplicadas de Perú, la startup tiene como propósito brindar herramientas tecnológicas accesibles, colaborativas, mejorando el control de calidad y reduciendo pérdidas en la cadena de suministro.
+### *Servicios y Producto Principal:* 
+#### Su producto principal es TextilFlow, una plataforma web diseñada para permitir a las empresas textiles y distribuidores llevar un control visual y documental de los lotes de tela que se entregan y reciben.
+#### Con TextilFlow, las empresas pueden verificar en tiempo real las condiciones de la tela antes de ser usada (color, textura, elasticidad, entre otros aspectos), registrar observaciones con evidencia visual y generar reportes de calidad que sirven como respaldo ante posibles reclamos o auditorías. A su vez, los distribuidores pueden documentar el estado del lote antes del envío y compartirlo con sus clientes de forma segura y transparente.
+### *Visión:*
+#### Ser la plataforma open source líder en trazabilidad y control de calidad textil en América Latina, impulsando relaciones comerciales más justas, transparentes y eficientes dentro del ecosistema productivo.
+### *Misión:*
+#### Proporcionar a distribuidores, talleres y empresas textiles una herramienta digital integral y colaborativa que permita verificar, documentar y respaldar la calidad de los insumos textiles, fortaleciendo la confianza en la cadena de suministro y reduciendo los errores en la producción.
+
+
+
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
 #### 1.2. Solution Profile
