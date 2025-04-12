@@ -191,6 +191,22 @@
 #### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+ #### Problem Statement 1: 
+#### Nuestra plataforma ha sido diseñada para ayudar a empresas textiles a mejorar el control de calidad y trazabilidad de los lotes de tela que reciben de sus proveedores. A través de una herramienta digital simple, buscamos que estas empresas puedan documentar el estado del material con fotos, comentarios y registros estructurados, antes de utilizarlo en sus procesos de confección.
+
+#### Hemos observado que muchas empresas textiles aún dependen de controles manuales o informales para verificar la calidad de las telas al recibirlas. Esto provoca errores en producción, dificultades para reclamar al proveedor y una pérdida importante de insumos y tiempo, afectando la rentabilidad del negocio.
+
+#### *¿Cómo podemos mejorar el proceso de control de calidad en la recepción de telas, brindando a las empresas textiles una plataforma accesible y visual que les permita registrar evidencias, evaluar materiales y tomar decisiones informadas antes de iniciar la producción?*
+
+ #### Problem Statement 2: 
+
+
+#### TextilFlow fue creado con el objetivo de facilitar la relación comercial entre distribuidores de tela y empresas textiles, ofreciendo una plataforma donde ambas partes puedan registrar y visualizar el estado del material desde su origen hasta su recepción. Esto promueve una relación más transparente, justa y profesional.
+
+#### Hemos identificado que muchos distribuidores no cuentan con un sistema donde dejar constancia del estado de la tela antes de despacharla, lo que los deja vulnerables ante reclamos sin evidencia. Esta falta de respaldo perjudica la confianza del cliente y genera conflictos evitables.
+
+#### *¿Cómo podemos ayudar a los distribuidores de tela a registrar y compartir de forma clara el estado de los lotes enviados, reduciendo conflictos con los clientes y fortaleciendo la confianza comercial mediante herramientas digitales colaborativas?*
+
 
 #### 1.2.2.2. Lean UX Assumptions
 
