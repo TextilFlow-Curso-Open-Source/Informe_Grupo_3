@@ -210,6 +210,51 @@
 
 #### 1.2.2.2. Lean UX Assumptions
 
+#### 1. Creo que mis clientes necesitan una forma clara, rápida y visual de registrar el estado de las telas que reciben o envían, para evitar reclamos, pérdidas y malentendidos en la cadena textil.
+
+#### 2. Estas necesidades se pueden resolver co una plataforma digital colaborativa donde ambas partes (empresa textil y proveedor) puedan dejar evidencia del estado de cada lote (fotos, comentarios, fechas, historial, etc.).
+
+#### 3. Mis clientes iniciales son (o serán) talleres y fábricas textiles que trabajan con diferentes distribuidores
+
+#### 4. El valor #1 que un cliente quiere de mi servicio es tener respaldo visual y organizado sobre el estado del material, para prevenir problemas en producción y hacer reclamos con evidencia cuando sea necesario.
+
+#### 5. El cliente también puede obtener estos beneficios adicionales acceso a un historial de proveedores, informes automáticos, trazabilidad por lote, ahorro de tiempo en auditorías internas, y mejor relación comercial basada en datos.
+
+#### 6. Voy a adquirir la mayoría de mis clientes a través de alianzas con distribuidores textiles, redes de emprendedores textiles, ferias del rubro, grupos de confección en redes sociales y boca a boca en comunidades de producción.
+
+#### 7. Haré dinero a través de modelos freemium (funciones básicas gratuitas + funciones premium), suscripciones mensuales para talleres o distribuidores, y posibles licencias para empresas grandes.
+
+#### 8. Mi competencia principal en el mercado será el uso de métodos tradicionales (papel, WhatsApp, Excel), y algunas soluciones ERP costosas o no especializadas que usan algunas empresas grandes del sector.
+
+#### 9. Los venceremos debido a que somos una solución accesible, fácil de usar, diseñada específicamente para el flujo de trabajo textil, colaborativa entre partes, y con enfoque visual y práctico.
+
+#### 10. Mi mayor riesgo de producto es que los usuarios no estén dispuestos a cambiar sus hábitos informales o vean la herramienta como una carga adicional y no como una solución útil.
+
+#### 11. Resolveremos esto a través de una experiencia de usuario extremadamente simple, con interfaz intuitiva, demostraciones visuales, y casos reales que muestren el beneficio directo en tiempo, dinero y relaciones comerciales.
+
+
+#### 1. ¿Quién es el usuario?
+El usuario es el personal responsable del control de calidad y recepción de insumos en empresas textiles, así como los distribuidores o proveedores de tela que desean registrar y respaldar el estado de los lotes que envían.
+#### 2. ¿Dónde encaja nuestro producto en su trabajo o vida? 
+TextilFlow encaja en el momento clave de la recepción o envío de telas, donde es necesario evaluar su calidad, registrar observaciones, y generar evidencia visual/documental para asegurar transparencia y trazabilidad.
+
+#### 3. ¿Qué problemas tiene nuestro producto? ¿Resolver?
+ El producto busca resolver la falta de control sistemático y visual sobre el estado de los insumos textiles. Actualmente, este proceso es informal o manual, lo que genera pérdidas, conflictos y errores en producción. También resuelve la ausencia de un canal de comunicación técnico entre proveedor y cliente.
+#### 4. ¿Cuándo y cómo es nuestro producto usado? 
+TextilFlow se usa justo antes de utilizar una tela en la producción o antes de su despacho. El usuario accede desde un celular, tablet o PC, toma fotos, escribe observaciones, y genera un registro digital del lote. También se usa para consultas de historial o generación de reportes.
+#### 5. ¿Qué características son importantes?
+* Registro visual (fotos/videos del lote)
+* Observaciones técnicas personalizables
+* Reportes automáticos (PDF, historial por lote o proveedor)
+* Interfaz sencilla, adaptable a celular
+* Acceso compartido para proveedor y cliente
+* Notificaciones ante observaciones o reclamos
+
+#### 6. ¿Cómo debe verse nuestro producto y cómo comportarse?
+ Debe verse simple, visual, intuitivo y profesional. El diseño debe ser limpio, con botones claros, formularios breves y posibilidad de subir fotos al instante. Debe comportarse de forma rápida, sin errores, y facilitar el flujo natural del trabajo, sin requerir formación técnica previa.
+
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
