@@ -169,16 +169,16 @@
 
 #### 1.1.1. Descripción de la Startup
 
-#### Qualyx es una startup tecnológica orientada al desarrollo de soluciones digitales que optimizan la gestión operativa de las empresas del sector textil. Esta iniciativa surge como respuesta a la necesidad urgente de digitalizar y transparentar los procesos relacionados con la recepción, evaluación y trazabilidad de los insumos textiles, aspectos clave para asegurar la calidad en la producción de prendas y productos confeccionados.
+ Qualyx es una startup tecnológica orientada al desarrollo de soluciones digitales que optimizan la gestión operativa de las empresas del sector textil. Esta iniciativa surge como respuesta a la necesidad urgente de digitalizar y transparentar los procesos relacionados con la recepción, evaluación y trazabilidad de los insumos textiles, aspectos clave para asegurar la calidad en la producción de prendas y productos confeccionados.
 
-#### Fundada por estudiantes de Ingeniería de Software de la Universidad de Ciencias Aplicadas de Perú, la startup tiene como propósito brindar herramientas tecnológicas accesibles, colaborativas, mejorando el control de calidad y reduciendo pérdidas en la cadena de suministro.
+Fundada por estudiantes de Ingeniería de Software de la Universidad de Ciencias Aplicadas de Perú, la startup tiene como propósito brindar herramientas tecnológicas accesibles, colaborativas, mejorando el control de calidad y reduciendo pérdidas en la cadena de suministro.
 ### *Servicios y Producto Principal:* 
-#### Su producto principal es TextilFlow, una plataforma web diseñada para permitir a las empresas textiles y distribuidores llevar un control visual y documental de los lotes de tela que se entregan y reciben.
-#### Con TextilFlow, las empresas pueden verificar en tiempo real las condiciones de la tela antes de ser usada (color, textura, elasticidad, entre otros aspectos), registrar observaciones con evidencia visual y generar reportes de calidad que sirven como respaldo ante posibles reclamos o auditorías. A su vez, los distribuidores pueden documentar el estado del lote antes del envío y compartirlo con sus clientes de forma segura y transparente.
+ Su producto principal es TextilFlow, una plataforma web diseñada para permitir a las empresas textiles y distribuidores llevar un control visual y documental de los lotes de tela que se entregan y reciben.
+ Con TextilFlow, las empresas pueden verificar en tiempo real las condiciones de la tela antes de ser usada (color, textura, elasticidad, entre otros aspectos), registrar observaciones con evidencia visual y generar reportes de calidad que sirven como respaldo ante posibles reclamos o auditorías. A su vez, los distribuidores pueden documentar el estado del lote antes del envío y compartirlo con sus clientes de forma segura y transparente.
 ### *Visión:*
-#### Ser la plataforma open source líder en trazabilidad y control de calidad textil en América Latina, impulsando relaciones comerciales más justas, transparentes y eficientes dentro del ecosistema productivo.
+Ser la plataforma open source líder en trazabilidad y control de calidad textil en América Latina, impulsando relaciones comerciales más justas, transparentes y eficientes dentro del ecosistema productivo.
 ### *Misión:*
-#### Proporcionar a distribuidores, talleres y empresas textiles una herramienta digital integral y colaborativa que permita verificar, documentar y respaldar la calidad de los insumos textiles, fortaleciendo la confianza en la cadena de suministro y reduciendo los errores en la producción.
+ Proporcionar a distribuidores, talleres y empresas textiles una herramienta digital integral y colaborativa que permita verificar, documentar y respaldar la calidad de los insumos textiles, fortaleciendo la confianza en la cadena de suministro y reduciendo los errores en la producción.
 
 
 
@@ -192,45 +192,45 @@
 
 #### 1.2.2.1. Lean UX Problem Statements
  #### Problem Statement 1: 
-#### Nuestra plataforma ha sido diseñada para ayudar a empresas textiles a mejorar el control de calidad y trazabilidad de los lotes de tela que reciben de sus proveedores. A través de una herramienta digital simple, buscamos que estas empresas puedan documentar el estado del material con fotos, comentarios y registros estructurados, antes de utilizarlo en sus procesos de confección.
+ Nuestra plataforma ha sido diseñada para ayudar a empresas textiles a mejorar el control de calidad y trazabilidad de los lotes de tela que reciben de sus proveedores. A través de una herramienta digital simple, buscamos que estas empresas puedan documentar el estado del material con fotos, comentarios y registros estructurados, antes de utilizarlo en sus procesos de confección.
 
-#### Hemos observado que muchas empresas textiles aún dependen de controles manuales o informales para verificar la calidad de las telas al recibirlas. Esto provoca errores en producción, dificultades para reclamar al proveedor y una pérdida importante de insumos y tiempo, afectando la rentabilidad del negocio.
+ Hemos observado que muchas empresas textiles aún dependen de controles manuales o informales para verificar la calidad de las telas al recibirlas. Esto provoca errores en producción, dificultades para reclamar al proveedor y una pérdida importante de insumos y tiempo, afectando la rentabilidad del negocio.
 
-#### *¿Cómo podemos mejorar el proceso de control de calidad en la recepción de telas, brindando a las empresas textiles una plataforma accesible y visual que les permita registrar evidencias, evaluar materiales y tomar decisiones informadas antes de iniciar la producción?*
+ *¿Cómo podemos mejorar el proceso de control de calidad en la recepción de telas, brindando a las empresas textiles una plataforma accesible y visual que les permita registrar evidencias, evaluar materiales y tomar decisiones informadas antes de iniciar la producción?*
 
  #### Problem Statement 2: 
 
 
-#### TextilFlow fue creado con el objetivo de facilitar la relación comercial entre distribuidores de tela y empresas textiles, ofreciendo una plataforma donde ambas partes puedan registrar y visualizar el estado del material desde su origen hasta su recepción. Esto promueve una relación más transparente, justa y profesional.
+TextilFlow fue creado con el objetivo de facilitar la relación comercial entre distribuidores de tela y empresas textiles, ofreciendo una plataforma donde ambas partes puedan registrar y visualizar el estado del material desde su origen hasta su recepción. Esto promueve una relación más transparente, justa y profesional.
 
-#### Hemos identificado que muchos distribuidores no cuentan con un sistema donde dejar constancia del estado de la tela antes de despacharla, lo que los deja vulnerables ante reclamos sin evidencia. Esta falta de respaldo perjudica la confianza del cliente y genera conflictos evitables.
+Hemos identificado que muchos distribuidores no cuentan con un sistema donde dejar constancia del estado de la tela antes de despacharla, lo que los deja vulnerables ante reclamos sin evidencia. Esta falta de respaldo perjudica la confianza del cliente y genera conflictos evitables.
 
-#### *¿Cómo podemos ayudar a los distribuidores de tela a registrar y compartir de forma clara el estado de los lotes enviados, reduciendo conflictos con los clientes y fortaleciendo la confianza comercial mediante herramientas digitales colaborativas?*
+ *¿Cómo podemos ayudar a los distribuidores de tela a registrar y compartir de forma clara el estado de los lotes enviados, reduciendo conflictos con los clientes y fortaleciendo la confianza comercial mediante herramientas digitales colaborativas?*
 
 
 #### 1.2.2.2. Lean UX Assumptions
 
-#### 1. Creo que mis clientes necesitan una forma clara, rápida y visual de registrar el estado de las telas que reciben o envían, para evitar reclamos, pérdidas y malentendidos en la cadena textil.
+ 1. Creo que mis clientes necesitan una forma clara, rápida y visual de registrar el estado de las telas que reciben o envían, para evitar reclamos, pérdidas y malentendidos en la cadena textil.
 
-#### 2. Estas necesidades se pueden resolver co una plataforma digital colaborativa donde ambas partes (empresa textil y proveedor) puedan dejar evidencia del estado de cada lote (fotos, comentarios, fechas, historial, etc.).
+ 2. Estas necesidades se pueden resolver co una plataforma digital colaborativa donde ambas partes (empresa textil y proveedor) puedan dejar evidencia del estado de cada lote (fotos, comentarios, fechas, historial, etc.).
 
-#### 3. Mis clientes iniciales son (o serán) talleres y fábricas textiles que trabajan con diferentes distribuidores
+ 3. Mis clientes iniciales son (o serán) talleres y fábricas textiles que trabajan con diferentes distribuidores
 
-#### 4. El valor #1 que un cliente quiere de mi servicio es tener respaldo visual y organizado sobre el estado del material, para prevenir problemas en producción y hacer reclamos con evidencia cuando sea necesario.
+ 4. El valor #1 que un cliente quiere de mi servicio es tener respaldo visual y organizado sobre el estado del material, para prevenir problemas en producción y hacer reclamos con evidencia cuando sea necesario.
 
-#### 5. El cliente también puede obtener estos beneficios adicionales acceso a un historial de proveedores, informes automáticos, trazabilidad por lote, ahorro de tiempo en auditorías internas, y mejor relación comercial basada en datos.
+5. El cliente también puede obtener estos beneficios adicionales acceso a un historial de proveedores, informes automáticos, trazabilidad por lote, ahorro de tiempo en auditorías internas, y mejor relación comercial basada en datos.
 
-#### 6. Voy a adquirir la mayoría de mis clientes a través de alianzas con distribuidores textiles, redes de emprendedores textiles, ferias del rubro, grupos de confección en redes sociales y boca a boca en comunidades de producción.
+ 6. Voy a adquirir la mayoría de mis clientes a través de alianzas con distribuidores textiles, redes de emprendedores textiles, ferias del rubro, grupos de confección en redes sociales y boca a boca en comunidades de producción.
 
-#### 7. Haré dinero a través de modelos freemium (funciones básicas gratuitas + funciones premium), suscripciones mensuales para talleres o distribuidores, y posibles licencias para empresas grandes.
+7. Haré dinero a través de modelos freemium (funciones básicas gratuitas + funciones premium), suscripciones mensuales para talleres o distribuidores, y posibles licencias para empresas grandes.
 
-#### 8. Mi competencia principal en el mercado será el uso de métodos tradicionales (papel, WhatsApp, Excel), y algunas soluciones ERP costosas o no especializadas que usan algunas empresas grandes del sector.
+8. Mi competencia principal en el mercado será el uso de métodos tradicionales (papel, WhatsApp, Excel), y algunas soluciones ERP costosas o no especializadas que usan algunas empresas grandes del sector.
 
-#### 9. Los venceremos debido a que somos una solución accesible, fácil de usar, diseñada específicamente para el flujo de trabajo textil, colaborativa entre partes, y con enfoque visual y práctico.
+ 9. Los venceremos debido a que somos una solución accesible, fácil de usar, diseñada específicamente para el flujo de trabajo textil, colaborativa entre partes, y con enfoque visual y práctico.
 
-#### 10. Mi mayor riesgo de producto es que los usuarios no estén dispuestos a cambiar sus hábitos informales o vean la herramienta como una carga adicional y no como una solución útil.
+ 10. Mi mayor riesgo de producto es que los usuarios no estén dispuestos a cambiar sus hábitos informales o vean la herramienta como una carga adicional y no como una solución útil.
 
-#### 11. Resolveremos esto a través de una experiencia de usuario extremadamente simple, con interfaz intuitiva, demostraciones visuales, y casos reales que muestren el beneficio directo en tiempo, dinero y relaciones comerciales.
+ 11. Resolveremos esto a través de una experiencia de usuario extremadamente simple, con interfaz intuitiva, demostraciones visuales, y casos reales que muestren el beneficio directo en tiempo, dinero y relaciones comerciales.
 
 
 #### 1. ¿Quién es el usuario?
@@ -257,16 +257,16 @@ TextilFlow se usa justo antes de utilizar una tela en la producción o antes de 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-#### Creemos que permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
-### Sabremos que esto es cierto cuando veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
+ Creemos que permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
+ Sabremos que esto es cierto cuando veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
 #### Cuando veamos los siguientes comentarios del mercado:
 * “Ahora tengo respaldo para reclamar al proveedor.”
 * “Evité una pérdida gracias a la revisión previa.” 
 * Aumento del 40% en lotes registrados con observaciones.
 * Reducción de reportes por fallos de tela en producción.
 
-#### Creemos que ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
-#### Sabremos que esto es cierto cuando veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
+ Creemos que ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
+ Sabremos que esto es cierto cuando veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
 #### Cuando veamos los siguientes comentarios del mercado:
 * “Ahora sé que la tela ya venía con ese detalle.”
 * “Agradezco ver el informe antes del envío.”
@@ -278,6 +278,34 @@ TextilFlow se usa justo antes de utilizar una tela en la producción o antes de 
 #### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos Objetivos
+
+#### Segmento Objetivo 1: Empresas Textiles (Talleres y Fábricas de Confección)
+
+Este segmento está compuesto por responsables de producción y personal encargado del control de calidad y recepción de insumos en pequeñas y medianas empresas textiles. En muchos casos, estas funciones las asumen las propias dueñas del taller o personal multitarea, quienes deben verificar el estado de las telas antes de usarlas en el proceso de confección.
+
+#### Características demográficas:
+* Ubicación: Principalmente en Lima Metropolitana, en distritos con alta concentración textil como Gamarra (La Victoria), San Juan de Lurigancho, El Agustino y Los Olivos.
+* Edad: Entre 25 y 45 años, con una media de 35 años.
+* Nivel socioeconómico: Clase media y media-baja.
+
+#### Desafíos:
+* Estas empresas reciben telas en distintas condiciones, pero no cuentan con un sistema formal para registrar el estado del material.
+* Enfrentan errores frecuentes en producción al usar telas con defectos no detectados a tiempo.
+* La falta de una plataforma donde puedan dejar evidencia clara (fotos, comentarios) limita su capacidad para hacer reclamos o tomar decisiones informadas.
+* Usan registros manuales, hojas sueltas o mensajes de WhatsApp, lo que genera desorganización y pérdida de datos.
+
+ #### Segmento Objetivo 2: Distribuidores de Telas (Mayoristas, Tiendas o Proveedores Directos)
+Este segmento está formado por personas o empresas dedicadas a la venta y distribución de telas por rollo a talleres, fábricas o diseñadores independientes. Pueden operar desde tiendas físicas en zonas comerciales o desde almacenes, y muchas veces realizan entregas directamente al cliente.
+#### Características demográficas:
+* Ubicación: Zonas de alta actividad comercial textil como Gamarra (La Victoria), Lima Cercado, Callao y zonas de almacenes en Ate o San Luis.
+* Edad: Entre 30 y 55 años, con una media de 42 años.
+* Nivel socioeconómico: Clase media.
+
+#### Desafíos:
+* Muchos distribuidores no cuentan con un método para registrar el estado de los lotes antes del envío.
+* Sufren reclamos de clientes por defectos que, muchas veces, no estaban presentes al momento del despacho.
+* No tienen un respaldo visual ni histórico que les permita demostrar la calidad de su producto ni gestionar incidencias con agilidad.
+
 
 <hr>
 
