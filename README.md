@@ -272,8 +272,33 @@ Creemos que permitir que las empresas textiles registren el estado de los lotes 
 
 
 #### **1.2.2.4. Lean UX Canvas**
+![Image](https://github.com/user-attachments/assets/38338ee2-8e2b-4931-9c17-5ca93a759c5a)
 
 ### **1.3. Segmentos Objetivos**
+
+#### Segmento Objetivo 1: Empresas textiles (Talleres y Fábricas de confección)
+
+Este segmento está compuesto por responsables de producción y personal encargado del control de calidad y recepción de insumos en pequeñas y medianas empresas textiles. En muchos casos, estas funciones las asumen las propias dueñas del taller o personal multitarea, quienes deben verificar el estado de las telas antes de usarlas en el proceso de confección.
+#### Características demográficas:
+* Ubicación: Principalmente en Lima Metropolitana, en distritos con alta concentración textil como Gamarra (La Victoria), San Juan de Lurigancho, El Agustino y Los Olivos.
+* Edad: Entre 25 y 45 años, con una media de 35 años.
+* Nivel socioeconómico: Clase media y media-baja.
+#### Desafíos:
+* Estas empresas reciben telas en distintas condiciones, pero no cuentan con un sistema formal para registrar el estado del material.
+* Enfrentan errores frecuentes en producción al usar telas con defectos no detectados a tiempo.
+* La falta de una plataforma donde puedan dejar evidencia clara (fotos, comentarios) limita su capacidad para hacer reclamos o tomar decisiones informadas.
+* Usan registros manuales, hojas sueltas o mensajes de WhatsApp, lo que genera desorganización y pérdida de datos.
+#### Segmento Objetivo 2: Distribuidores de telas (Mayoristas, tiendas o proveedores directos)
+Este segmento está formado por personas o empresas dedicadas a la venta y distribución de telas por rollo a talleres, fábricas o diseñadores independientes. Pueden operar desde tiendas físicas en zonas comerciales o desde almacenes, y muchas veces realizan entregas directamente al cliente.
+#### Características demográficas:
+* Ubicación: Zonas de alta actividad comercial textil como Gamarra (La Victoria), Lima Cercado, Callao y zonas de almacenes en Ate o San Luis.
+* Edad: Entre 30 y 55 años, con una media de 42 años.
+* Nivel socioeconómico: Clase media.
+#### Desafíos:
+* Muchos distribuidores no cuentan con un método para registrar el estado de los lotes antes del envío.
+* Sufren reclamos de clientes por defectos que, muchas veces, no estaban presentes al momento del despacho.
+* No tienen un respaldo visual ni histórico que les permita demostrar la calidad de su producto ni gestionar incidencias con agilidad.
+
 
 <hr>
 
