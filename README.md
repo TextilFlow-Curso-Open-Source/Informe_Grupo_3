@@ -168,6 +168,18 @@
 ### **1.1. Startup Profile**
 
 #### **1.1.1. Descripción de la Startup**
+Qualyx es una startup tecnológica orientada al desarrollo de soluciones digitales que optimizan la gestión operativa de las empresas del sector textil. Esta iniciativa surge como respuesta a la necesidad urgente de digitalizar y transparentar los procesos relacionados con la recepción, evaluación y trazabilidad de los insumos textiles, aspectos clave para asegurar la calidad en la producción de prendas y productos confeccionados.
+
+Fundada por estudiantes de Ingeniería de Software de la Universidad de Ciencias Aplicadas de Perú, la startup tiene como propósito brindar herramientas tecnológicas accesibles, colaborativas, mejorando el control de calidad y reduciendo pérdidas en la cadena de suministro.
+### *Servicios y Producto Principal:* 
+ Su producto principal es TextilFlow, una plataforma web diseñada para permitir a las empresas textiles y distribuidores llevar un control visual y documental de los lotes de tela que se entregan y reciben.
+ Con TextilFlow, las empresas pueden verificar en tiempo real las condiciones de la tela antes de ser usada (color, textura, elasticidad, entre otros aspectos), registrar observaciones con evidencia visual y generar reportes de calidad que sirven como respaldo ante posibles reclamos o auditorías. A su vez, los distribuidores pueden documentar el estado del lote antes del envío y compartirlo con sus clientes de forma segura y transparente.
+### *Visión:*
+Ser la plataforma open source líder en trazabilidad y control de calidad textil en América Latina, impulsando relaciones comerciales más justas, transparentes y eficientes dentro del ecosistema productivo.
+### *Misión:*
+ Proporcionar a distribuidores, talleres y empresas textiles una herramienta digital integral y colaborativa que permita verificar, documentar y respaldar la calidad de los insumos textiles, fortaleciendo la confianza en la cadena de suministro y reduciendo los errores en la producción.
+
+
 
 #### **1.1.2. Perfiles de Integrantes del Equipo**
 
@@ -178,10 +190,86 @@
 #### **1.2.2. Lean UX Process**
 
 #### **1.2.2.1. Lean UX Problem Statements**
+#### Problem Statement 1: 
+ Nuestra plataforma ha sido diseñada para ayudar a empresas textiles a mejorar el control de calidad y trazabilidad de los lotes de tela que reciben de sus proveedores. A través de una herramienta digital simple, buscamos que estas empresas puedan documentar el estado del material con fotos, comentarios y registros estructurados, antes de utilizarlo en sus procesos de confección.
+
+ Hemos observado que muchas empresas textiles aún dependen de controles manuales o informales para verificar la calidad de las telas al recibirlas. Esto provoca errores en producción, dificultades para reclamar al proveedor y una pérdida importante de insumos y tiempo, afectando la rentabilidad del negocio.
+
+ *¿Cómo podemos mejorar el proceso de control de calidad en la recepción de telas, brindando a las empresas textiles una plataforma accesible y visual que les permita registrar evidencias, evaluar materiales y tomar decisiones informadas antes de iniciar la producción?*
+
+ #### Problem Statement 2: 
+
+
+TextilFlow fue creado con el objetivo de facilitar la relación comercial entre distribuidores de tela y empresas textiles, ofreciendo una plataforma donde ambas partes puedan registrar y visualizar el estado del material desde su origen hasta su recepción. Esto promueve una relación más transparente, justa y profesional.
+
+Hemos identificado que muchos distribuidores no cuentan con un sistema donde dejar constancia del estado de la tela antes de despacharla, lo que los deja vulnerables ante reclamos sin evidencia. Esta falta de respaldo perjudica la confianza del cliente y genera conflictos evitables.
+
+ *¿Cómo podemos ayudar a los distribuidores de tela a registrar y compartir de forma clara el estado de los lotes enviados, reduciendo conflictos con los clientes y fortaleciendo la confianza comercial mediante herramientas digitales colaborativas?*
+
+
 
 #### **1.2.2.2. Lean UX Assumptions**
+ 1. Creo que mis clientes necesitan una forma clara, rápida y visual de registrar el estado de las telas que reciben o envían, para evitar reclamos, pérdidas y malentendidos en la cadena textil.
+
+ 2. Estas necesidades se pueden resolver co una plataforma digital colaborativa donde ambas partes (empresa textil y proveedor) puedan dejar evidencia del estado de cada lote (fotos, comentarios, fechas, historial, etc.).
+
+ 3. Mis clientes iniciales son (o serán) talleres y fábricas textiles que trabajan con diferentes distribuidores
+
+ 4. El valor #1 que un cliente quiere de mi servicio es tener respaldo visual y organizado sobre el estado del material, para prevenir problemas en producción y hacer reclamos con evidencia cuando sea necesario.
+
+ 5. El cliente también puede obtener estos beneficios adicionales acceso a un historial de proveedores, informes automáticos, trazabilidad por lote, ahorro de tiempo en auditorías internas, y mejor relación comercial basada en datos.
+
+ 6. Voy a adquirir la mayoría de mis clientes a través de alianzas con distribuidores textiles, redes de emprendedores textiles, ferias del rubro, grupos de confección en redes sociales y boca a boca en comunidades de producción.
+
+ 7. Haré dinero a través de modelos freemium (funciones básicas gratuitas + funciones premium), suscripciones mensuales para talleres o distribuidores, y posibles licencias para empresas grandes.
+
+ 8. Mi competencia principal en el mercado será el uso de métodos tradicionales (papel, WhatsApp, Excel), y algunas soluciones ERP costosas o no especializadas que usan algunas empresas grandes del sector.
+
+ 9. Los venceremos debido a que somos una solución accesible, fácil de usar, diseñada específicamente para el flujo de trabajo textil, colaborativa entre partes, y con enfoque visual y práctico.
+
+ 10. Mi mayor riesgo de producto es que los usuarios no estén dispuestos a cambiar sus hábitos informales o vean la herramienta como una carga adicional y no como una solución útil.
+
+ 11. Resolveremos esto a través de una experiencia de usuario extremadamente simple, con interfaz intuitiva, demostraciones visuales, y casos reales que muestren el beneficio directo en tiempo, dinero y relaciones comerciales.
+
+
+#### 1. ¿Quién es el usuario?
+El usuario es el personal responsable del control de calidad y recepción de insumos en empresas textiles, así como los distribuidores o proveedores de tela que desean registrar y respaldar el estado de los lotes que envían.
+#### 2. ¿Dónde encaja nuestro producto en su trabajo o vida? 
+TextilFlow encaja en el momento clave de la recepción o envío de telas, donde es necesario evaluar su calidad, registrar observaciones, y generar evidencia visual/documental para asegurar transparencia y trazabilidad.
+
+#### 3. ¿Qué problemas tiene nuestro producto? ¿Resolver?
+ El producto busca resolver la falta de control sistemático y visual sobre el estado de los insumos textiles. Actualmente, este proceso es informal o manual, lo que genera pérdidas, conflictos y errores en producción. También resuelve la ausencia de un canal de comunicación técnico entre proveedor y cliente.
+#### 4. ¿Cuándo y cómo es nuestro producto usado? 
+TextilFlow se usa justo antes de utilizar una tela en la producción o antes de su despacho. El usuario accede desde un celular, tablet o PC, toma fotos, escribe observaciones, y genera un registro digital del lote. También se usa para consultas de historial o generación de reportes.
+#### 5. ¿Qué características son importantes?
+* Registro visual (fotos/videos del lote)
+* Observaciones técnicas personalizables
+* Reportes automáticos (PDF, historial por lote o proveedor)
+* Interfaz sencilla, adaptable a celular
+* Acceso compartido para proveedor y cliente
+* Notificaciones ante observaciones o reclamos
+
+#### 6. ¿Cómo debe verse nuestro producto y cómo comportarse?
+ Debe verse simple, visual, intuitivo y profesional. El diseño debe ser limpio, con botones claros, formularios breves y posibilidad de subir fotos al instante. Debe comportarse de forma rápida, sin errores, y facilitar el flujo natural del trabajo, sin requerir formación técnica previa.
+
+
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
+Creemos que permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
+ Sabremos que esto es cierto cuando veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
+#### Cuando veamos los siguientes comentarios del mercado:
+* “Ahora tengo respaldo para reclamar al proveedor.”
+* “Evité una pérdida gracias a la revisión previa.” 
+* Aumento del 40% en lotes registrados con observaciones.
+* Reducción de reportes por fallos de tela en producción.
+
+ Creemos que ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
+ Sabremos que esto es cierto cuando veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
+#### Cuando veamos los siguientes comentarios del mercado:
+* “Ahora sé que la tela ya venía con ese detalle.”
+* “Agradezco ver el informe antes del envío.”
+* Disminución del 30% en reclamos sin respaldo.
+
 
 #### **1.2.2.4. Lean UX Canvas**
 
@@ -202,9 +290,11 @@
 
 
 #### **2.2.1. Diseño de entrevistas**
+
 ### Segmento Objetivo #1: Empresarios
 ##### *Preguntas dirigidas a los empresarios de fábricas textiles.*
 ---
+
 **Características demográficas:**
 1. ¿Cuál es tu edad?
 2. ¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?
@@ -246,10 +336,10 @@
 
 #### **2.2.2. Registro de entrevistas**
 
-### Registro de Entrevista – Segmento: Empresarios
+### Registro de Entrevista – Segmento 1: Empresarios
 
 ---
-
+### Entrevista #1 :
 ### **Características demográficas**
 
 1. **¿Cuál es tu edad?**  
@@ -294,6 +384,36 @@
 
 3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
    Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
+
+
+### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
+### Entrevista #1 :
+### **Características demográficas**
+1. **¿Cuál es tu edad?**
+Tengo 28 años.
+2. **¿Tienes tienda física, vendes online o ambos?**
+Tengo un taller en mi casa, donde trabajo con tres personas más. No vendo directamente, trabajo por pedidos para marcas pequeñas o emprendedores.
+3. **¿Qué tipo de telas sueles distribuir?**
+Trabajo con algodón, lycra, popelina y últimamente algo de denim para ropa juvenil.
+Preguntas Principales:
+### **Preguntas Principales**
+1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
+Cuando llegan las telas al taller, las reviso al tacto y estiro un poco para ver la elasticidad. También veo que el color no varíe entre rollos. Pero no siempre tengo tiempo para revisarlas una por una.
+2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
+No, nunca. Si algo está mal, lo reclamo verbalmente al proveedor, pero no tengo pruebas. Me ha pasado que me dicen que ya venía así y nadie se hace cargo.
+3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
+Sí, varias veces. A veces la tela tiene fallas en el color o se rompe al coser. El problema es que ya está cortada y no hay forma de reclamar. Eso me ha hecho perder clientes y dinero.
+4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
+Hago notas a mano y tengo carpetas con pedidos, pero no hay algo unificado. Me pierdo a veces, sobre todo cuando tengo pedidos urgentes o simultáneos.
+5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
+Solo si el cliente es nuevo o me ha reclamado antes. No tengo costumbre de documentar todo porque es muy tedioso con el celular.
+### **Preguntas sobre el Proyecto (Qualyx)**
+1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
+Me encantaría. Podría revisar cómo llegó cada rollo de tela y tener fotos antes de cortar. También podría mostrarle al proveedor si algo viene mal.
+2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
+Sí, sobre todo cuando tengo varios pedidos seguidos. Me ayudaría a evitar errores como entregar la prenda equivocada o usar una tela que no era.
+3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
+Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos entendidos. Todos ven lo mismo, y queda como evidencia de lo que se hizo.
 
 
 
