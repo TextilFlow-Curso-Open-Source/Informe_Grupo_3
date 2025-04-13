@@ -246,6 +246,57 @@
 
 #### **2.2.2. Registro de entrevistas**
 
+### Registro de Entrevista – Segmento: Empresarios
+
+---
+
+### **Características demográficas**
+
+1. **¿Cuál es tu edad?**  
+   Actualmente tengo 25 años.
+
+2. **¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?**  
+   Trabajo en la ciudad de Lima en un negocio familiar donde se confeccionan varios tipos de prendas como polos, pantalones, shorts, etc.
+
+3. **¿Cuántos años de experiencia tienes trabajando en el rubro textil?**  
+   Llevo toda mi vida aprendiendo de este mundo, pero laborando, llevaría entre 8 a 10 años, apoyando y dirigiendo de diversas maneras en el negocio.
+
+### **Preguntas Principales**
+
+1. **¿Cómo es el proceso actual cuando llega un nuevo lote de tela a tu empresa?**  
+   Cuando llega un nuevo lote, lo primero que hacemos es descargarlo y almacenarlo en una zona designada. Luego, alguien del equipo de almacén revisa de forma general la tela, pero es más visual que técnica. No tenemos un sistema muy formalizado para eso, lo hacemos "al ojo".
+
+2. **¿Tienen un protocolo definido para revisar la calidad de la tela? ¿Quién lo realiza?**  
+   La verdad, no tenemos un protocolo definido. Cada quien revisa según su experiencia. Generalmente lo hace el encargado de almacén o producción, pero no hay una guía clara ni documentación.
+
+3. **¿Qué aspectos revisan normalmente en la tela (color, textura, elasticidad, manchas, etc.)?**  
+   Vemos el color, que no esté manchada, que la textura sea la adecuada según el tipo de tela, y si tiene la elasticidad que necesitamos. Pero todo es muy subjetivo, no tenemos instrumentos de medición ni nada técnico.
+
+4. **¿Llevan algún registro de esa revisión? ¿Cómo lo hacen? (Papel, Excel, WhatsApp, etc.)**  
+   No como debería ser. A veces lo anotamos en una hoja o le pasamos el dato al jefe por WhatsApp. Otras veces se queda todo en la memoria. Solo cuando hay un problema serio se documenta un poco más.
+
+5. **¿Toman fotos o videos como respaldo? ¿Dónde los guardan?**  
+   Sí, tomamos fotos cuando vemos algo raro, pero se quedan en el celular de quien las tomó. No tenemos un lugar fijo donde se guarden, y a veces hasta se pierden o se borran sin querer.
+
+6. **¿Qué pasa si detectan un problema en el lote recibido? ¿Tienen forma de reclamar al proveedor? ¿Cómo lo hacen?**  
+   Sí, pero es complicado. Llamamos al proveedor y le mandamos fotos por WhatsApp o correo. A veces acepta el reclamo, otras veces no, porque no hay pruebas suficientes o porque pasó mucho tiempo. Es difícil demostrar que el problema fue desde que llegó.
+
+7. **¿Han tenido problemas por haber usado tela en mal estado sin darse cuenta al inicio?**  
+   Sí, ha pasado. A veces no se nota al inicio, y ya cuando se empieza a confeccionar recién salta el problema. Eso genera pérdidas porque hay que parar la producción o rehacer las prendas.
+
+### **Preguntas sobre el Proyecto (Qualyx)**
+
+1. **¿Qué te parecería tener una plataforma donde puedas registrar cada lote de tela que recibes y dejar evidencia visual y escrita de su estado?**  
+   Me parecería excelente. Nos daría mucho más orden y respaldo. Tener todo en un solo lugar nos evitaría muchos problemas con los proveedores y también dentro del equipo.
+
+2. **¿Qué datos crees que serían importantes registrar en la plataforma?**  
+   Tipo de tela, metraje, proveedor, fecha de llegada, quién la recibió, fotos del estado, observaciones, si hubo problemas o no, y quizás también el número de guía de remisión para tener todo relacionado.
+
+3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
+   Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
+
+
+
 #### **2.2.3. Análisis de entrevistas**
 
 ### **2.3. Needfinding**
