@@ -182,10 +182,33 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 
 
 #### **1.1.2. Perfiles de Integrantes del Equipo**
+![Image](https://github.com/user-attachments/assets/d307d728-8027-4858-ba5f-ee9edb46258f)
+
 
 #### **1.2. Solution Profile**
 
 #### **1.2.1. Antecedentes y problemática**
+#### What – ¿Cuál es el problema?
+En el sector textil peruano, especialmente en las pequeñas y medianas empresas, los procesos de recepción de tela y control de calidad aún se realizan de forma manual, lo cual genera una alta tasa de errores e incidencias en la producción. La falta de herramientas digitales para registrar y validar las características técnicas de los insumos impide una trazabilidad efectiva del material, dificultando los reclamos a los proveedores ante defectos (Astete & Dominguez, 2023).
+
+![Image](https://github.com/user-attachments/assets/0e7fccb4-44b1-44a5-8a5c-267bd5b103b9)
+
+#### When : ¿Cuándo sucede el problema?
+Este problema surge cada vez que una empresa recibe un lote de tela. Si en ese momento crítico no se realiza una evaluación detallada o esta se hace de manera informal, pueden usarse insumos defectuosos en la producción, lo que se traduce en reprocesos, pérdidas económicas y demoras en la entrega final. La falta de estandarización en los procesos genera inconsistencias que afectan directamente la calidad del producto final (Serna, 2024).
+
+#### Where : ¿Dónde ocurre el problema?
+Generalmente, el problema se manifiesta en las zonas de recepción de materiales y almacenes textiles, espacios que suelen tener alta rotación de insumos y, muchas veces, bajo acceso a tecnología digital. La ausencia de soluciones adaptadas a estas condiciones genera registros incompletos o inexistentes sobre la calidad de los lotes de tela (Astete & Dominguez, 2023).
+#### Who :  ¿Quiénes están involucrados?
+Las personas más afectadas por esta situación son las encargadas de almacén, las jefas de producción y las operarias de control de calidad. Ellas deben evaluar el estado de la tela sin contar con herramientas para registrar color, textura o elasticidad, lo que dificulta realizar reclamos con evidencia. También se ven afectadas las distribuidoras de tela, que enfrentan conflictos por devoluciones no documentadas (Aspilcueta, 1999).
+#### Why : ¿Por qué ocurre esta situación?
+La baja digitalización es una de las causas principales. Aunque algunas empresas han iniciado procesos de modernización, menos del 45% del sector ha implementado herramientas digitales en sus operaciones (Astete & Dominguez, 2023, p. 4). Además, muchas Mypes carecen del presupuesto o capacitación necesarios para adoptar soluciones tecnológicas, lo que las deja fuera de la cuarta revolución industrial (Aspilcueta, 1999).
+#### How : ¿En qué condiciones usan el producto?
+Las empresas textiles que buscan mejorar su gestión de insumos lo harán en entornos operativos dinámicos, usando tablets o celulares. La interfaz del producto debe ser amigable y permitir registrar evidencia (fotos, comentarios, etiquetas) de manera simple. Estudios han demostrado que herramientas como las 5S o el ciclo PDCA mejoran el orden y reducen defectos hasta en un 80% (Serna, 2024).
+#### How Much : ¿Cuánto cuesta no resolverlo?
+Los costos de no actuar son elevados. Los defectos no detectados a tiempo generan reprocesos que pueden representar pérdidas económicas del 52.6% del total de la producción (Serna, 2024). También se producen conflictos con proveedores por falta de evidencia técnica y se perpetúa la desigualdad digital, ya que las Mypes no acceden a herramientas adaptadas a sus necesidades reales (Astete & Dominguez, 2023, p. 6).
+
+![Image](https://github.com/user-attachments/assets/1a6db8a0-cc6d-48d2-9ec2-206eae6b6f4b)
+
 
 #### **1.2.2. Lean UX Process**
 
