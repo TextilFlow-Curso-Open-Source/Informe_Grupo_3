@@ -307,6 +307,15 @@ Este segmento está formado por personas o empresas dedicadas a la venta y distr
 ### **2.1. Competidores**
 
 #### **2.1.1. Análisis competitivo**
+![Image](https://github.com/user-attachments/assets/aed552d6-b1d9-4665-8bbe-46de6dfe6d33)
+
+![Image](https://github.com/user-attachments/assets/147f57d5-72d2-4140-9927-e910990645b7)
+
+![Image](https://github.com/user-attachments/assets/744e6a29-f748-48c4-8f52-00ea7a344d3e)
+
+![Image](https://github.com/user-attachments/assets/120822c2-6e8a-46d0-a7b8-76aacbc1faad)
+
+![Image](https://github.com/user-attachments/assets/8af5f550-22d4-44b6-aae8-e650796b712f)
 
 #### **2.1.2. Estrategias y tácticas frente a competidores**
 
