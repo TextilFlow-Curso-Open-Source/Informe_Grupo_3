@@ -458,6 +458,34 @@ Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos en
 
 ### **2.4. Ubiquitous Language**
 
+### *Términos relacionados con nuestro servicio:*
+
+- Lote de tela: Unidad del material recibido u enviado, es el objetivo principal de nuestro seguimiento.
+
+- Proveedor: Distribuidor encargado de despachar los lotes.
+
+- Receptor: Taller o empresa que recibe el lote.
+
+- Ficha técnica: Registro que describe las características de nuestro lote. Puede ser el color, tipo de tela, metraje, etc.
+
+- Control de calidad: Proceso de evaluación tanto visual como física de los lotes previo a su uso.
+
+- Tela defectuosa: Material que presenta problemas en su calidad.
+
+### *Términos generales para el proyecto de Open Source:*
+
+- Repositorio: El espacio digital donde se almacena y gestiona el código fuente de nuestro proyecto. Nosotros hacemos uso de GitHub.
+
+- Fork: Copia personal de un repositorio en el cual se pueden hacer cambios sin afectar el original.
+
+- Branch (Rama): Una línea de desarrollo paralelo al principal. Usado principalmente para agregar nuevas funciones o correcciones sin alterar el sistema actual.
+
+- Commit: Registro de cambios especificos hechos al codigo, en conjunto a mensajes explicando en que consiste cada uno.
+
+- Changelog: Registro cronológico de los cambios realizados según la versión del proyecto. Ayuda a no perder la ilación de las actualizaciones hechas a los usuarios.
+
+
+
 <hr>
 
 ## **Capítulo III: Requirements Specification**
