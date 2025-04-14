@@ -175,7 +175,9 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 
 
 #### **1.1.2. Perfiles de Integrantes del Equipo**
-![Image](https://github.com/user-attachments/assets/d307d728-8027-4858-ba5f-ee9edb46258f)
+<p align="center">
+  <img src="images/PerfilM.png" alt="UH" width="1000">
+</p>
 
 
 #### **1.2. Solution Profile**
