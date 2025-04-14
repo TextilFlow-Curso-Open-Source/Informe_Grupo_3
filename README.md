@@ -319,6 +319,93 @@ Este segmento está formado por personas o empresas dedicadas a la venta y distr
 
 #### **2.1.2. Estrategias y tácticas frente a competidores**
 
+En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
+
+---
+
+### Afrontando las fortalezas de nuestros competidores:
+- Plataformas robustas con presencia global y clientes internacionales.
+- Integración avanzada con herramientas de automatización y sistemas ERP.
+- Cobertura de múltiples áreas de la cadena textil, desde producción hasta retail.
+- Implementación de estándares sostenibles y cumplimiento normativo para marcas de gran escala.
+
+Comprendemos que nuestras fortalezas son:
+- Adaptación a la realidad de empresas textiles y distribuidores en Perú.
+- Registro visual y documental del estado de los lotes de tela con evidencia fotográfica.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Brindar una solución centrada en la trazabilidad visual con enfoque accesible y práctico para el contexto latinoamericano.
+
+#### Tácticas
+- Incluir herramientas simples para la carga de fotos, comentarios técnicos, y generación automática de reportes en PDF.
+- Desarrollar una interfaz ágil con flujos claros de ingreso de datos, ideal para operarios y supervisores sin experiencia técnica.
+
+---
+
+### Afrontando las debilidades de nuestros competidores:
+- Altos costos de licenciamiento para pymes textiles o distribuidores locales.
+- Interfaces complejas que requieren capacitación técnica avanzada.
+- Enfoque principal en grandes marcas, sin adaptabilidad a empresas emergentes.
+- Baja presencia o adaptación específica al mercado latinoamericano.
+
+Comprendemos que nuestras debilidades son:
+- Baja visibilidad actual en el mercado frente a empresas consolidadas.
+- Plataforma aún en etapa inicial de validación y desarrollo.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Mantener un enfoque iterativo que permita adaptarse rápidamente al feedback del usuario real en campo.
+
+#### Tácticas
+- Implementar formularios simples de contacto directo y soporte técnico desde la misma plataforma.
+- Publicar actualizaciones frecuentes del sistema en función a las necesidades reales del usuario.
+- Crear una comunidad colaborativa con usuarios que aporten ideas de mejora desde su experiencia en la industria.
+
+---
+
+### Afrontando las oportunidades de nuestros competidores:
+- Creciente digitalización de procesos textiles en Latinoamérica.
+- Mayor interés en la trazabilidad y sostenibilidad por parte de marcas exportadoras.
+- Escasa oferta de herramientas accesibles para talleres o distribuidores pequeños.
+
+Comprendemos que nuestras oportunidades son:
+- Alta demanda de digitalización en procesos de inspección de calidad textil.
+- Oportunidad de crear un estándar digital en Perú de verificación textil.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Desarrollar la plataforma como un producto abierto, escalable y enfocado en calidad y transparencia colaborativa.
+
+#### Tácticas
+- Aplicar pruebas de usabilidad con talleres y distribuidores para perfeccionar la experiencia del usuario.
+- Implementar plantillas preconfiguradas para distintos tipos de tela o defectos comunes.
+- Crear una sección educativa dentro de la plataforma con recursos sobre trazabilidad, control de calidad y exportación textil.
+
+---
+
+### Afrontando las amenazas de nuestros competidores:
+- Aparición de nuevos competidores globales con mayor presupuesto.
+- Preferencia de algunas empresas por soluciones genéricas (ERP, Excel, WhatsApp).
+- Alta informalidad en ciertos sectores del rubro textil que retrasa la digitalización.
+
+Comprendemos que nuestras amenazas son:
+- Dificultad para generar tracción inicial sin inversión fuerte en marketing.
+- Riesgo de ser percibidos como una solución complementaria y no como herramienta clave.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Posicionar a TextilFlow como la herramienta que “evita pérdidas” y “protege relaciones comerciales” mediante evidencia digital.
+
+#### Tácticas
+- Desarrollar campañas de concientización sobre casos reales de reclamos evitados gracias al respaldo fotográfico.
+- Establecer alianzas con gremios textiles, incubadoras universitarias y ferias del sector para facilitar la adopción inicial.
+
+
 ### **2.2. Entrevistas**
 #### La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
 
