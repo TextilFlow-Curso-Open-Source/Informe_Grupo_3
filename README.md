@@ -621,6 +621,45 @@ Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos en
 
 ### **3.2. User Stories**
 
+<div style="display: flex; justify-content: center;">
+  <table style="border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="text-align: center; border: 1px solid black; padding: 8px;">Epic</th>
+        <th style="text-align: center; border: 1px solid black; padding: 8px;">ID</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">Registro y Control de Lotes de Tela</td>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP01</td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">Evaluación de Calidad en Tiempo Real</td>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP02</td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">Reportes y Evidencia Documental</td>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP03</td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">Gestión de Usuarios y Seguridad</td>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP04</td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">Información Pública y Contacto</td>
+        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP05</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p align="center">
+  <img src="" alt="Logo" width="1000">
+</p>
+
+
+
 ### **3.3. Impact Mapping**
 
 ### **3.4. Product Backlog**
