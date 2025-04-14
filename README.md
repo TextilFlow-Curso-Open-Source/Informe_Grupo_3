@@ -654,9 +654,10 @@ Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos en
   </table>
 </div>
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/093f3e26-613e-42ee-8192-3d4d6efe5936" alt="Descripción de la imagen" style="width: 1000; height: auto;">
-</div>
+<p align="center">
+  <img src="" alt="Logo" width="1000">
+</p>
+
 
 
 ### **3.3. Impact Mapping**
