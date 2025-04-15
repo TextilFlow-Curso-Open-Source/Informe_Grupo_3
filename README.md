@@ -528,6 +528,59 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
    Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
 
+   ### Entrevista #2 :
+
+<p align="center">
+  <img src="images/entrevista1_segmento1.png" alt="PB" width="800">
+</p> 
+Duracion(00:05-6:17)min.
+
+### **Características demográficas**
+
+1. **¿Cuál es tu edad?**  
+   Tengo 25 años.
+
+2. **¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?**  
+   Trabajo en Lima, en una fábrica textil que produce telas para confección de ropa deportiva.
+
+
+3. **¿Cuántos años de experiencia tienes trabajando en el rubro textil?**  
+   Tengo 2 años de experiencia, principalmente en almacén y control de calidad.
+
+### **Preguntas Principales**
+
+1. **¿Cómo es el proceso actual cuando llega un nuevo lote de tela a tu empresa?**  
+   Primero recibimos el lote en el almacén, lo descargamos y revisamos que coincida con la guía. Luego hacemos una inspección visual rápida para ver si hay algo evidente como manchas o diferencias de color. A veces pasa al área de calidad para una revisión más técnica, pero no siempre se hace en el momento por falta de tiempo.
+
+2. **¿Tienen un protocolo definido para revisar la calidad de la tela? ¿Quién lo realiza?**  
+   Sí, hay un protocolo, pero en la práctica no se sigue siempre. Lo debe realizar el área de control de calidad, aunque muchas veces los de almacén hacemos una revisión básica si ellos están ocupados.
+
+3. **¿Qué aspectos revisan normalmente en la tela (color, textura, elasticidad, manchas, etc.)?**  
+    Revisamos color, textura, elasticidad, que no tenga manchas, hilos sueltos o diferencias entre rollos. También que el metraje esté correcto.
+
+4. **¿Llevan algún registro de esa revisión? ¿Cómo lo hacen? (Papel, Excel, WhatsApp, etc.)**  
+   Sí, usamos formatos en papel y, en algunos casos, pasamos observaciones por WhatsApp al área de calidad. A veces se lleva en Excel, pero no es constante.
+
+5. **¿Toman fotos o videos como respaldo? ¿Dónde los guardan?**  
+   Sí, fotos principalmente. Las tomamos con el celular y se envían por WhatsApp o se guardan en la galería. No hay una carpeta o sistema específico para organizarlas.
+
+6. **¿Qué pasa si detectan un problema en el lote recibido? ¿Tienen forma de reclamar al proveedor? ¿Cómo lo hacen?**  
+   Se informa al jefe de calidad o al encargado. Ellos contactan al proveedor con las fotos como prueba. A veces el proveedor acepta el reclamo, pero otras veces no, porque dicen que el daño no estaba cuando se envió.
+
+7. **¿Han tenido problemas por haber usado tela en mal estado sin darse cuenta al inicio?**  
+   Sí, varias veces. Ha pasado que se empieza a cortar sin revisar bien, y después aparecen manchas o diferencias de color que afectan la producción. Eso genera pérdida de tiempo y material.
+
+### **Preguntas sobre el Proyecto (Qualyx)**
+
+1. **¿Qué te parecería tener una plataforma donde puedas registrar cada lote de tela que recibes y dejar evidencia visual y escrita de su estado?**  
+   Me parecería muy útil, porque muchas veces la información se pierde o no queda registrada de forma clara. Tener todo en una sola plataforma sería más ordenado y ayudaría en los reclamos.
+
+2. **¿Qué datos crees que serían importantes registrar en la plataforma?**  
+   Tipo de tela, color, proveedor, fecha de recepción, quién recibió, observaciones, fotos, si fue aprobado o no, y algún número de lote o código interno.
+
+3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
+   Sí, definitivamente. Con eso podríamos tener mejor control y hacer seguimiento a los proveedores que entregan con fallas frecuentes. También ayudaría mucho para auditorías.
+
 
 ### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
 ### Entrevista #1 :
