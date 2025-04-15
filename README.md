@@ -180,6 +180,8 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 </p>
 
 
+
+
 #### **1.2. Solution Profile**
 
 #### **1.2.1. Antecedentes y problemática**
