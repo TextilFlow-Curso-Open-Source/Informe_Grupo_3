@@ -186,7 +186,9 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 #### What – ¿Cuál es el problema?
 En el sector textil peruano, especialmente en las pequeñas y medianas empresas, los procesos de recepción de tela y control de calidad aún se realizan de forma manual, lo cual genera una alta tasa de errores e incidencias en la producción. La falta de herramientas digitales para registrar y validar las características técnicas de los insumos impide una trazabilidad efectiva del material, dificultando los reclamos a los proveedores ante defectos (Astete & Dominguez, 2023).
 
-![Image](https://github.com/user-attachments/assets/0e7fccb4-44b1-44a5-8a5c-267bd5b103b9)
+<p align="center">
+  <img src="images/grafico1.png" alt="PB" width="1000">
+</p>
 
 #### When : ¿Cuándo sucede el problema?
 Este problema surge cada vez que una empresa recibe un lote de tela. Si en ese momento crítico no se realiza una evaluación detallada o esta se hace de manera informal, pueden usarse insumos defectuosos en la producción, lo que se traduce en reprocesos, pérdidas económicas y demoras en la entrega final. La falta de estandarización en los procesos genera inconsistencias que afectan directamente la calidad del producto final (Serna, 2024).
@@ -202,7 +204,9 @@ Las empresas textiles que buscan mejorar su gestión de insumos lo harán en ent
 #### How Much : ¿Cuánto cuesta no resolverlo?
 Los costos de no actuar son elevados. Los defectos no detectados a tiempo generan reprocesos que pueden representar pérdidas económicas del 52.6% del total de la producción (Serna, 2024). También se producen conflictos con proveedores por falta de evidencia técnica y se perpetúa la desigualdad digital, ya que las Mypes no acceden a herramientas adaptadas a sus necesidades reales (Astete & Dominguez, 2023, p. 6).
 
-![Image](https://github.com/user-attachments/assets/1a6db8a0-cc6d-48d2-9ec2-206eae6b6f4b)
+<p align="center">
+  <img src="images/grafico2.png" alt="PB" width="1000">
+</p>
 
 
 #### **1.2.2. Lean UX Process**
@@ -290,7 +294,9 @@ Creemos que permitir que las empresas textiles registren el estado de los lotes 
 
 
 #### **1.2.2.4. Lean UX Canvas**
-![Image](https://github.com/user-attachments/assets/38338ee2-8e2b-4931-9c17-5ca93a759c5a)
+<p align="center">
+  <img src="images/leancanvas.png" alt="PB" width="1000">
+</p>
 
 ### **1.3. Segmentos Objetivos**
 
@@ -686,8 +692,14 @@ Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos en
 ### **4.3. Landing Page UI Design**
 
 #### **4.3.1. Landing Page Wireframe**
+<p align="center">
+  <img src="images/wireframe.png" alt="PB" width="1000">
+</p>
 
 #### **4.3.2. Landing Page Mock-up**
+<p align="center">
+  <img src="images/Mockup.png" alt="PB" width="1000">
+</p>
 
 ### **4.4. Web Applications UX/UI Design**
 
@@ -760,6 +772,16 @@ Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos en
 <hr>
 
 ## **Bibliografía**
+
+
+Astete Pascual, L. D., & Dominguez Quiroz, K. T. (2023). Relación entre la innovación en digitalización y el desempeño exportador de las empresas del sector confecciones de punto del clúster de gamarra durante el periodo 2019-2020.https://repositorioacademico.upc.edu.pe/handle/10757/668415 
+
+Barbachán, M. A. (1999). Desempeño de la pequeña y mediana empresa exportadora del sector textil y confecciones en el Perú. Departamento de Empleo y Formación, Oficina Internacional del Trabajo.https://n9.cl/ji3pt 
+
+Burga Spray, R., & Gutiérrez Medina, V. P. (2024). Implementación de modelo para disminuir el nivel de productos defectuosos [Tesis de licenciatura, Universidad Peruana de Ciencias Aplicadas]. Repositorio Académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/68297  
+
+Serna, L., & Isabel, A. (2024). Propuesta de Gestión de Procesos de Producción para mejorar la calidad del producto de una empresa textil peruana.https://titula.universidadeuropea.com/handle/20.500.12880/10986 
+
 
 <hr>
 
