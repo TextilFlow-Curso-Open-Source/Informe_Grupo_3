@@ -179,7 +179,9 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
   <img src="images/PerfilM.png" alt="UH" width="1000">
 </p>
 
-
+<p align="center">
+  <img src="images/PerfilG.png" alt="UH" width="1000">
+</p>git 
 
 
 #### **1.2. Solution Profile**
