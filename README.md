@@ -528,7 +528,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
    Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
 
-   ### Entrevista #2 :
+### Entrevista #2 :
 
 <p align="center">
   <img src="images/entrevista1_segmento1.png" alt="PB" width="800">
@@ -586,31 +586,64 @@ Duracion(00:05-6:17)min.
 ### Entrevista #1 :
 ### **Características demográficas**
 1. **¿Cuál es tu edad?**
-Tengo 28 años.
+    Tengo 28 años.
 2. **¿Tienes tienda física, vendes online o ambos?**
-Tengo un taller en mi casa, donde trabajo con tres personas más. No vendo directamente, trabajo por pedidos para marcas pequeñas o emprendedores.
+    Tengo un taller en mi casa, donde trabajo con tres personas más. No vendo directamente, trabajo por pedidos para marcas pequeñas o emprendedores.
 3. **¿Qué tipo de telas sueles distribuir?**
-Trabajo con algodón, lycra, popelina y últimamente algo de denim para ropa juvenil.
-Preguntas Principales:
+    Trabajo con algodón, lycra, popelina y últimamente algo de denim para ropa juvenil.
+
 ### **Preguntas Principales**
 1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-Cuando llegan las telas al taller, las reviso al tacto y estiro un poco para ver la elasticidad. También veo que el color no varíe entre rollos. Pero no siempre tengo tiempo para revisarlas una por una.
+    Cuando llegan las telas al taller, las reviso al tacto y estiro un poco para ver la elasticidad. También veo que el color no varíe entre rollos. Pero no siempre tengo tiempo para revisarlas una por una.
 2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
-No, nunca. Si algo está mal, lo reclamo verbalmente al proveedor, pero no tengo pruebas. Me ha pasado que me dicen que ya venía así y nadie se hace cargo.
+    No, nunca. Si algo está mal, lo reclamo verbalmente al proveedor, pero no tengo pruebas. Me ha pasado que me dicen que ya venía así y nadie se hace cargo.
 3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
-Sí, varias veces. A veces la tela tiene fallas en el color o se rompe al coser. El problema es que ya está cortada y no hay forma de reclamar. Eso me ha hecho perder clientes y dinero.
+    Sí, varias veces. A veces la tela tiene fallas en el color o se rompe al coser. El problema es que ya está cortada y no hay forma de reclamar. Eso me ha hecho perder clientes y dinero.
 4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-Hago notas a mano y tengo carpetas con pedidos, pero no hay algo unificado. Me pierdo a veces, sobre todo cuando tengo pedidos urgentes o simultáneos.
+    Hago notas a mano y tengo carpetas con pedidos, pero no hay algo unificado. Me pierdo a veces, sobre todo cuando tengo pedidos urgentes o simultáneos.
 5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-Solo si el cliente es nuevo o me ha reclamado antes. No tengo costumbre de documentar todo porque es muy tedioso con el celular.
+    Solo si el cliente es nuevo o me ha reclamado antes. No tengo costumbre de documentar todo porque es muy tedioso con el celular.
 ### **Preguntas sobre el Proyecto (Qualyx)**
 1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-Me encantaría. Podría revisar cómo llegó cada rollo de tela y tener fotos antes de cortar. También podría mostrarle al proveedor si algo viene mal.
+    Me encantaría. Podría revisar cómo llegó cada rollo de tela y tener fotos antes de cortar. También podría mostrarle al proveedor si algo viene mal.
 2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-Sí, sobre todo cuando tengo varios pedidos seguidos. Me ayudaría a evitar errores como entregar la prenda equivocada o usar una tela que no era.
+    Sí, sobre todo cuando tengo varios pedidos seguidos. Me ayudaría a evitar errores como entregar la prenda equivocada o usar una tela que no era.
 3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
-Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos entendidos. Todos ven lo mismo, y queda como evidencia de lo que se hizo.
+    Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos entendidos. Todos ven lo mismo, y queda como evidencia de lo que se hizo.
 
+### Entrevista #2 :
+
+<p align="center">
+  <img src="images/entrevista2_segmento2.png" alt="PB" width="800">
+</p> 
+Duracion(00:02-5:15)min.
+
+### **Características demográficas**
+1. **¿Cuál es tu edad?**
+    Tengo 20 años.
+2. **¿Tienes tienda física, vendes online o ambos?**
+    Una tienda física en Gamarra, pero también vendo por redes sociales y WhatsApp a talleres de confección en Lima y provincias.
+3. **¿Qué tipo de telas sueles distribuir?**
+    Principalmente telas planas y de punto: franela, jersey, popelina, algodón licrado y algunas telas sintéticas para ropa juvenil.
+
+### **Preguntas Principales**
+1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
+    Normalmente reviso el lote cuando llega del proveedor mayorista. Veo que no tenga manchas, que el color esté parejo y que el metraje esté correcto. Si el cliente es exigente, reviso con más detalle antes del envío.
+2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
+    La verdad, no siempre. A veces tomo fotos si es un cliente nuevo o complicado, pero la mayoría de veces solo confían en lo que les mando. Si me reclaman, tengo que revisar el rollo o hablar con el proveedor, pero sin evidencia es difícil.
+3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
+    Sí, claro. Me ha pasado que me reclaman por manchas o por diferencia de tono. Algunos clientes piensan que yo les mandé mal la tela, cuando en realidad vino así del mayorista. A veces lo resuelvo cambiando el rollo, otras veces pierdo el cliente.
+4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
+    Manejamos un Excel básico con el tipo de tela, cantidad y nombre del cliente. No siempre apunto el número de lote porque muchos no vienen etiquetados.
+5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
+    Sí, trato de tomar una o dos fotos por cada rollo, pero las tengo en el celular mezcladas con otras cosas. A veces se me olvidan o no las encuentro después.
+### **Preguntas sobre el Proyecto (Qualyx)**
+1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
+    Me parecería súper útil, especialmente para evitar malentendidos. Así puedo mostrar que la tela salió bien y el cliente también tiene cómo verificar. 
+2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
+    Sí, bastante. Así tengo un respaldo de lo que ya envié, a quién, en qué condiciones, y puedo revisar rápido si me reclaman algo.
+3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
+    Sí, totalmente. Así no hay confusión. Si los dos vemos lo mismo, se evitan discusiones. Incluso sería bueno que el cliente pueda confirmar o dejar un comentario después de recibir.
 
 
 #### **2.2.3. Análisis de entrevistas**
