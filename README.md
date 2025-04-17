@@ -775,6 +775,26 @@ Los íconos también respetan la línea gráfica de **TextilFlow**, facilitando 
 
 #### **4.2.3. SEO Tags and Meta Tags**
 
+Para garantizar que **TextilFlow** sea indexado correctamente por los motores de búsqueda y captar clientes potenciales desde las primeras interacciones, se establecerán las siguientes etiquetas meta en la landing page:
+
+```html
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="index, follow" />
+<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" />
+<title>TextilFlow | Control de calidad textil eficiente</title>
+<meta
+  name="keywords"
+  content="control de calidad textil, trazabilidad textil, inspección de telas, distribución de textiles, lotes textiles, gestión de calidad"
+/>
+<meta
+  name="description"
+  content="TextilFlow es la plataforma que permite documentar, validar y respaldar la calidad de lotes de tela de forma visual y segura, evitando reclamos y fortaleciendo la confianza con tus clientes."
+/>
+<meta name="author" content="Equipo TextilFlow" />
+<meta name="copyright" content="© TextilFlow 2025" />
+
 #### **4.2.4. Searching Systems**
 
 #### **4.2.5. Navigation Systems**
