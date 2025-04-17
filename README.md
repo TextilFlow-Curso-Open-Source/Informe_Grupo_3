@@ -775,25 +775,46 @@ Los íconos también respetan la línea gráfica de **TextilFlow**, facilitando 
 
 #### **4.2.3. SEO Tags and Meta Tags**
 
-Para garantizar que **TextilFlow** sea indexado correctamente por los motores de búsqueda y captar clientes potenciales desde las primeras interacciones, se establecerán las siguientes etiquetas meta en la landing page:
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, pero son leídas por los navegadores o rastreadores web. Las metas etiquetas facilitan el análisis de archivos HTML y permiten un mejor mantenimiento del contenido del archivo. Además, estas etiquetas son fundamentales para el posicionamiento de nuestra página web en los buscadores.
+
+**Las metas etiquetas que usaremos son:**
+
+**Título:**  
+Esta etiqueta es una de las más importantes y por lo general se coloca antes que cualquier otra metaetiqueta. Es utilizada o leída por todos los motores de búsqueda como encabezado en las páginas de resultados de búsqueda (SERP).
 
 ```html
-<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="robots" content="index, follow" />
-<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" />
-<title>TextilFlow | Control de calidad textil eficiente</title>
-<meta
-  name="keywords"
-  content="control de calidad textil, trazabilidad textil, inspección de telas, distribución de textiles, lotes textiles, gestión de calidad"
-/>
-<meta
-  name="description"
-  content="TextilFlow es la plataforma que permite documentar, validar y respaldar la calidad de lotes de tela de forma visual y segura, evitando reclamos y fortaleciendo la confianza con tus clientes."
-/>
-<meta name="author" content="Equipo TextilFlow" />
-<meta name="copyright" content="© TextilFlow 2025" />
+<title>Optimiza la calidad textil con TextilFlow</title>
+```
+**Codificación de caracteres:**
+
+Esta etiqueta permite que los navegadores muestren correctamente los caracteres especiales en la página.
+
+```html
+<meta charset="UTF-8">
+```
+**Descripción:**
+
+Esta metaetiqueta proporciona un resumen del contenido de la página web. Aquí debemos dar una breve información sobre lo que se puede visualizar en la página.
+
+```html
+<meta name="description" content="TextilFlow es una plataforma web creada para ayudarte a llevar un control detallado y visual de los lotes de la tela que entregas o recibes en tu empresa textil.Con esta herramienta, puedes registrar observaciones,subir fotos de evidencia y generar reportes de calidad con pocos clicks">
+```
+**Palabras clave:**
+
+En esta etiqueta se colocan las palabras clave relacionadas con el contenido de la página web.
+
+```html
+<meta name="keywords" content="control de calidad textil, gestión de lotes, trazabilidad textil, inspección de tela, calidad de producción, textil peruano">
+```
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+```html
+
+<meta name="author" content="Equipo TextilFlow">
+<meta name="copyright" content="© TextilFlow 2025">
+```
 
 #### **4.2.4. Searching Systems**
 
