@@ -767,6 +767,12 @@ Duracion(00:02-5:15)min.
 
 #### **4.2.2. Labeling Systems**
 
+Para el contenido de **TextilFlow**, se prioriza una redacción clara y concisa, con textos reducidos que permitan una lectura rápida y comprensión efectiva por parte de los usuarios.
+
+En cuanto al diseño de botones, se utiliza un estilo minimalista, con bordes redondeados y colores definidos por el sistema de diseño de la marca.
+
+Los íconos también respetan la línea gráfica de **TextilFlow**, facilitando la navegación y comprensión visual de las acciones dentro de la plataforma.
+
 #### **4.2.3. SEO Tags and Meta Tags**
 
 #### **4.2.4. Searching Systems**
