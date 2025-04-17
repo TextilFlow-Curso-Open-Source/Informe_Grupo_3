@@ -824,6 +824,12 @@ Los usuarios podrán buscar por número de lote, tipo de tela, cliente y fecha d
 
 #### **4.2.5. Navigation Systems**
 
+En la landing page, el sistema de navegación se ubica en la parte superior de la interfaz (header) y permite al usuario desplazarse hacia las secciones principales de manera intuitiva.
+
+En la aplicación web, se utiliza un sidebar que facilita la navegación por las funciones principales, manteniendo siempre visibles las etiquetas textuales para identificar cada sección. Esto asegura que el usuario pueda recorrer los módulos de control, trazabilidad y reportes de calidad de manera eficiente.
+
+Los encabezados y labels presentes en las pantallas informan claramente sobre el contenido que visualizará el usuario al acceder a cada sección, garantizando una experiencia fluida y coherente.
+
 ### **4.3. Landing Page UI Design**
 
 #### **4.3.1. Landing Page Wireframe**
