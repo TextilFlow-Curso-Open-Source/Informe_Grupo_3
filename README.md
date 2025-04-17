@@ -818,6 +818,10 @@ Se utiliza para registrar la información del autor de la página web y la propi
 
 #### **4.2.4. Searching Systems**
 
+El sistema de búsqueda de TextilFlow permitirá a los usuarios localizar información clave de forma rápida y eficiente. Se integrarán filtros avanzados para facilitar la gestión y localización de lotes de tela, tanto en el histórico como en la vista de control de calidad.
+
+Los usuarios podrán buscar por número de lote, tipo de tela, cliente y fecha de registro, permitiendo una gestión clara y estructurada de la información.
+
 #### **4.2.5. Navigation Systems**
 
 ### **4.3. Landing Page UI Design**
