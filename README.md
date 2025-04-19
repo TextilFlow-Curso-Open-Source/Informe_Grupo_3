@@ -666,6 +666,18 @@ Duracion(00:02-5:15)min.
 
 #### **2.3.4. Empathy Mapping**
 
+### Usuario 1: Cecilia Huaman
+
+
+<p align="center">
+  <img src="images/Empathy1.jpg" alt="PB" width="800">
+</p> 
+
+### Usuario 2: Miguel Sanchez
+
+<p align="center">
+  <img src="images/Empathy2.jpg" alt="PB" width="800">
+</p> 
 #### **2.3.5. As-is Scenario Mapping**
 
 ### **2.4. Ubiquitous Language**
