@@ -666,7 +666,35 @@ Duracion(00:02-5:15)min.
 
 #### **2.3.4. Empathy Mapping**
 
+### Usuario 1: Cecilia Huaman
+
+
+<p align="center">
+  <img src="images/Empathy1.png" alt="PB" width="800">
+</p> 
+
+### Usuario 2: Miguel Sanchez
+
+<p align="center">
+  <img src="images/Empathy2.png" alt="PB" width="800">
+</p> 
+
 #### **2.3.5. As-is Scenario Mapping**
+
+#### En esta seccion se presentara los As-is Scenario Mapping para cada segmento objetivo.
+
+### As-is Scenario Mapping de Empresarios
+
+<p align="center">
+  <img src="images/As-is User 1.png" alt="PB" width="800">
+</p> 
+
+### As-is Scenario Mapping de Distribuidores de Telas
+
+<p align="center">
+  <img src="images/As-is User 2.png" alt="PB" width="800">
+</p> 
+
 
 ### **2.4. Ubiquitous Language**
 
@@ -703,6 +731,20 @@ Duracion(00:02-5:15)min.
 ## **Capítulo III: Requirements Specification**
 
 ### **3.1. To-Be Scenario Mapping**
+
+#### En esta seccion se presentara el To - be Scenario Mapping para cada segmento objetivo, aqui se hara analisis si se resuelve el dolor del usuario y garantizar su experiencia ideal.
+
+### To-be Scenario Mapping de Empresarios
+
+<p align="center">
+  <img src="images/To - be User 1.png" alt="PB" width="800">
+</p> 
+
+### To-be Scenario Mapping de Distribuidores de Telas
+
+<p align="center">
+  <img src="images/To - be User 2.png" alt="PB" width="800">
+</p> 
 
 ### **3.2. User Stories**
 
