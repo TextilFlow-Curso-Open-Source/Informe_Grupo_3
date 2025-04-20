@@ -652,17 +652,25 @@ Duracion(00:02-5:15)min.
 
 #### **2.3.1. User Personas**
 
-![Image](https://github.com/user-attachments/assets/9a90d4f2-9fb9-45d5-ab55-5dcb5fbadc34)
+<p align="center">
+  <img src="images/UserPersona1.png" alt="PB" width="800">
+</p> 
 
-![Image](https://github.com/user-attachments/assets/3c6e8792-5dfb-4688-8256-510f309c9ada)
+<p align="center">
+  <img src="images/UserPersona2.png" alt="PB" width="800">
+</p> 
+
 #### **2.3.2. User Task Matrix**
 
-![Image](https://github.com/user-attachments/assets/19df465d-4d18-4900-b704-83cd4d664284)
+<p align="center">
+  <img src="images/TaskMatrix.png" alt="PB" width="800">
+</p> 
 
 #### **2.3.3. User Journey Mapping**
-![Image](https://github.com/user-attachments/assets/946d18cc-c632-45c8-8796-ffa568e5881e)
 
-![Image](https://github.com/user-attachments/assets/eb660a9b-852e-4787-9c68-a76f7ce6e966)
+<p align="center">
+  <img src="images/UserJourneyMapping.png" alt="PB" width="800">
+</p> 
 
 #### **2.3.4. Empathy Mapping**
 
