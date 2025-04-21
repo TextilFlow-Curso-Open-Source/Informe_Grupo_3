@@ -23,10 +23,6 @@
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Steven Mathew Roca Tineo</td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311361</td>
   </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Naim Farid Napuri Rojas</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202319146</td>
-  </tr>
   </tr>
     <tr>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Maylhy Olinda Gutierrez Condo</td>
