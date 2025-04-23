@@ -791,6 +791,18 @@ Duracion(00:02-5:15)min.
 
 ### **3.3. Impact Mapping**
 
+Usuario empresario
+
+<p align="center">
+  <img src="images/Impact map 1.png" alt="UH" width="1000">
+</p>
+
+Usuario distribuidor
+
+<p align="center">
+  <img src="images/Impact map 2.png" alt="UH" width="1000">
+</p>
+
 ### **3.4. Product Backlog**
 
 <p align="center">
