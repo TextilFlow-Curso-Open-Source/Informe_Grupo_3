@@ -817,11 +817,66 @@ Usuario distribuidor
 
 #### **4.1.1. General Style Guidelines**
 
+En esta seccion como grupo hemos decidido establecer ciertas directrices de estilo para garantizar la coherencia visual y de comunicacion en la aplicacion. Establecimos aspectos clave, relacionados con: Branding, Typography, Spacing System and Colors. 
+
+### *Branding:* 
+Nuestro logotipo esta compuesto por una bola de estambre rodeada por el nombre de nuestra start up (TextilFlow). La bola de estambre representando al hilo que es un compuesto del que estan hechos muchos tipos de telas.
+
+<p align="center">
+  <img src="images/LogoTextilFLow.png" width="200">
+</p>
+
+
+### *Typography:*
+Para TextilFlow, decidimos usar dos fuentes: 
+
+* Manrope: Para los titulos y subtitulos en pesos *bold* y *semibold* respectivamente para cada una.
+
+<p align="center">
+  <img src="images/Manrope.png" width="500" height="300">
+</p>
+
+* Lato: Para el texto de los parrafos, en peso *regular*, permitiendo al usuario una lectura comoda.
+
+<p align="center">
+  <img src="images/Lato.jpg" width="500" height="300">
+</p>
+
+### *Spacing:* 
+Para nuestro espaciado, nos basamos en lo recomendado para el diseño de interfaces. 
+
+
+
+### *Colors:*
+Hemos decidido por colores que dan el ambiente de trabajo en una empresa textil, tonalidades marrones como #2A1905 y #866C52 combinadas con un fonde en su mayoria blanca #FFFFFF y con tonalides grises #E8E2E2 respectivamente. Para el texto decidimos por dejarlo en negro #000000.
+
+<p align="center">
+  <img src="images/PaletaColoresLP.png" width="500" height="200">
+</p>
+
 #### **4.1.2. Web Style Guidelines**
+
+**Diseño minimalista industrial y profesional:**
+TextilFlow adopta un enfoque visual limpio y funcional, combinando elementos minimalistas con una estética sobria que refleja profesionalismo, precisión y tecnología enfocada al sector textil. Se prioriza la claridad del contenido y la facilidad de navegación, evitando saturar al usuario con información innecesaria.
+
+**Imagenes ilustrativas:** 
+Se opta por imágenes reales de maquinaria, telares y procesos textiles para generar confianza, mostrar profesionalismo y reflejar el contexto de uso.
+
+**Navegacion y Estructura UX:**
+Menú fijo superior con botones clave: Producto, Nosotros, Planes, Registro, Iniciar Sesión.
+
+Flujo claro: Inicio ➝ Valor ➝ Planes ➝ FAQ ➝ Contacto.
+
+Llamados a la acción visibles: “Conoce más”, “Ver cómo funciona”, “Enviar”.
+
+**Contraste y accesibilidad:**
+Se respetan los principios de alto contraste visual para mejorar la legibilidad (texto oscuro sobre fondos claros y viceversa).
 
 ### **4.2. Information Architecture**
 
 #### **4.2.1. Organization Systems**
+
+En lo que respecta a la organizacion de nuestro contenido, nos decidimos por un modelo jerarquico, donde los textos mas grandes indicaran la informacion de importancia encontrada en cada seccion (Producto, Quienes somos, Contacto, Registro, Planes). 
 
 #### **4.2.2. Labeling Systems**
 
