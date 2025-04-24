@@ -171,13 +171,18 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 
 
 #### **1.1.2. Perfiles de Integrantes del Equipo**
+
+<p align="center">
+  <img src="images/PerfilMtt.png" alt="UH" width="1000">
+</p>
+
 <p align="center">
   <img src="images/PerfilM.png" alt="UH" width="1000">
 </p>
 
 <p align="center">
   <img src="images/PerfilG.png" alt="UH" width="1000">
-</p>git 
+</p> 
 
 
 #### **1.2. Solution Profile**
@@ -641,6 +646,39 @@ Duracion(00:02-5:15)min.
 3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
     Sí, totalmente. Así no hay confusión. Si los dos vemos lo mismo, se evitan discusiones. Incluso sería bueno que el cliente pueda confirmar o dejar un comentario después de recibir.
 
+### Entrevista #3 :
+
+<p align="center">
+  <img src="images/entrevista3_segmento2.png" alt="PB" width="800">
+</p> 
+Duracion(22:19-26:35)min.
+
+### **Características demográficas**
+1. **¿Cuál es tu edad?**
+ Tengo 22 años.
+2. **¿Tienes tienda física, vendes online o ambos?**
+ Tengo una tienda física en Gamarra, pero también vendo por WhatsApp y redes sociales.
+3. **¿Qué tipo de telas sueles distribuir?**
+ Principalmente algodón licrado, denim y telas sintéticas para ropa deportiva.
+
+### **Preguntas Principales**
+1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
+ Normalmente revisamos visualmente cada rollo. Vemos si hay manchas, cambios de color o si el estiramiento es el adecuado. A veces usamos una lámpara para ver imperfecciones.
+2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
+ No formalmente. A veces les mando fotos por WhatsApp antes de despachar, pero no siempre lo hacemos. Es más por confianza.
+3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
+ Sí, una vez me dijeron que un lote tenía un tono ligeramente distinto. Yo juraría que estaba bien cuando salió, pero como no tenía prueba, asumí la devolución. Perdí plata ahí.
+4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
+ Solo un cuaderno con anotaciones. A veces uso Excel, pero no siempre lo actualizo.
+5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
+ Como te decía, a veces tomamos fotos si vemos algo que podría causar dudas, pero no es un proceso fijo.
+### **Preguntas sobre el Proyecto (Qualyx)**
+1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
+ Me parece excelente. Eso me ayudaría mucho, sobre todo con clientes nuevos o exigentes. Tendría respaldo.
+2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
+ Claro que sí. Así puedo saber qué le mandé antes, qué reclamos hubo y tener todo más ordenado.
+3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
+ Sí, sería ideal. Así no hay malentendidos. Yo subo fotos, el cliente las ve y queda constancia para ambos.
 
 #### **2.2.3. Análisis de entrevistas**
 
