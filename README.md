@@ -1088,9 +1088,23 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.6.1. Software Architecture Context Diagrams**
 
+<p align="center">
+  <img src="images/SAContextDiagram.png" alt="PB" width="1000">
+</p>
+
 #### **4.6.2. Software Architecture Container Diagrams**
 
+<p align="center">
+  <img src="images/SAContainersDiagram.png" alt="PB" width="1000">
+</p>
+
 #### **4.6.3. Software Architecture Components Diagrams**
+
+## **Usuarios bounded context**
+
+<p align="center">
+  <img src="images/SAComponentsDiagram.png" alt="PB" width="1000">
+</p>
 
 ### **4.7. Software Object-Oriented Design**
 
@@ -1098,6 +1112,7 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 <p align="center">
   <img src="images/classDiagram.png" alt="PB" width="1000">
 </p>
+
 #### **4.7.2. Class Dictionary**
 
 ### **4.8. Database Design**
