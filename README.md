@@ -805,6 +805,8 @@ Usuario distribuidor
 
 ### **3.4. Product Backlog**
 
+[Product Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
+
 <p align="center">
   <img src="images/PB.png" alt="PB" width="1000">
 </p>
