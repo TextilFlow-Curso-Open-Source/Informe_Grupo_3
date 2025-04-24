@@ -975,13 +975,119 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 ### **5.1. Software Configuration Management**
 
+En este apartado detallaremos la configuracion de nuestro entorno de desarrollo, la gestion del codigo fuente, las convenciones de estilo y el proceso para desplegar nuestro sistema web de evaluacion y guardado de lotes de telas.
+
 #### **5.1.1. Software Development Environment Configuration**
+
+**Diseño UX-UI:** Aqui nos centramos en la creacion de las interfaces, procurando que sean amigables e intuitivas para el usu, considerando todo lo que ellos deberian tener a disposicion. Las herramientas que intervinieron en este proceso fueron: 
+
+* Figma: Nos permite crear wireframes, mockups y prototipos de aplicaciones en forma creativa y colaborativa. 
+
+**Desarrollo del Software:** Para todo nuestro proceso con el software, usamos las siguientes herramientas:
+
+* **Github:** Usando Github, creamos y manejamos el repositorio donde alojamos nuestro proyecto y gestionamos distintas versiones de este. Junto la herramienta Git controlamos el flujo de nuestro desarrollo trabajando con ramas (branches).
+
+* **UxPressia:** Usamos esta herramienta para la elaboracion de los User Personas, el Customer Journey Map, los Empathy Maps y el Impact Mapping.
+
+* **Miro:** Empleado para los Scenario Mapping de ambos segmentos.
+
+* **LucidChart:** Pagina que usamos para elaborar los diagramas UML y de flujo, para asi representar de forma visual el desarrollo de los procesos en el proyecto.
+
+* **Trello:** Herramienta en la cual incorporamos nuestro Product Backlog y el nicel de importancia segun el core de nuestro producto.
+
+* **Structurizr:** Herramienta en la que aplicamos el DDD y creamos los diagramas de Contexto, Contenedores y los Bounded Context Diagrams de TextilFlow.
+
+* **Discord:** Aplicacion que nos ayudo a nuestra comunicacion y intercambio de ideas. La usamos para reuniones clave decidiendo el rumbo del proyecto y separacion de labores individuales.
 
 #### **5.1.2. Source Code Management**
 
+Para el desarrollo de este proyecto es fundamental un flujo y gestio eficiente del trabajo. Nosotros empleamos Git como herramienta por su manejo de versiones y su flajo en ramas (branches). Reunimos todo nuestro proyecto en un repositorio que creamos en GitHub.
+
+Nuestra organizacion: https://github.com/TextilFlow-Curso-Open-Source
+
+Repositorio: Landing Page: https://github.com/TextilFlow-Curso-Open-Source/Landing-Page-TextilFlow.git
+
+En lo que corresponde a como llevamos a cabo el proyecto, establecimos un modelo de ramas en GitFlow
+
+* Ramas Principales:
+
+*main*: La rama principal, aqui se encontrara la ultima version del codigo una vez completado el proceso de produccion. 
+
+*develop*: Rama de desarrollo, antes de enviar los cambios a la rama *main* se validan aqui todas las actualizaciones, correcciones o cambios realizados antes de llevarlo a produccion.
+
+* Ramas auxiliares: 
+
+*feature/feature_name*: Ramas creadas para trabajar los requirements asignados sin afectar el flujo de los demas. Una vez terminado el requirement, se uniran los cambios a la rama de desarrollo o *develop*. Al momento de nombrarlas, se pondra un nombre haciendo referencia al requirement realizado. 
+
+#### Convenciones para los "commits"
+
+Para mantener un historial de cambios simple y de facil identificacion, adoptamos la convencion basada en la estructura de "Conventional Commits". De esta forma, nos es mas sencillo el seguimiento en el desarrollo y analizar todos los cambios que se realizan.
+
+```html
+<type>(scope): <description>
+```
+
+*Ejemplo: feat: adding user stories*
+
+#### Donde:
+
+* **type:** Es un campo obligatorio. En este apartado se especifica el tipo de cambio realizado. Los tipos de commits pueden ser los siguientes:
+
+feat: Para introducir una nueva funcionalidad al código fuente.
+
+fix: Para arreglar algun tipo de error del código fuente.
+
+style: Agrega cambios de estilo al producto, en este caso los archivos CSS.
+
+refactor: Agrega mejoras del código fuente, mas no agrega funcionalidad. Podrian ser arreglar fallas gramaticales o uso de mejores practicas.
+
+docs: Cuando se realizan cambios en la documentacion del proyecto. No afecta en nada a las funcionalidades del proyecto.
+
+build: Cambios en la configuración del proyecto, tales como cambiar, agregar o eliminar dependencias del proyecto.
+
+* **scope:** Un campo opcional. Indica el alcance de impacto que tiene el commit. En este caso pondremos los identificadores de las user stories o requirements.
+* **description:** Es un campo obligatorio. Un breve resumen del commit. Se escribirá en inglés y debe iniciar con un verbo en infinitivo.
+
 #### **5.1.3. Source Code Style Guide & Conventions**
 
+En esta seccion se procedera a explicar a detalle las nomenclaturas de los siguientes lenguajes de programacion y frameworks a emplear.
+
+* HTML
+1. Los nombres de las etiquetas deben estar en lowercase (o minuscula).
+2. Todas las etiquetas deben estar cerradas.
+Los atributos de las etiquetas deben estar en lowercase (o minúscula).
+3. Los valores de los atributos deben estar encerrados en comillas dobles.
+4. Las imágenes tienen que tener los atributos *alt*, *width* y *height* por motivos de ajuste y rendimiento.
+5. No agregar líneas en blanco o espacios sin motivo.
+* CSS
+1. Usar nombres específicos o generales para identificar las clases.
+2. Acortar nombre de las clases sin perder el mensaje.
+3. Para separar las palabras en un nombre de clase se usara “-”.
+4. Evitar selectores de ID.
+5. Usar valores abreviados para las propiedades.
+6. Evitar usar la declaración !important.
+* JavaScript
+1. No usar la palabra reservada var. En vez de eso usar const y let.
+2. Usar camelCase para el nombramiento de variables y funciones.
+3. Usar PascalCase para nombrar clases.
+4. Usar UPPERCASE para nombrar constantes.
+5. No usar el constructor Array para la creación de arreglos.
+6. Uso del Rest Operator
+7. Uso del Spread Operator
+* Angular
+1. Usa una estructura modular desde el inicio (feature modules).
+2. Cada feature debe ir en su propio subdirectorio.
+3. Agrupa archivos por feature, no por tipo de archivo.
+* Gherkin
+1. Las especificaciones deben de ser claras y legibles.
+2. No usar terminologías técnicas para que no exista dificultad de comprension por parte de los colaboradores.
+3. Usar las palabras claves Given, When, Then, And y But para describir el comportamiento del sistema.
+4. Evitar redundancias en las descripciones de los escenarios.
+
+
 #### **5.1.4. Software Deployment Configuration**
+
+#### Para el despliegue de nuestra Landing Page 
 
 ### **5.2. Landing Page, Services & Applications Implementation**
 
@@ -1020,6 +1126,17 @@ Burga Spray, R., & Gutiérrez Medina, V. P. (2024). Implementación de modelo pa
 
 Serna, L., & Isabel, A. (2024). Propuesta de Gestión de Procesos de Producción para mejorar la calidad del producto de una empresa textil peruana.https://titula.universidadeuropea.com/handle/20.500.12880/10986 
 
+Gherkin Conventions for Readable Specifications
+https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+Angular coding style guide
+https://angular.io/guide/styleguide
+
+Google Java Style Guide
+https://google.github.io/styleguide/javaguide.html
+
+Google TypeScript Style Guide
+https://google.github.io/styleguide/tsguide.html
 
 <hr>
 
