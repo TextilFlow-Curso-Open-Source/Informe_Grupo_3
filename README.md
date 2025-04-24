@@ -961,9 +961,124 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.4.2. Web Applications Wireflow Diagrams**
 
+[Wireflows de TextilFlow en Overflow](https://overflow.io/s/DU68QJ8F)
+
+## **User Goal 1: Inicio de sesión y acceso al sistema**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la página de bienvenida de TextilFlow donde se le presentan las opciones para registrarse o iniciar sesión. Al seleccionar iniciar sesión, el usuario debe ingresar sus credenciales (correo y contraseña). Tras validar sus datos, el sistema muestra la pantalla de selección de rol donde el usuario puede elegir entre "Empresa" o "Distribuidor". Dependiendo de su selección, el sistema lo redirige al dashboard correspondiente que muestra información relevante según el rol seleccionado, mostrando información de los lotes por enviar, enviados o confirmados, junto con notificaciones recientes.
+
+<p align="center">
+  <img src="images/Wireflow1.png" alt="PB" width="1000">
+</p>
+
+
+## **User Goal 2: Gestión de lotes y visualización de detalle**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** Desde el dashboard principal, el usuario puede visualizar los diferentes estados de los lotes (por enviar, enviados, confirmados o rechazados) con contadores que indican la cantidad en cada categoría. Al hacer clic en "Ver detalles" de cualquier categoría, el sistema muestra una tabla completa con todos los lotes correspondientes a ese estado. Esta tabla incluye información como código, cliente, tipo de tela, fecha, estado y opciones para filtrar o buscar. El usuario puede seleccionar un lote específico para ver información más detallada o realizar acciones adicionales según su rol en el sistema.
+
+<p align="center">
+  <img src="images/Wireflow2.png" alt="PB" width="1000">
+</p>
+
+## **User Goal 3: Visualización y filtrado de observaciones**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la sección de "Observaciones Enviadas" desde el menú lateral. El sistema muestra una tabla con todas las observaciones registradas, incluyendo información como el lote relacionado, fecha, motivo, evidencia adjunta y estado actual (pendiente, visto, rechazado, confirmado). El usuario puede utilizar las opciones de filtrado ubicadas en la parte superior para refinar la lista según diferentes criterios. Al seleccionar una observación específica, puede ver más detalles o realizar acciones como editar o eliminar, dependiendo del estado actual de la observación.
+
+<p align="center">
+  <img src="images/Wireflow3.png" alt="PB" width="1000">
+</p>
+
+## **User Goal 4: Gestión de suscripción y planes**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la sección "Planes y suscripción" desde el menú lateral. El sistema muestra los planes disponibles: Plan Básico ($9.99) y Plan Corporativo ($49.99), detallando los beneficios de cada uno. Cada plan incluye información sobre número de lotes permitidos, acceso a estadísticas y funcionalidades adicionales. El usuario puede comparar los planes y seleccionar el que mejor se adapte a sus necesidades haciendo clic en "Cambiar" para el plan básico o "Ir al Plan" para el corporativo. El sistema confirma la selección y actualiza la cuenta con los beneficios correspondientes.
+
+<p align="center">
+  <img src="images/Wireflow4.png" alt="PB" width="1000">
+</p>
+
+## **User Goal 5: Configuración de la aplicación y perfil**
+
+**User Persona:**  Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a las opciones de configuración a través del menú lateral. Desde aquí, puede personalizar su experiencia en la plataforma ajustando preferencias como el modo de visualización (claro/oscuro) y la información de su perfil. Al seleccionar "Mi perfil", el sistema muestra un formulario con los datos actuales del usuario, permitiéndole editar su nombre, correo electrónico y foto/logo de la empresa. Tras realizar los cambios deseados, el usuario guarda la información actualizada mediante el botón correspondiente. Adicionalmente, en esta sección el usuario puede configurar preferencias específicas como la generación automática o manual de códigos para lotes y otros ajustes que personalicen su experiencia en TextilFlow según sus necesidades operativas.
+
+<p align="center">
+  <img src="images/Wireflow5.png" alt="PB" width="1000">
+</p>
+
 #### **4.4.3. Web Applications Mock-ups**
 
 #### **4.4.4. Web Applications User Flow Diagrams**
+
+[User Flow Diagrams de TextilFlow en Overflow](https://overflow.io/s/ABWJ05M8)
+
+## **1\. User Goal: Acceso e inicio de sesión en la plataforma**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** El usuario ingresa a la plataforma TextilFlow a través de la pantalla de bienvenida. En esta primera pantalla, puede elegir entre registrarse como nuevo usuario o iniciar sesión con credenciales existentes. Al seleccionar iniciar sesión, debe ingresar su correo electrónico y contraseña. Una vez validados los datos, el sistema lo dirige a la pantalla de selección de rol, donde debe indicar si actuará como "Empresa" o "Distribuidor". Dependiendo de la selección, el sistema redirige al usuario al dashboard correspondiente, mostrando información relevante según su rol, incluyendo contadores de lotes en diferentes estados (por enviar, enviados, confirmados) y las notificaciones recientes que requieren su atención.
+
+<p align="center">
+  <img src="images/Userflow1.png" alt="PB" width="1000">
+</p>
+
+## **2\. User Goal: Gestión de suscripción y planes**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** El usuario, desde su dashboard principal, accede a la sección de "Planes y suscripción" a través del menú lateral. El sistema muestra una comparativa entre los dos planes disponibles: Plan Básico ($9.99/mes) y Plan Corporativo ($49.99/mes). Cada plan presenta sus beneficios específicos, como límites de lotes, acceso a estadísticas, y funcionalidades adicionales. El usuario puede analizar las diferencias entre ambos planes y seleccionar el que mejor se adapte a sus necesidades haciendo clic en "Cambiar" para el plan básico o "Ir al Plan" para el corporativo. Al confirmar su elección, el sistema actualiza la suscripción y aplica inmediatamente los beneficios correspondientes al plan seleccionado.
+
+<p align="center">
+  <img src="images/Userflow2.png" alt="PB" width="1000">
+</p>
+
+## **3\. User Goal: Visualización y gestión de lotes**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** Desde el dashboard, el usuario puede ver un resumen de sus lotes clasificados por estado. Al hacer clic en "Ver detalles" de cualquier categoría, el sistema muestra una tabla completa con todos los lotes correspondientes. Esta tabla incluye columnas para código, cliente, tipo de tela, fecha, estado y opciones adicionales. El usuario puede filtrar y ordenar la información según diferentes criterios para encontrar rápidamente lo que busca. Al seleccionar un lote específico, puede ver información más detallada o realizar acciones adicionales como editar, descargar reportes o registrar observaciones. La interfaz permite navegar entre diferentes vistas de lotes según sus estados (enviados, recibidos, confirmados, rechazados) manteniendo una experiencia coherente.
+
+<p align="center">
+  <img src="images/Userflow3.png" alt="PB" width="1000">
+</p>
+
+## **4\. User Goal: Registro y envío de nuevos lotes**
+
+**User Persona:** Distribuidores
+
+**Explicación del flujo:** El distribuidor, desde su dashboard, selecciona la opción "Registrar Lotes" del menú lateral. El sistema muestra un formulario completo para ingresar la información del nuevo lote, incluyendo campos para código del lote (que puede ser automático o manual), cliente, tipo de tela, fecha de registro, y observaciones adicionales. El usuario completa todos los campos requeridos y tiene la opción de añadir información complementaria como calidad de tela o fotos. Una vez completado el formulario, el distribuidor hace clic en "Enviar" para registrar el lote en el sistema. La plataforma confirma el registro exitoso y notifica automáticamente al empresario destinatario sobre el nuevo lote recibido, actualizando los contadores en ambos dashboards.
+
+<p align="center">
+  <img src="images/Userflow4.png" alt="PB" width="1000">
+</p>
+
+## **5\. User Goal: Gestión de observaciones de lotes**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** El usuario accede a la sección "Observaciones" desde su dashboard. Dependiendo de su rol, visualiza las observaciones enviadas (distribuidor) o recibidas (empresario). El sistema muestra una tabla con todas las observaciones, incluyendo información como código de lote relacionado, fecha, motivo, estado y evidencia adjunta. El usuario puede filtrar la lista por diferentes criterios para localizar observaciones específicas. Al seleccionar una observación, puede ver detalles completos, incluyendo imágenes adjuntas como evidencia. Si la observación aún está en estado "pendiente", el empresario puede editarla o eliminarla; si ya fue revisada, estas opciones no están disponibles. El distribuidor puede marcar observaciones como "vistas" y responder a ellas según sea necesario.
+
+<p align="center">
+  <img src="images/Userflow5.png" alt="PB" width="1000">
+</p>
+
+## **6\. User Goal: Configuración de la aplicación y perfil**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la sección de configuración a través del menú lateral. Aquí puede personalizar aspectos de su experiencia en la plataforma, incluyendo la información de su perfil y preferencias visuales. Al seleccionar la opción de perfil, puede modificar datos personales como nombre, foto/logo de la empresa y datos de contacto. El sistema permite al usuario elegir entre modo claro u oscuro para la interfaz, así como configurar preferencias específicas como la generación automática o manual de códigos para lotes. Tras realizar los cambios deseados, el usuario confirma las modificaciones y el sistema las aplica inmediatamente. Esta sección también proporciona opciones de seguridad como cambio de contraseña y cierre de sesión, permitiendo al usuario gestionar completamente su experiencia en la plataforma.
+
+<p align="center">
+  <img src="images/Userflow6.png" alt="PB" width="1000">
+</p>
 
 ### **4.5. Web Applications Prototyping**
 
