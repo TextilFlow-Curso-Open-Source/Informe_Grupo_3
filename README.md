@@ -987,12 +987,12 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.3.1. Landing Page Wireframe**
 <p align="center">
-  <img src="images/wireframe.png" alt="PB" width="1000">
+  <img src="images/lw.png" alt="PB" width="1000">
 </p>
 
 #### **4.3.2. Landing Page Mock-up**
 <p align="center">
-  <img src="images/Mockup.png" alt="PB" width="1000">
+  <img src="images/lm.png" alt="PB" width="1000">
 </p>
 
 ### **4.4. Web Applications UX/UI Design**
