@@ -1039,6 +1039,68 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.4.1. Web Applications Wireframes.**
 
+**Inicio de Sesión**
+<p align="center">
+  <img src="images/ww1.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww2.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww3.png"  width="850">
+</p>
+
+#### Empresario 
+
+**Inicio**
+<p align="center">
+  <img src="images/ww4.png"  width="850">
+</p>
+
+**Lotes recibidos**
+<p align="center">
+  <img src="images/ww5.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww6.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww7.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww8.png"  width="850">
+</p>
+
+**Observaciones Enviadas**
+<p align="center">
+  <img src="images/ww9.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww10.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/ww11.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/ww12.png"  width="850">
+</p>
+
+**Perfil**
+<p align="center">
+  <img src="images/ww13.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww14.png"  width="850">
+</p>
+
+
+
+
+
 #### **4.4.2. Web Applications Wireflow Diagrams**
 
 [Wireflows de TextilFlow en Overflow](https://overflow.io/s/DU68QJ8F)
@@ -1095,6 +1157,7 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 </p>
 
 #### **4.4.3. Web Applications Mock-ups**
+
 
 #### **4.4.4. Web Applications User Flow Diagrams**
 
