@@ -1097,8 +1097,61 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
   <img src="images/ww14.png"  width="850">
 </p>
 
+#### Distribuidor 
+
+**Inicio**
+<p align="center">
+  <img src="images/ww15.png"  width="850">
+</p>
+
+**Mis Lotes**
+<p align="center">
+  <img src="images/ww16.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww17.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww18.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww19.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww20.png"  width="850">
+</p>
+
+**Registrar Lotes**
+<p align="center">
+  <img src="images/ww21.png"  width="850">
+</p>
 
 
+**Observaciones**
+<p align="center">
+  <img src="images/ww22.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/ww23.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/ww24.png"  width="850">
+</p>
+
+**perfil**
+<p align="center">
+  <img src="images/ww25.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww26.png"  width="850">
+</p>
+
+[ Enlace en Figma de Web Applications Wireframes Empresario ](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=119-2478&t=JXQyMkXCVQTK4SMK-1)
+[ Enlace en Figma de Web Applications Wireframes Distribuidor](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=119-2479&t=JXQyMkXCVQTK4SMK-1)
 
 
 #### **4.4.2. Web Applications Wireflow Diagrams**
