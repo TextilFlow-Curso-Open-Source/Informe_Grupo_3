@@ -834,7 +834,25 @@ Duracion(22:19-26:35)min.
 | US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí. | **Escenario: Sección de preguntas frecuentes (FAQs) Given** que estoy en la landing page, **When** hago clic en una pregunta,  **Then** se despliega la respuesta correspondiente en formato de acordeón. | EP06 |
 | US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo. | **Escenario: Envío de formulario de contacto Given** que completo los campos del formulario (nombre, email, mensaje),  **When** hago clic en “Enviar”,  **Then** el sistema debe validar los campos y mostrar un mensaje de confirmación si todo es correcto. | EP06 |
 
-**Product Backlog**
+
+
+### **3.3. Impact Mapping**
+
+Usuario empresario
+
+<p align="center">
+  <img src="images/Impact map 1.png" alt="UH" width="1000">
+</p>
+
+Usuario distribuidor
+
+<p align="center">
+  <img src="images/Impact map 2.png" alt="UH" width="1000">
+</p>
+
+### **3.4. Product Backlog**
+
+[Product Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
 
 
 | \# Orden  | User Story Id | Título  | Descripción  | Story Points (1 / 2 / 3 / 5 / 8\)  |
@@ -870,28 +888,6 @@ Duracion(22:19-26:35)min.
 | 29 | US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades.  | 2 |
 | 30 | US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí.  | 2 |
 | 31 | US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo.  | 3 |
-
-### **3.3. Impact Mapping**
-
-Usuario empresario
-
-<p align="center">
-  <img src="images/Impact map 1.png" alt="UH" width="1000">
-</p>
-
-Usuario distribuidor
-
-<p align="center">
-  <img src="images/Impact map 2.png" alt="UH" width="1000">
-</p>
-
-### **3.4. Product Backlog**
-
-[Product Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
-
-<p align="center">
-  <img src="images/PB.png" alt="PB" width="1000">
-</p>
 
 <hr>
 
