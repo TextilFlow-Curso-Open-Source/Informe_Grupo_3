@@ -1211,6 +1211,122 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.4.3. Web Applications Mock-ups**
 
+**Inicio de Sesión**
+<p align="center">
+  <img src="images/wm1.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm2.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm3.png"  width="850">
+</p>
+
+#### Empresario 
+
+**Inicio**
+<p align="center">
+  <img src="images/wm4.png"  width="850">
+</p>
+
+**Lotes recibidos**
+<p align="center">
+  <img src="images/wm5.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm6.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm7.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm8.png"  width="850">
+</p>
+
+**Observaciones Enviadas**
+<p align="center">
+  <img src="images/wm9.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm10.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/wm11.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/wm12.png"  width="850">
+</p>
+
+**Perfil**
+<p align="center">
+  <img src="images/wm13.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm14.png"  width="850">
+</p>
+
+#### Distribuidor 
+
+**Inicio**
+<p align="center">
+  <img src="images/wm15.png"  width="850">
+</p>
+
+**Mis Lotes**
+<p align="center">
+  <img src="images/wm16.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm17.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm18.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm19.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm20.png"  width="850">
+</p>
+
+**Registrar Lotes**
+<p align="center">
+  <img src="images/wm21.png"  width="850">
+</p>
+
+
+**Observaciones**
+<p align="center">
+  <img src="images/wm22.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/wm23.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/wm24.png"  width="850">
+</p>
+
+**perfil**
+<p align="center">
+  <img src="images/wm25.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm26.png"  width="850">
+</p>
+
+[ Enlace en Figma de Web Applications Mock-ups Empresario ](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=80-1885&t=JXQyMkXCVQTK4SMK-1)
+[ Enlace en Figma de Web Applications Mock-ups Distribuidor](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=137-8411&t=JXQyMkXCVQTK4SMK-1)
+
+
+
 
 #### **4.4.4. Web Applications User Flow Diagrams**
 
