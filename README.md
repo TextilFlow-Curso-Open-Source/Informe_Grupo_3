@@ -1113,6 +1113,12 @@ Los atributos de las etiquetas deben estar en lowercase (o minúscula).
 
 ## **Conclusiones**
 
+* Nuestro startup Qualix que tiene como producto a TextilFlow tiene potencial para ser explotado en el rubro textil, y es que la gestión de lotes, su documentación y evidencia visual de cada uno previo a una venta/compra, así como la verificación de la calidad de esta, son cruciales al momento de producir prendas o algún producto confeccionado.
+
+* Luego de la delimitación de las funcionalidades a considerar en nuestro producto, hicimos el despliegue de nuestra Landing Page con HTML CSS y Javascript, partiendo de las delimitaciones anteriormente hechas en algunos wireframes o mock ups, dándole así uso a la plataforma de control de versiones, GitHub.
+
+* Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
+
 <hr>
 
 ## **Bibliografía**
