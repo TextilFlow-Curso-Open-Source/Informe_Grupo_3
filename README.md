@@ -23,10 +23,6 @@
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Steven Mathew Roca Tineo</td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311361</td>
   </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Naim Farid Napuri Rojas</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202319146</td>
-  </tr>
   </tr>
     <tr>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Maylhy Olinda Gutierrez Condo</td>
@@ -175,13 +171,18 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 
 
 #### **1.1.2. Perfiles de Integrantes del Equipo**
+
+<p align="center">
+  <img src="images/PerfilMtt.png" alt="UH" width="1000">
+</p>
+
 <p align="center">
   <img src="images/PerfilM.png" alt="UH" width="1000">
 </p>
 
 <p align="center">
   <img src="images/PerfilG.png" alt="UH" width="1000">
-</p>git 
+</p> 
 
 
 #### **1.2. Solution Profile**
@@ -584,6 +585,11 @@ Duracion(00:05-6:17)min.
 
 ### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
 ### Entrevista #1 :
+<p align="center">
+  <img src="images/entrevista4-segmento2.png" alt="PB" width="800">
+</p> 
+Duracion(18:12-22:16)min.
+
 ### **Características demográficas**
 1. **¿Cuál es tu edad?**
     Tengo 28 años.
@@ -645,6 +651,39 @@ Duracion(00:02-5:15)min.
 3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
     Sí, totalmente. Así no hay confusión. Si los dos vemos lo mismo, se evitan discusiones. Incluso sería bueno que el cliente pueda confirmar o dejar un comentario después de recibir.
 
+### Entrevista #3 :
+
+<p align="center">
+  <img src="images/entrevista3_segmento2.png" alt="PB" width="800">
+</p> 
+Duracion(22:19-26:35)min.
+
+### **Características demográficas**
+1. **¿Cuál es tu edad?**
+ Tengo 22 años.
+2. **¿Tienes tienda física, vendes online o ambos?**
+ Tengo una tienda física en Gamarra, pero también vendo por WhatsApp y redes sociales.
+3. **¿Qué tipo de telas sueles distribuir?**
+ Principalmente algodón licrado, denim y telas sintéticas para ropa deportiva.
+
+### **Preguntas Principales**
+1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
+ Normalmente revisamos visualmente cada rollo. Vemos si hay manchas, cambios de color o si el estiramiento es el adecuado. A veces usamos una lámpara para ver imperfecciones.
+2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
+ No formalmente. A veces les mando fotos por WhatsApp antes de despachar, pero no siempre lo hacemos. Es más por confianza.
+3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
+ Sí, una vez me dijeron que un lote tenía un tono ligeramente distinto. Yo juraría que estaba bien cuando salió, pero como no tenía prueba, asumí la devolución. Perdí plata ahí.
+4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
+ Solo un cuaderno con anotaciones. A veces uso Excel, pero no siempre lo actualizo.
+5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
+ Como te decía, a veces tomamos fotos si vemos algo que podría causar dudas, pero no es un proceso fijo.
+### **Preguntas sobre el Proyecto (Qualyx)**
+1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
+ Me parece excelente. Eso me ayudaría mucho, sobre todo con clientes nuevos o exigentes. Tendría respaldo.
+2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
+ Claro que sí. Así puedo saber qué le mandé antes, qué reclamos hubo y tener todo más ordenado.
+3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
+ Sí, sería ideal. Así no hay malentendidos. Yo subo fotos, el cliente las ve y queda constancia para ambos.
 
 #### **2.2.3. Análisis de entrevistas**
 
@@ -652,17 +691,25 @@ Duracion(00:02-5:15)min.
 
 #### **2.3.1. User Personas**
 
-![Image](https://github.com/user-attachments/assets/9a90d4f2-9fb9-45d5-ab55-5dcb5fbadc34)
+<p align="center">
+  <img src="images/UserPersona1.png" alt="PB" width="800">
+</p> 
 
-![Image](https://github.com/user-attachments/assets/3c6e8792-5dfb-4688-8256-510f309c9ada)
+<p align="center">
+  <img src="images/UserPersona2.png" alt="PB" width="800">
+</p> 
+
 #### **2.3.2. User Task Matrix**
 
-![Image](https://github.com/user-attachments/assets/19df465d-4d18-4900-b704-83cd4d664284)
+<p align="center">
+  <img src="images/TaskMatrix.png" alt="PB" width="800">
+</p> 
 
 #### **2.3.3. User Journey Mapping**
-![Image](https://github.com/user-attachments/assets/946d18cc-c632-45c8-8796-ffa568e5881e)
 
-![Image](https://github.com/user-attachments/assets/eb660a9b-852e-4787-9c68-a76f7ce6e966)
+<p align="center">
+  <img src="images/UserJourneyMapping.png" alt="PB" width="800">
+</p> 
 
 #### **2.3.4. Empathy Mapping**
 
@@ -748,50 +795,113 @@ Duracion(00:02-5:15)min.
 
 ### **3.2. User Stories**
 
-<div style="display: flex; justify-content: center;">
-  <table style="border-collapse: collapse;">
-    <thead>
-      <tr>
-        <th style="text-align: center; border: 1px solid black; padding: 8px;">Epic</th>
-        <th style="text-align: center; border: 1px solid black; padding: 8px;">ID</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">Registro y Control de Lotes de Tela</td>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP01</td>
-      </tr>
-      <tr>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">Evaluación de Calidad en Tiempo Real</td>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP02</td>
-      </tr>
-      <tr>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">Reportes y Evidencia Documental</td>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP03</td>
-      </tr>
-      <tr>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">Gestión de Usuarios y Seguridad</td>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP04</td>
-      </tr>
-      <tr>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">Información Pública y Contacto</td>
-        <td style="text-align: center; border: 1px solid black; padding: 8px;">EP05</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Epic | ID |
+| ----- | ----- |
+| Inicio de sesión | EP01 |
+| Gestión de lotes  | EP02 |
+| Gestión de observaciones | EP03 |
+| Gestión de suscripción | EP04 |
+| Configuración de cuenta | EP05 |
+| Landing Page | EP06 |
 
-<p align="center">
-  <img src="images/UH.png" alt="UH" width="1000">
-</p>
+
+| Story ID | Título  | Descripción  | Criterios de Aceptación  | Relacionado con (Epic ID) |
+| :---- | :---- | :---- | :---- | :---- |
+| US01 | Visualizar listado de lotes recibidos | Como empresario, Quiero visualizar una lista de todos los lotes que he recibido, Para saber su estado actual y tomar decisiones sobre su aceptación o rechazo. | **Escenario: Acceso a la sección de lotes recibidos** <br> Given qué estoy autenticado como empresario, When accedo a la sección Lotes Recibidos, Then el sistema debe mostrar una lista con código, cliente, tipo de tela, fecha, estado y precio del lote.  | EP02 |
+| US02 | Visualizar listado de lotes enviados | Como distribuidor, Quiero ver todos los lotes que he enviado a las empresas, Para hacer seguimiento de su estado. | **Escenario:Acceso a la lista de mis lotes <br>  Given** que estoy autenticado como distribuidor,<br> **When** ingreso a la sección Mis Lotes,<br> **Then** el sistema debe mostrar los lotes registrados con su estado (Por enviar, Enviado, Confirmado, Rechazado).  | EP02 |
+| US03 | Filtrar y buscar lotes por distintos criterios | Como usuario (empresario o distribuidor), Quiero buscar y filtrar los lotes por código, cliente, tipo de tela, estado o fecha, Para encontrar fácilmente la información que necesito. | **Escenario 1:Filtrado de lotes por atributos Given** que estoy en la vista de lotes,<br> **When** utilizo filtros por estado, fecha o cliente,<br> **Then** el sistema debe actualizar la vista mostrando solo los lotes que cumplen esas condiciones. **Escenario 2:Búsqueda por código o nombre <br> Given** que escribo un texto en el campo “Buscar”,<br> **When** presiono “Enter” o el botón de búsqueda,<br> **Then** el sistema debe mostrar resultados que coincidan con el texto ingresado.  | EP02 |
+| US04 | Ver detalles de un lote específico | Como usuario, Quiero poder ver los detalles completos de un lote, Para tomar decisiones informadas. | **Escenario:Acceso al detalle del lote Given** que estoy en la lista de lotes,<br> **When** hago clic en “Ver Detalles” de un lote,<br> **Then** el sistema debe mostrar código, cliente, tipo y color de tela, fecha, cantidad, precio y observaciones.  | EP02 |
+| US05 | Enviar observaciones sobre un lote recibido | Como empresario, Quiero poder enviar una observación sobre un lote que recibí, Para alertar al distribuidor de problemas en el producto. | **Escenario1:Acceso a formulario de observación Given** que estoy visualizando un lote,<br> **When** hago clic en “Enviar Observación”,<br> **Then** el sistema debe mostrar campos para escribir el motivo y subir evidencia . <br> **Escenario2 :Registro exitoso de observación Given** que completo los campos y adjunto evidencia,<br> **When** presiono “Enviar”,<br> **Then** el sistema debe guardar la observación y notificar al distribuidor.  | EP02 |
+| US06 | Registrar y enviar lote | **Como** distribuidor, **Quiero** registrar un nuevo lote con todos los datos necesarios, **Para** enviarlo a un empresario y dar seguimiento a su evaluación. | **Escenario1:Registro de un nuevo lote Given** que estoy en la sección “Registrar Lote”,<br> **When** ingreso los datos requeridos y confirmo,<br> **Then** el sistema debe guardar el lote y asignarle estado  <br> **Escenario2:Notificación al empresario Given** que el lote ha sido registrado,<br> **When** se completa el envío,<br> **Then** el empresario correspondiente debe recibir una notificación del nuevo lote.  | EP02 |
+| US07 | Descargar reporte de lotes | **Como** usuario (empresario o distribuidor), **Quiero** poder descargar un reporte con la información de mis lotes, **Para** llevar un respaldo o análisis fuera de la plataforma. | **Escenario 1: Acceso a opción de descarga Given** que estoy autenticado y en la sección de lotes (enviados o recibidos),  **When** hago clic en el icono de descarga  **Then** el sistema debe generar un archivo descargable (PDF) con los datos de los lotes visibles en pantalla. <br>**Escenario 2 :  Descarga filtrada por estado o fecha Given** que he aplicado filtros (por fecha, estado, cliente, etc.), **When** descargo el reporte,  **Then e**l sistema debe generar un archivo solo con los lotes que cumplen esos criterios. <br>**Escenario 3: Validación de contenido del reporte Given** que abro el archivo descargado,  **When** reviso el contenido,  **Then** debe incluir al menos: código del lote, tipo de tela, fecha, estado, cantidad, precio y observaciones si existieran. | EP02 |
+| US08 | Visualizar observaciones enviadas | **Como** distribuidor, **Quiero** ver todas las observaciones que he enviado, **Para** llevar un control de lo que fue observado y su estado actual. | **Escenario1:Acceso al historial de observaciones Given** que estoy autenticado como distribuidor,<br> **When** ingreso a la sección “Mis observaciones”,<br> **Then** el sistema muestra una lista con: lote, fecha, motivo, evidencia y estado (pendiente, visto, rechazado, confirmado).  | EP03 |
+| US09 | Editar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero poder editar una observación que aún no ha sido revisada por el empresario, Para corregir información o añadir detalles antes de su revisión. | **Escenario1:Edición de observación no vista Given** que la observación tiene estado “pendiente”, **When** hago clic en el botón “Editar”, **Then** el sistema debe permitir modificar el texto del motivo y la evidencia adjunta. <br>  **Escenario2:Restricción si ya fue revisada Given** que la observación tiene estado “visto”, “rechazado” o “confirmado”, **When** intento editarla, **Then** el sistema debe mostrar un mensaje: “No se puede editar una observación ya revisada”. | EP03 |
+| US10 | Eliminar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero eliminar una observación que aún no ha sido vista, Para retirarla del sistema si fue registrada por error. | **Escenario 1:Eliminación de observación pendiente**  **Given** que la observación está en estado “pendiente”, **When** hago clic en “Eliminar”, **Then** el sistema debe pedir confirmación y eliminarla definitivamente. <br> **Escenario 2 : Bloqueo de eliminación si ya fue revisada**  **Given** que la observación ya fue vista o respondida, **When** intento eliminarla, **Then** el sistema debe mostrar un mensaje: “Solo se pueden eliminar observaciones pendientes”. | EP03 |
+| US11 | Marcar observaciones como vistas | Como empresario, Quiero marcar una observación como vista cuando la revise, Para llevar el control de qué observaciones ya fueron leídas. | **Escenario:  Marcado como visto**  **Given** que estoy en la sección de “Observaciones Recibidas”, **When** hago clic en “Marcar como Visto” en una observación, **Then** el sistema debe cambiar el estado de la observación a “Visto” y registrar la fecha de lectura. | EP03 |
+| US12 | Visualizar planes de suscripción disponibles | Como usuario, Quiero ver los planes de suscripción disponibles, Para comparar sus beneficios y elegir el que se ajuste a mis necesidades. | **Escenario 1: Acceso a la vista de planes**  **Given** que estoy autenticado, **When** accedo a la sección “Planes de suscripción”, **Then** el sistema muestra los planes disponibles: Básico y Corporativo, con sus beneficios y precios.<br> **Escenario 2 :  Detalles de cada plan**  **Given** que estoy en la vista de planes, **When** hago clic en “Ver más” sobre un plan, **Then** el sistema muestra información detallada: número de lotes, acceso a estadísticas, usuarios permitidos, entre otros. | EP04 |
+| US13 | Cambiar de plan de suscripción | Como usuario, Quiero poder cambiar mi plan de suscripción, Para ajustar mi cuenta según el crecimiento de mi negocio. | **Escenario 1:  Selección de nuevo plan**  **Given** que estoy visualizando los planes, **When** selecciono un plan diferente al actual y confirmo, **Then** el sistema realiza el cambio y actualiza mi cuenta con los beneficios correspondientes. <br>**Escenario 2:  Confirmación del cambio**  **Given** que ya seleccioné un nuevo plan, **When** el sistema finaliza el proceso, **Then** muestra un mensaje de confirmación y la fecha de vigencia del nuevo plan. | EP04 |
+| US14 | Personalizar la vista de la plataforma | Como usuario, Quiero poder personalizar la vista de la plataforma (modo claro/oscuro, orden de elementos, tipo de visualización), Para sentirme más cómodo/a usando el sistema según mis preferencias. | **Escenario 1: Activar modo oscuro o claro**  **Given** que accedo a la configuración de cuenta, **When** selecciono “Modo Oscuro” o “Modo Claro”, **Then** el sistema debe aplicar inmediatamente el modo seleccionado en la interfaz. <br>  **Escenario 2 :  Cambiar orden de visualización**  **Given** que estoy en la sección de personalización, **When** selecciono un orden (por fecha, por cliente, por tipo de tela), **Then** el sistema organiza las vistas según esa preferencia.  | EP05 |
+| US15 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto de perfil o logo, Para mantener mi cuenta actualizada y personal. | **Escenario 1 :  Acceder al formulario de edición de perfil**  **Given** que accedo a “Mi perfil”, **When** hago clic en “Editar”, **Then** el sistema muestra un formulario con los campos actuales de nombre, correo y foto/logo.<br>**Escenario 2 :  Guardar cambios correctamente**  **Given** que edité mis datos, **When** presiono “Guardar cambios”, **Then** el sistema actualiza los datos y muestra el mensaje “Perfil actualizado correctamente”. <br>**Escenario 3: Validación de campos obligatorios**  **Given** que intento guardar el formulario sin nombre o sin correo, **When** hago clic en “Guardar cambios”, **Then** el sistema debe mostrar un mensaje de error indicando los campos requeridos. | EP05 |
+| US16 | Cerrar sesión de forma segura | Como usuario, Quiero cerrar sesión desde mi cuenta, Para asegurar mi privacidad cuando ya no esté usando la plataforma. | **Escenario : Cierre de sesión exitoso** <br> **Given** que estoy autenticado, **When** hago clic en el botón “Cerrar sesión”, **Then** el sistema me redirige a la pantalla de inicio de sesión y borra la sesión activa. | EP05 |
+| US17 | Cambiar modo de visualización (claro / oscuro) | Como usuario, Quiero cambiar entre modo claro y oscuro, Para personalizar la interfaz según mis preferencias visuales. | **Escenario : Activación de modo oscuro o claro**  **Given** que estoy en la sección “Configuración de cuenta”, **When** selecciono una opción de visualización (modo claro u oscuro), **Then** el sistema debe aplicar el modo elegido de forma inmediata. | EP05 |
+| US18 | Registrar lote por código automático o manual | Como distribuidor, Quiero registrar un nuevo lote utilizando un código generado automáticamente o ingresarlo manualmente, Para mantener orden en mis registros y adaptarme a mis necesidades de control. | **Escenario 1: Generación automática de código de lote**  **Given** que estoy en el menú“Configuraciones”, **When** selecciono la opción “Generar código automáticamente”, **Then** el sistema debe crear un código único con el formato estándar (ej. LOT-20250421-001) y asignarlo al lote. <br>**Escenario 2 : Ingreso manual de código de lote**  **Given** que estoy en el mismo menú, **When** selecciono “Ingresar código manualmente”, **Then** el sistema habilita un campo para escribir mi propio código. <br>**Escenario 3 :  Validación de unicidad del código**  **Given** que ingreso un código manual, **When** intento guardar un código ya existente, **Then** el sistema muestra un mensaje de error: “Este código ya ha sido registrado”. | EP05 |
+| US19 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto/logo, Para mantener actualizada mi información de perfil. | **Escenario 1: Acceso al formulario de edición**  **Given** que estoy en “Mi perfil”, **When** hago clic en “Editar”, **Then** el sistema muestra los campos editables: nombre, email y logo/foto.<br>**Escenario 2: Guardado exitoso**  **Given** que actualizo mis datos, **When** hago clic en “Guardar cambios”, **Then** el sistema actualiza los datos y muestra “Perfil actualizado con éxito”. <br>**Escenario 3: Validación de campos requeridos**  **Given** que intento guardar sin llenar los campos obligatorios, **When** hago clic en “Guardar cambios”, **Then** el sistema muestra mensajes de error indicando qué falta. | EP05 |
+| US20 | Cerrar sesión | Como usuario, Quiero cerrar sesión de forma segura, Para proteger mi información cuando dejo de usar la plataforma. | **Escenario :Cierre de sesión exitoso**<br>**Given** que estoy autenticado, **When** hago clic en “Cerrar sesión”, **Then** el sistema finaliza la sesión y me redirige a la pantalla de inicio de sesión. | EP05 |
+| US21 | Registro de usuario | Como nuevo usuario, quiero registrarme con mis datos personales para crear una cuenta en TextilFlow y poder ingresar a la plataforma. | **Escenario: Usuario se registra correctamente Given** el usuario se encuentra en la pantalla de registro **When** ingresa nombre, email y contraseña válidos y hace clic en "Iniciar sesión" **Then** el sistema registra la cuenta y redirige a la pantalla de selección de rol | EP01 |
+| US22 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña para ingresar a mi cuenta. | **Escenario1: Inicio de sesión exitoso Given** el usuario está en la pantalla de login **When** ingresa credenciales válidas y presiona “Entrar ahora” **Then** el sistema valida los datos y muestra la pantalla de selección de rol. <br> **Escenario2: Error en inicio de sesión Given** el usuario ingresa credenciales incorrectas **When** presiona “Entrar ahora” **Then** el sistema muestra un mensaje de error indicando que los datos no son válidos | EP01 |
+| US23 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a la plataforma. | **Escenario: Solicitud de recuperación de contraseña Given** el usuario hace clic en "¿Olvidaste tu contraseña?" **When** ingresa su email registrado **Then** el sistema envía un enlace de recuperación al correo proporcionado | EP01 |
+| US24 | Selección de tipo de usuario | Como usuario, quiero seleccionar si soy empresa o distribuidor al iniciar sesión, para que el sistema me muestre las funciones correspondientes a mi perfil. | **Escenario: Usuario selecciona su tipo Given** el usuario ha iniciado sesión correctamente **When** se muestra la pantalla “Selecciona tu tipo de usuario” **Then** el usuario hace clic en “Empresa” o “Distribuidor” **And** el sistema lo redirige al panel correspondiente según su elección | EP01 |
+| US25 | Cierre de sesión | Como usuario, quiero poder cerrar sesión, para proteger mi cuenta y salir de la plataforma cuando termine de usarla. | **Escenario: Cierre exitoso de sesión Given** el usuario está dentro de su panel **When** hace clic en “Cerrar sesión” desde el menú **Then** el sistema termina la sesión y lo redirige al login | EP01 |
+| US26 | Visualizar información principal sobre la plataforma | Como visitante, Quiero acceder a una descripción clara de la funcionalidad y propósito de TextilFlow, Para comprender de inmediato cómo puede ayudarme. | **Escenario : Acceso al mensaje principal en el hero Given** que accedo a la landing page,**When** la página carga,**Then** debe mostrarse un encabezado con el mensaje: “Digitaliza el control de calidad textil con TextilFlow”, acompañado de un botón "Conoce más". | EP06 |
+| US27 | Conocer los beneficios de usar TextilFlow | Como visitante, Quiero ver de forma rápida los beneficios de usar la plataforma, Para entender su propuesta de valor. | **Escenario :  Sección de ¿Por qué elegirTextilFlow? Given** que me desplazo por la página,  **When** llego a la sección de beneficios,  **Then** debo ver tres bloques con texto e íconos que expliquen las ventajas: evitar errores, documentación visual, conexión colaborativa. | EP06 |
+| US28 | Consultar información sobre la empresa | Como visitante, Quiero conocer quiénes están detrás de TextilFlow, Para confiar en la plataforma y su visión. | **Escenario :Acceso a Quiénes somos Given** que estoy en la landing,  **When** bajo hasta la sección “Quiénes somos”,  **Then** veo una breve descripción, misión y visión de la startup. | EP06 |
+| US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades. | **Escenario: Visualización de los planes Given** que accedo a la sección “Planes”,  **When** comparo el Plan Básico y el Plan Corporativo,  **Then** veo claramente el precio, las características y las restricciones de cada plan. | EP06 |
+| US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí. | **Escenario: Sección de preguntas frecuentes (FAQs) Given** que estoy en la landing page, **When** hago clic en una pregunta,  **Then** se despliega la respuesta correspondiente en formato de acordeón. | EP06 |
+| US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo. | **Escenario: Envío de formulario de contacto Given** que completo los campos del formulario (nombre, email, mensaje),  **When** hago clic en “Enviar”,  **Then** el sistema debe validar los campos y mostrar un mensaje de confirmación si todo es correcto. | EP06 |
+| US32 | Acceder a la opción de iniciar sesión | Como visitante, Quiero ver un botón de "Iniciar sesión" en el encabezado, Para ingresar fácilmente a mi cuenta si ya estoy registrado. | Escenario: Acceso desde el encabezado Given que estoy en la landing page, When visualizo el encabezado, Then debe mostrarse un botón "Iniciar sesión" visible y funcional que redirige a la plataforma web.   | EP06 |
+| US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | **Escenario: Navegación principal Given que estoy en la parte superior de la landing, When veo el menú de navegación, Then debe mostrarse claramente cada sección del sitio y redirigirme correctamente al hacer clic.** | EP06 |
+| US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | **Escenario: Visualización del footer Given que llego al final de la landing, When visualizo el pie de página, Then debe mostrarse el texto “© 2024 TextilFlow. Todos los derechos reservados” u otra información de copyright.** | EP06 |
+| US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | **Escenario: Enlaces sociales desde el footer Given que estoy en el pie de página, When visualizo los íconos sociales, Then puedo hacer clic en ellos y se abrirán en una nueva pestaña las respectivas redes o páginas asociadas.** | EP06 |
+
+
+
 
 ### **3.3. Impact Mapping**
 
-### **3.4. Product Backlog**
+Usuario empresario
 
 <p align="center">
-  <img src="images/PB.png" alt="PB" width="1000">
+  <img src="images/Impact map 1.png" alt="UH" width="1000">
 </p>
+
+Usuario distribuidor
+
+<p align="center">
+  <img src="images/Impact map 2.png" alt="UH" width="1000">
+</p>
+
+### **3.4. Product Backlog**
+
+[Product Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
+
+
+| \# Orden  | User Story Id | Título  | Descripción  | Story Points (1 / 2 / 3 / 5 / 8\)  |
+| :---- | :---- | :---- | :---- | :---- |
+| 1 | US01 | Visualizar listado de lotes recibidos | Como empresario, Quiero visualizar una lista de todos los lotes que he recibido, Para saber su estado actual y tomar decisiones sobre su aceptación o rechazo. | 5 |
+| 2 | US02 | Visualizar listado de lotes enviados | Como distribuidor, Quiero ver todos los lotes que he enviado a las empresas, Para hacer seguimiento de su estado. | 5 |
+| 3 | US03 | Filtrar y buscar lotes por distintos criterios | Como usuario (empresario o distribuidor), Quiero buscar y filtrar los lotes por código, cliente, tipo de tela, estado o fecha, Para encontrar fácilmente la información que necesito. | 5 |
+| 4 | US04 | Ver detalles de un lote específico | Como usuario, Quiero poder ver los detalles completos de un lote, Para tomar decisiones informadas. | 5 |
+| 5 | US05 | Enviar observaciones sobre un lote recibido | Como empresario, Quiero poder enviar una observación sobre un lote que recibí, Para alertar al distribuidor de problemas en el producto. | 3 |
+| 6 | US06 | Registrar y enviar lote | Como distribuidor, Quiero registrar un nuevo lote con todos los datos necesarios, Para enviarlo a un empresario y dar seguimiento a su evaluación. | 3 |
+| 7 | US07 | Descargar reporte de lotes | Como usuario (empresario o distribuidor), Quiero poder descargar un reporte con la información de mis lotes, Para llevar un respaldo o análisis fuera de la plataforma. | 3 |
+| 8 | US08 | Visualizar observaciones enviadas | Como distribuidor, Quiero ver todas las observaciones que he enviado, Para llevar un control de lo que fue observado y su estado actual. | 3 |
+| 9 | US09 | Editar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero poder editar una observación que aún no ha sido revisada por el empresario, Para corregir información o añadir detalles antes de su revisión. | 3 |
+| 10 | US10 | Eliminar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero eliminar una observación que aún no ha sido vista, Para retirarla del sistema si fue registrada por error. | 2 |
+| 11 | US11 | Marcar observaciones como vistas | Como empresario, Quiero marcar una observación como vista cuando la revise, Para llevar el control de qué observaciones ya fueron leídas. | 2 |
+| 12 | US12 | Visualizar planes de suscripción disponibles | Como usuario, Quiero ver los planes de suscripción disponibles, Para comparar sus beneficios y elegir el que se ajuste a mis necesidades. | 2 |
+| 13 | US13 | Cambiar de plan de suscripción | Como usuario, Quiero poder cambiar mi plan de suscripción, Para ajustar mi cuenta según el crecimiento de mi negocio. | 2 |
+| 14 | US14 | Personalizar la vista de la plataforma | Como usuario, Quiero poder personalizar la vista de la plataforma (modo claro/oscuro, orden de elementos, tipo de visualización), Para sentirme más cómodo/a usando el sistema según mis preferencias. | 3 |
+| 15 | US15 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto de perfil o logo, Para mantener mi cuenta actualizada y personal. | 2 |
+| 16 | US16 | Cerrar sesión de forma segura | Como usuario, Quiero cerrar sesión desde mi cuenta, Para asegurar mi privacidad cuando ya no esté usando la plataforma. | 1 |
+| 17 | US17 | Cambiar modo de visualización (claro / oscuro) | Como usuario, Quiero cambiar entre modo claro y oscuro, Para personalizar la interfaz según mis preferencias visuales. | 1 |
+| 18 | US18 | Registrar lote por código automático o manual | Como distribuidor, Quiero registrar un nuevo lote utilizando un código generado automáticamente o ingresarlo manualmente, Para mantener orden en mis registros y adaptarme a mis necesidades de control. | 3 |
+| 19 | US19 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto/logo, Para mantener actualizada mi información de perfil. | 2 |
+| 20 | US20 | Cerrar sesión | Como usuario, Quiero cerrar sesión de forma segura, Para proteger mi información cuando dejo de usar la plataforma. | 1 |
+| 21 | US21 | Registro de usuario | Como nuevo usuario, quiero registrarme con mis datos personales para crear una cuenta en TextilFlow y poder ingresar a la plataforma. | 2 |
+| 22 | US22 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña para ingresar a mi cuenta. | 2 |
+| 23 | US23 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a la plataforma. | 2 |
+| 24 | US24 | Selección de tipo de usuario | Como usuario, quiero seleccionar si soy empresa o distribuidor al iniciar sesión, para que el sistema me muestre las funciones correspondientes a mi perfil. | 1 |
+| 25 | US25 | Cierre de sesión | Como usuario, quiero poder cerrar sesión, para proteger mi cuenta y salir de la plataforma cuando termine de usarla. | 1 |
+| 26 | US26 | Visualizar información principal sobre la plataforma | Como visitante, Quiero acceder a una descripción clara de la funcionalidad y propósito de TextilFlow, Para comprender de inmediato cómo puede ayudarme. | 1 |
+| 27 | US27 | Conocer los beneficios de usar TextilFlow | Como visitante, Quiero ver de forma rápida los beneficios de usar la plataforma, Para entender su propuesta de valor.  | 1 |
+| 28 | US28 | Consultar información sobre la empresa | Como visitante, Quiero conocer quiénes están detrás de TextilFlow, Para confiar en la plataforma y su visión. | 1 |
+| 29 | US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades.  | 2 |
+| 30 | US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí.  | 2 |
+| 31 | US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo.  | 3 |
+| 32 | US32 | Acceder a la opción de iniciar sesión | Como visitante, Quiero ver un botón de "Iniciar sesión" en el encabezado, Para ingresar fácilmente a mi cuenta si ya estoy registrado. | 3 |
+| 33 | US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | 3 |
+| 34 | US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | 1 |
+| 35 | US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | 1 |
 
 <hr>
 
@@ -931,23 +1041,373 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.3.1. Landing Page Wireframe**
 <p align="center">
-  <img src="images/wireframe.png" alt="PB" width="1000">
+  <img src="images/lw.png" alt="PB" width="1000">
 </p>
 
 #### **4.3.2. Landing Page Mock-up**
 <p align="center">
-  <img src="images/Mockup.png" alt="PB" width="1000">
+  <img src="images/lm.png" alt="PB" width="1000">
 </p>
 
 ### **4.4. Web Applications UX/UI Design**
 
 #### **4.4.1. Web Applications Wireframes.**
 
+**Inicio de Sesión**
+<p align="center">
+  <img src="images/ww1.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww2.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww3.png"  width="850">
+</p>
+
+#### Empresario 
+
+**Inicio**
+<p align="center">
+  <img src="images/ww4.png"  width="850">
+</p>
+
+**Lotes recibidos**
+<p align="center">
+  <img src="images/ww5.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww6.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww7.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww8.png"  width="850">
+</p>
+
+**Observaciones Enviadas**
+<p align="center">
+  <img src="images/ww9.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww10.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/ww11.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/ww12.png"  width="850">
+</p>
+
+**Perfil**
+<p align="center">
+  <img src="images/ww13.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww14.png"  width="850">
+</p>
+
+#### Distribuidor 
+
+**Inicio**
+<p align="center">
+  <img src="images/ww15.png"  width="850">
+</p>
+
+**Mis Lotes**
+<p align="center">
+  <img src="images/ww16.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww17.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww18.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww19.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww20.png"  width="850">
+</p>
+
+**Registrar Lotes**
+<p align="center">
+  <img src="images/ww21.png"  width="850">
+</p>
+
+
+**Observaciones**
+<p align="center">
+  <img src="images/ww22.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/ww23.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/ww24.png"  width="850">
+</p>
+
+**perfil**
+<p align="center">
+  <img src="images/ww25.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww26.png"  width="850">
+</p>
+
+[ Enlace en Figma de Web Applications Wireframes Empresario ](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=119-2478&t=JXQyMkXCVQTK4SMK-1)
+<br>
+[ Enlace en Figma de Web Applications Wireframes Distribuidor](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=119-2479&t=JXQyMkXCVQTK4SMK-1)
+
+
 #### **4.4.2. Web Applications Wireflow Diagrams**
+
+[Wireflows de TextilFlow en Overflow](https://overflow.io/s/DU68QJ8F)
+
+## **User Goal 1: Inicio de sesión y acceso al sistema**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la página de bienvenida de TextilFlow donde se le presentan las opciones para registrarse o iniciar sesión. Al seleccionar iniciar sesión, el usuario debe ingresar sus credenciales (correo y contraseña). Tras validar sus datos, el sistema muestra la pantalla de selección de rol donde el usuario puede elegir entre "Empresa" o "Distribuidor". Dependiendo de su selección, el sistema lo redirige al dashboard correspondiente que muestra información relevante según el rol seleccionado, mostrando información de los lotes por enviar, enviados o confirmados, junto con notificaciones recientes.
+
+<p align="center">
+  <img src="images/Wireflow1.png" alt="PB" width="1000">
+</p>
+
+
+## **User Goal 2: Gestión de lotes y visualización de detalle**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** Desde el dashboard principal, el usuario puede visualizar los diferentes estados de los lotes (por enviar, enviados, confirmados o rechazados) con contadores que indican la cantidad en cada categoría. Al hacer clic en "Ver detalles" de cualquier categoría, el sistema muestra una tabla completa con todos los lotes correspondientes a ese estado. Esta tabla incluye información como código, cliente, tipo de tela, fecha, estado y opciones para filtrar o buscar. El usuario puede seleccionar un lote específico para ver información más detallada o realizar acciones adicionales según su rol en el sistema.
+
+<p align="center">
+  <img src="images/Wireflow2.png" alt="PB" width="1000">
+</p>
+
+## **User Goal 3: Visualización y filtrado de observaciones**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la sección de "Observaciones Enviadas" desde el menú lateral. El sistema muestra una tabla con todas las observaciones registradas, incluyendo información como el lote relacionado, fecha, motivo, evidencia adjunta y estado actual (pendiente, visto, rechazado, confirmado). El usuario puede utilizar las opciones de filtrado ubicadas en la parte superior para refinar la lista según diferentes criterios. Al seleccionar una observación específica, puede ver más detalles o realizar acciones como editar o eliminar, dependiendo del estado actual de la observación.
+
+<p align="center">
+  <img src="images/Wireflow3.png" alt="PB" width="1000">
+</p>
+
+## **User Goal 4: Gestión de suscripción y planes**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la sección "Planes y suscripción" desde el menú lateral. El sistema muestra los planes disponibles: Plan Básico ($9.99) y Plan Corporativo ($49.99), detallando los beneficios de cada uno. Cada plan incluye información sobre número de lotes permitidos, acceso a estadísticas y funcionalidades adicionales. El usuario puede comparar los planes y seleccionar el que mejor se adapte a sus necesidades haciendo clic en "Cambiar" para el plan básico o "Ir al Plan" para el corporativo. El sistema confirma la selección y actualiza la cuenta con los beneficios correspondientes.
+
+<p align="center">
+  <img src="images/Wireflow4.png" alt="PB" width="1000">
+</p>
+
+## **User Goal 5: Configuración de la aplicación y perfil**
+
+**User Persona:**  Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a las opciones de configuración a través del menú lateral. Desde aquí, puede personalizar su experiencia en la plataforma ajustando preferencias como el modo de visualización (claro/oscuro) y la información de su perfil. Al seleccionar "Mi perfil", el sistema muestra un formulario con los datos actuales del usuario, permitiéndole editar su nombre, correo electrónico y foto/logo de la empresa. Tras realizar los cambios deseados, el usuario guarda la información actualizada mediante el botón correspondiente. Adicionalmente, en esta sección el usuario puede configurar preferencias específicas como la generación automática o manual de códigos para lotes y otros ajustes que personalicen su experiencia en TextilFlow según sus necesidades operativas.
+
+<p align="center">
+  <img src="images/Wireflow5.png" alt="PB" width="1000">
+</p>
 
 #### **4.4.3. Web Applications Mock-ups**
 
+**Inicio de Sesión**
+<p align="center">
+  <img src="images/wm1.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm2.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm3.png"  width="850">
+</p>
+
+#### Empresario 
+
+**Inicio**
+<p align="center">
+  <img src="images/wm4.png"  width="850">
+</p>
+
+**Lotes recibidos**
+<p align="center">
+  <img src="images/wm5.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm6.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm7.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm8.png"  width="850">
+</p>
+
+**Observaciones Enviadas**
+<p align="center">
+  <img src="images/wm9.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm10.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/wm11.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/wm12.png"  width="850">
+</p>
+
+**Perfil**
+<p align="center">
+  <img src="images/wm13.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm14.png"  width="850">
+</p>
+
+#### Distribuidor 
+
+**Inicio**
+<p align="center">
+  <img src="images/wm15.png"  width="850">
+</p>
+
+**Mis Lotes**
+<p align="center">
+  <img src="images/wm16.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm17.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm18.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm19.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm20.png"  width="850">
+</p>
+
+**Registrar Lotes**
+<p align="center">
+  <img src="images/wm21.png"  width="850">
+</p>
+
+
+**Observaciones**
+<p align="center">
+  <img src="images/wm22.png"  width="850">
+</p>
+
+**Configuración**
+<p align="center">
+  <img src="images/wm23.png"  width="850">
+</p>
+
+**Planes**
+<p align="center">
+  <img src="images/wm24.png"  width="850">
+</p>
+
+**perfil**
+<p align="center">
+  <img src="images/wm25.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm26.png"  width="850">
+</p>
+
+[ Enlace en Figma de Web Applications Mock-ups Empresario ](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=80-1885&t=JXQyMkXCVQTK4SMK-1)
+<br>
+
+[ Enlace en Figma de Web Applications Mock-ups Distribuidor](https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=137-8411&t=JXQyMkXCVQTK4SMK-1)
+
+
+
+
 #### **4.4.4. Web Applications User Flow Diagrams**
+
+[User Flow Diagrams de TextilFlow en Overflow](https://overflow.io/s/ABWJ05M8)
+
+## **1\. User Goal: Acceso e inicio de sesión en la plataforma**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** El usuario ingresa a la plataforma TextilFlow a través de la pantalla de bienvenida. En esta primera pantalla, puede elegir entre registrarse como nuevo usuario o iniciar sesión con credenciales existentes. Al seleccionar iniciar sesión, debe ingresar su correo electrónico y contraseña. Una vez validados los datos, el sistema lo dirige a la pantalla de selección de rol, donde debe indicar si actuará como "Empresa" o "Distribuidor". Dependiendo de la selección, el sistema redirige al usuario al dashboard correspondiente, mostrando información relevante según su rol, incluyendo contadores de lotes en diferentes estados (por enviar, enviados, confirmados) y las notificaciones recientes que requieren su atención.
+
+<p align="center">
+  <img src="images/Userflow1.png" alt="PB" width="1000">
+</p>
+
+## **2\. User Goal: Gestión de suscripción y planes**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** El usuario, desde su dashboard principal, accede a la sección de "Planes y suscripción" a través del menú lateral. El sistema muestra una comparativa entre los dos planes disponibles: Plan Básico ($9.99/mes) y Plan Corporativo ($49.99/mes). Cada plan presenta sus beneficios específicos, como límites de lotes, acceso a estadísticas, y funcionalidades adicionales. El usuario puede analizar las diferencias entre ambos planes y seleccionar el que mejor se adapte a sus necesidades haciendo clic en "Cambiar" para el plan básico o "Ir al Plan" para el corporativo. Al confirmar su elección, el sistema actualiza la suscripción y aplica inmediatamente los beneficios correspondientes al plan seleccionado.
+
+<p align="center">
+  <img src="images/Userflow2.png" alt="PB" width="1000">
+</p>
+
+## **3\. User Goal: Visualización y gestión de lotes**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** Desde el dashboard, el usuario puede ver un resumen de sus lotes clasificados por estado. Al hacer clic en "Ver detalles" de cualquier categoría, el sistema muestra una tabla completa con todos los lotes correspondientes. Esta tabla incluye columnas para código, cliente, tipo de tela, fecha, estado y opciones adicionales. El usuario puede filtrar y ordenar la información según diferentes criterios para encontrar rápidamente lo que busca. Al seleccionar un lote específico, puede ver información más detallada o realizar acciones adicionales como editar, descargar reportes o registrar observaciones. La interfaz permite navegar entre diferentes vistas de lotes según sus estados (enviados, recibidos, confirmados, rechazados) manteniendo una experiencia coherente.
+
+<p align="center">
+  <img src="images/Userflow3.png" alt="PB" width="1000">
+</p>
+
+## **4\. User Goal: Registro y envío de nuevos lotes**
+
+**User Persona:** Distribuidores
+
+**Explicación del flujo:** El distribuidor, desde su dashboard, selecciona la opción "Registrar Lotes" del menú lateral. El sistema muestra un formulario completo para ingresar la información del nuevo lote, incluyendo campos para código del lote (que puede ser automático o manual), cliente, tipo de tela, fecha de registro, y observaciones adicionales. El usuario completa todos los campos requeridos y tiene la opción de añadir información complementaria como calidad de tela o fotos. Una vez completado el formulario, el distribuidor hace clic en "Enviar" para registrar el lote en el sistema. La plataforma confirma el registro exitoso y notifica automáticamente al empresario destinatario sobre el nuevo lote recibido, actualizando los contadores en ambos dashboards.
+
+<p align="center">
+  <img src="images/Userflow4.png" alt="PB" width="1000">
+</p>
+
+## **5\. User Goal: Gestión de observaciones de lotes**
+
+**User Persona:** Distribuidores y Empresarios
+
+**Explicación del flujo:** El usuario accede a la sección "Observaciones" desde su dashboard. Dependiendo de su rol, visualiza las observaciones enviadas (distribuidor) o recibidas (empresario). El sistema muestra una tabla con todas las observaciones, incluyendo información como código de lote relacionado, fecha, motivo, estado y evidencia adjunta. El usuario puede filtrar la lista por diferentes criterios para localizar observaciones específicas. Al seleccionar una observación, puede ver detalles completos, incluyendo imágenes adjuntas como evidencia. Si la observación aún está en estado "pendiente", el empresario puede editarla o eliminarla; si ya fue revisada, estas opciones no están disponibles. El distribuidor puede marcar observaciones como "vistas" y responder a ellas según sea necesario.
+
+<p align="center">
+  <img src="images/Userflow5.png" alt="PB" width="1000">
+</p>
+
+## **6\. User Goal: Configuración de la aplicación y perfil**
+
+**User Persona:** Empresarios y Distribuidores
+
+**Explicación del flujo:** El usuario accede a la sección de configuración a través del menú lateral. Aquí puede personalizar aspectos de su experiencia en la plataforma, incluyendo la información de su perfil y preferencias visuales. Al seleccionar la opción de perfil, puede modificar datos personales como nombre, foto/logo de la empresa y datos de contacto. El sistema permite al usuario elegir entre modo claro u oscuro para la interfaz, así como configurar preferencias específicas como la generación automática o manual de códigos para lotes. Tras realizar los cambios deseados, el usuario confirma las modificaciones y el sistema las aplica inmediatamente. Esta sección también proporciona opciones de seguridad como cambio de contraseña y cierre de sesión, permitiendo al usuario gestionar completamente su experiencia en la plataforma.
+
+<p align="center">
+  <img src="images/Userflow6.png" alt="PB" width="1000">
+</p>
 
 ### **4.5. Web Applications Prototyping**
 
@@ -955,13 +1415,30 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.6.1. Software Architecture Context Diagrams**
 
+<p align="center">
+  <img src="images/SAContextDiagram.png" alt="PB" width="1000">
+</p>
+
 #### **4.6.2. Software Architecture Container Diagrams**
 
+<p align="center">
+  <img src="images/SAContainersDiagram.png" alt="PB" width="1000">
+</p>
+
 #### **4.6.3. Software Architecture Components Diagrams**
+
+## **Usuarios bounded context**
+
+<p align="center">
+  <img src="images/SAComponentsDiagram.png" alt="PB" width="1000">
+</p>
 
 ### **4.7. Software Object-Oriented Design**
 
 #### **4.7.1. Class Diagrams**
+<p align="center">
+  <img src="images/classDiagram.png" alt="PB" width="1000">
+</p>
 
 #### **4.7.2. Class Dictionary**
 
@@ -1126,7 +1603,7 @@ Los atributos de las etiquetas deben estar en lowercase (o minúscula).
 
 Astete Pascual, L. D., & Dominguez Quiroz, K. T. (2023). Relación entre la innovación en digitalización y el desempeño exportador de las empresas del sector confecciones de punto del clúster de gamarra durante el periodo 2019-2020.https://repositorioacademico.upc.edu.pe/handle/10757/668415 
 
-Barbachán, M. A. (1999). Desempeño de la pequeña y mediana empresa exportadora del sector textil y confecciones en el Perú. Departamento de Empleo y Formación, Oficina Internacional del Trabajo.https://n9.cl/ji3pt 
+Barbaachán, M. A. (1999). Desempeño de la pequeña y mediana empresa exportadora del sector textil y confecciones en el Perú. Departamento de Empleo y Formación, Oficina Internacional del Trabajo.https://n9.cl/ji3pt 
 
 Burga Spray, R., & Gutiérrez Medina, V. P. (2024). Implementación de modelo para disminuir el nivel de productos defectuosos [Tesis de licenciatura, Universidad Peruana de Ciencias Aplicadas]. Repositorio Académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/68297  
 
