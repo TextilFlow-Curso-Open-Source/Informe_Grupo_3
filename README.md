@@ -585,6 +585,11 @@ Duracion(00:05-6:17)min.
 
 ### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
 ### Entrevista #1 :
+<p align="center">
+  <img src="images/entrevista4-segmento2.png" alt="PB" width="800">
+</p> 
+Duracion(18:12-22:16)min.
+
 ### **Características demográficas**
 1. **¿Cuál es tu edad?**
     Tengo 28 años.
@@ -833,6 +838,11 @@ Duracion(22:19-26:35)min.
 | US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades. | **Escenario: Visualización de los planes Given** que accedo a la sección “Planes”,  **When** comparo el Plan Básico y el Plan Corporativo,  **Then** veo claramente el precio, las características y las restricciones de cada plan. | EP06 |
 | US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí. | **Escenario: Sección de preguntas frecuentes (FAQs) Given** que estoy en la landing page, **When** hago clic en una pregunta,  **Then** se despliega la respuesta correspondiente en formato de acordeón. | EP06 |
 | US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo. | **Escenario: Envío de formulario de contacto Given** que completo los campos del formulario (nombre, email, mensaje),  **When** hago clic en “Enviar”,  **Then** el sistema debe validar los campos y mostrar un mensaje de confirmación si todo es correcto. | EP06 |
+| US32 | Acceder a la opción de iniciar sesión | Como visitante, Quiero ver un botón de "Iniciar sesión" en el encabezado, Para ingresar fácilmente a mi cuenta si ya estoy registrado. | Escenario: Acceso desde el encabezado Given que estoy en la landing page, When visualizo el encabezado, Then debe mostrarse un botón "Iniciar sesión" visible y funcional que redirige a la plataforma web.   | EP06 |
+| US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | **Escenario: Navegación principal Given que estoy en la parte superior de la landing, When veo el menú de navegación, Then debe mostrarse claramente cada sección del sitio y redirigirme correctamente al hacer clic.** | EP06 |
+| US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | **Escenario: Visualización del footer Given que llego al final de la landing, When visualizo el pie de página, Then debe mostrarse el texto “© 2024 TextilFlow. Todos los derechos reservados” u otra información de copyright.** | EP06 |
+| US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | **Escenario: Enlaces sociales desde el footer Given que estoy en el pie de página, When visualizo los íconos sociales, Then puedo hacer clic en ellos y se abrirán en una nueva pestaña las respectivas redes o páginas asociadas.** | EP06 |
+
 
 
 
@@ -888,6 +898,10 @@ Usuario distribuidor
 | 29 | US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades.  | 2 |
 | 30 | US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí.  | 2 |
 | 31 | US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo.  | 3 |
+| 32 | US32 | Acceder a la opción de iniciar sesión | Como visitante, Quiero ver un botón de "Iniciar sesión" en el encabezado, Para ingresar fácilmente a mi cuenta si ya estoy registrado. | 3 |
+| 33 | US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | 3 |
+| 34 | US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | 1 |
+| 35 | US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | 1 |
 
 <hr>
 
