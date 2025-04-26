@@ -689,6 +689,42 @@ Duracion(22:19-26:35)min.
 3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
  Sí, sería ideal. Así no hay malentendidos. Yo subo fotos, el cliente las ve y queda constancia para ambos.
 
+
+### Entrevista #4:
+
+<p align="center">
+  <img src="images/entrevista5_segmento2.png" alt="PB" width="800">
+</p> 
+Duracion(12:30-18:12) min.
+
+### **Características demográficas**
+1. **¿Cuál es tu edad?**
+Mi edad actualmente es 46 años.
+2. **¿Tienes tienda física, vendes online o ambos?**
+Mis ventas las hago con mi cartera de clientes, no tengo ni tienda fisica ni online.
+3. **¿Qué tipo de telas sueles distribuir?**
+Suelo distribuir jersey, franela, french terry y gamuza pima 
+
+### **Preguntas Principales**
+1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
+En laboratorios, les hago gramaje y lavado de encogimientos. El gramaje es para ver el peso de la tela y el lavado de encogimientos para saber cuando encoge hacia lo ancho y alto en porcentaje.
+2. **¿Tienes alguna forma de respaldar que las telas estén en buen estado al momento de la entrega?**
+Al momento del acabado final se hace revisiones de las telas para verificar algunas fallas (huecos, manchas, etc.)
+3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
+Si, he tenido que ponerse de acuerdo con clientes para darles un mejor precio o cambiarles la tela si es que está muy fallada.
+4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
+Si llevo un registro, guardado en mi computadora, por fecha, número de guia y cliente.
+5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
+Si, corto muestras de cada lote por color para tener evidencia de lo que estoy entregando
+### **Preguntas sobre el Proyecto (Qualyx)**
+1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
+Si me pareceria bueno, seria una buena forma de que los clientes sepan que se le va a enviar lo que precisamente ellos pidieron.
+2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
+Claro, para contar con un historial de consumo por cliente, para usarlo después como estadistica para ver su historial de consumo mensual, anual y los colores de tela.
+3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
+Por una transparencia si, mas yo como propietario de la tela no, porque me arriesgo a exponer la ruta de proceso de mis tejidos ante mis clientes, porque despues ellos lo harian por si solo o cambiar de proveedor, dando las especificaciones que yo brinde a ellos.
+
+
 #### **2.2.3. Análisis de entrevistas**
 
 ### **2.3. Needfinding**
