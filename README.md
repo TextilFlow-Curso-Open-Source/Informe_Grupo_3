@@ -195,6 +195,7 @@ Ser la plataforma open source líder en trazabilidad y control de calidad textil
 #### What – ¿Cuál es el problema?
 En el sector textil peruano, especialmente en las pequeñas y medianas empresas, los procesos de recepción de tela y control de calidad aún se realizan de forma manual, lo cual genera una alta tasa de errores e incidencias en la producción. La falta de herramientas digitales para registrar y validar las características técnicas de los insumos impide una trazabilidad efectiva del material, dificultando los reclamos a los proveedores ante defectos (Astete & Dominguez, 2023).
 
+ **Imagen 1**
 <p align="center">
   <img src="images/grafico1.png" alt="PB" width="1000">
 </p>
@@ -213,6 +214,7 @@ Las empresas textiles que buscan mejorar su gestión de insumos lo harán en ent
 #### How Much : ¿Cuánto cuesta no resolverlo?
 Los costos de no actuar son elevados. Los defectos no detectados a tiempo generan reprocesos que pueden representar pérdidas económicas del 52.6% del total de la producción (Serna, 2024). También se producen conflictos con proveedores por falta de evidencia técnica y se perpetúa la desigualdad digital, ya que las Mypes no acceden a herramientas adaptadas a sus necesidades reales (Astete & Dominguez, 2023, p. 6).
 
+**Imagen 2**
 <p align="center">
   <img src="images/grafico2.png" alt="PB" width="1000">
 </p>
@@ -303,6 +305,7 @@ Creemos que permitir que las empresas textiles registren el estado de los lotes 
 
 
 #### **1.2.2.4. Lean UX Canvas**
+**Imagen 3**
 <p align="center">
   <img src="images/leancanvas.png" alt="PB" width="1000">
 </p>
@@ -340,6 +343,7 @@ Este segmento está formado por personas o empresas dedicadas a la venta y distr
 ### **2.1. Competidores**
 
 #### **2.1.1. Análisis competitivo**
+**Imagen 4**
 <p align="center">
   <img src="images/Analisis_Competitivo.png" alt="PB" width="800">
 </p>
@@ -487,8 +491,15 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ### Registro de Entrevista – Segmento 1: Empresarios
 
 ---
+
 ### Entrevista #1 :
 ### **Características demográficas**
+
+**Imagen 5**
+<p align="center">
+  <img src="images/entrevista7.png" alt="PB" width="800">
+</p> 
+
 
 1. **¿Cuál es tu edad?**  
    Actualmente tengo 25 años.
@@ -534,7 +545,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
    Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
 
 ### Entrevista #2 :
-
+**Imagen 6**
 <p align="center">
   <img src="images/entrevista1_segmento1.png" alt="PB" width="800">
 </p> 
@@ -589,6 +600,9 @@ Duracion(00:05-6:17)min.
 
 ### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
 ### Entrevista #1 :
+
+**Imagen 7**
+
 <p align="center">
   <img src="images/entrevista4-segmento2.png" alt="PB" width="800">
 </p> 
@@ -623,6 +637,8 @@ Duracion(18:12-22:16)min.
 
 ### Entrevista #2 :
 
+**Imagen 8**
+
 <p align="center">
   <img src="images/entrevista2_segmento2.png" alt="PB" width="800">
 </p> 
@@ -656,6 +672,7 @@ Duracion(00:02-5:15)min.
     Sí, totalmente. Así no hay confusión. Si los dos vemos lo mismo, se evitan discusiones. Incluso sería bueno que el cliente pueda confirmar o dejar un comentario después de recibir.
 
 ### Entrevista #3 :
+**Imagen 9**
 
 <p align="center">
   <img src="images/entrevista3_segmento2.png" alt="PB" width="800">
@@ -692,6 +709,7 @@ Duracion(22:19-26:35)min.
 
 ### Entrevista #4:
 
+**Imagen 10**
 <p align="center">
   <img src="images/entrevista5_segmento2.png" alt="PB" width="800">
 </p> 
@@ -726,6 +744,25 @@ Por una transparencia si, mas yo como propietario de la tela no, porque me arrie
 
 
 #### **2.2.3. Análisis de entrevistas**
+
+
+<p align="center">
+  <img src="images/ae1.png" width="800">
+</p> 
+
+<p align="center">
+  <img src="images/ae2.png"  width="800">
+</p> 
+
+<p align="center">
+  <img src="images/ae3.png"  width="800">
+</p> 
+
+<p align="center">
+  <img src="images/ae4.png" width="800">
+</p> 
+
+
 
 ### **2.3. Needfinding**
 
