@@ -1940,10 +1940,9 @@ Landing-Page-TextilFlow:
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
 
-<
+
 
 ## **Bibliografía**
-
 
 Astete Pascual, L. D., & Dominguez Quiroz, K. T. (2023). Relación entre la innovación en digitalización y el desempeño exportador de las empresas del sector confecciones de punto del clúster de gamarra durante el periodo 2019-2020.https://repositorioacademico.upc.edu.pe/handle/10757/668415 
 
@@ -1952,6 +1951,10 @@ Barbaachán, M. A. (1999). Desempeño de la pequeña y mediana empresa exportado
 Burga Spray, R., & Gutiérrez Medina, V. P. (2024). Implementación de modelo para disminuir el nivel de productos defectuosos [Tesis de licenciatura, Universidad Peruana de Ciencias Aplicadas]. Repositorio Académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/68297  
 
 Serna, L., & Isabel, A. (2024). Propuesta de Gestión de Procesos de Producción para mejorar la calidad del producto de una empresa textil peruana.https://titula.universidadeuropea.com/handle/20.500.12880/10986 
+
+
+
+## **Anexos**
 
 Gherkin Conventions for Readable Specifications
 https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
@@ -1965,7 +1968,39 @@ https://google.github.io/styleguide/javaguide.html
 Google TypeScript Style Guide
 https://google.github.io/styleguide/tsguide.html
 
-<hr>
+TextilFlow Execution Evidence for Sprint Review
 
-## **Anexos**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQR3YmuCQ91IkCD5Q_j4y2cB-z-QLCLoL_pRz_AEyQHWMA?e=gKD9qC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+
+Web Applications Prototyping TextilFlow
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EdB5RunylOtGm678FwW-g64BL0zuNxqupqxVu4GRNtXRmg?e=zuOuBR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Landing-Page-TextilFlow
+
+https://github.com/TextilFlow-Curso-Open-Source/Landing-Page-TextilFlow
+
+Imforme_Grupo_3-TextiFlow
+
+https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3
+
+Trello
+
+https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template
+
+Figma-Textiflow
+
+https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=0-1&t=tOTwl9oY4Kgnbl0f-1
+
+Entrevistas-TextiFlow
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EWcSisjze8xGsdF3Mvh79Y4BvDdoGIq_Nw9mIRqa4f08zw?e=tPsaOt
+
+Wireflows-TextilFlow
+
+https://overflow.io/s/DU68QJ8F/?node=653a4856
+
+UserFlowsDiagrams-TextiFlow
+
+https://overflow.io/s/DU68QJ8F/?node=653a4856
