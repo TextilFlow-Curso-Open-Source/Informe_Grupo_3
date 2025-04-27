@@ -1738,12 +1738,27 @@ Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing 
 
 ##### **5.2.1.4. Development Evidence for Sprint Review**
 
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| matthewsrt29/Landing-Page-Textiflow | feature/Files\_Images | 1ba5d7b | feat: adding files and images | feat: adding files and images | 26/04/2025 |
+| matthewsrt29/Landing-Page-Textiflow | feature/Main\_Section | 0da9f23 | feat: adding main section | feat: adding main section | 26/04/2025 |
+| matthewsrt29/Landing-Page-Textiflow | feature/Menu\_Section | d2ec1dd | feat:adding menu and menu toggle | feat:adding menu and menu toggle | 26/04/2025 |
+| matthewsrt29/Landing-Page-Textiflow | feature/Responsive\_Part | 3281a18 | feat:adding responsive | feat:adding responsive | 26/04/2025 |
+| matthewsrt29/Landing-Page-Textiflow | feature/Contact\_Section | 931ea02 | feat:adding contact section | feat:adding contact section | 26/04/2025 |
+| Ly009463/Landing-Page-Textiflow | feature/Benefit\_Section | 7e2334d | feat:adding benefits section | feat:adding benefits section | 26/04/2025 |
+| Ly009463/Landing-Page-Textiflow | feature/Company\_Section | 0a120d7 | feat:adding company section | feat:adding company section | 26/04/2025 |
+| LucidVoid10/Landing-Page-Textiflow | feature/Price\_Section | 1cf67a55 | feat:adding the Section Prices into the code | feat:adding the Section Prices into the code | 26/04/2025 |
+| LucidVoid10/Landing-Page-Textiflow | feature/Legall\_Section | b6122170 | feat:adding footer legal section | feat:adding footer legal section | 26/04/2025 |
+| MathiasBueno/Landing-Page-Textiflow | feature/Footer\_Section |  41f5ace | feat:adding footer styles section | feat:adding footer styles section | 27/04/2025 |
+| MathiasBueno/Landing-Page-Textiflow | feature/Faq\_Section | 5927c34 | feat:adding faq section js | feat:adding faq section js | 27/04/2025 |
+
 ##### **5.2.1.5. Execution Evidence for Sprint Review**
 
 [TextilFlow Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQR3YmuCQ91IkCD5Q_j4y2cB-z-QLCLoL_pRz_AEyQHWMA?e=e5VGhF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+
 
 ##### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
