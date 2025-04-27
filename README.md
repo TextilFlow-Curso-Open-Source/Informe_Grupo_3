@@ -1759,6 +1759,7 @@ Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing 
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
+Durante este primer sprint, no se tomó en cuenta la generación de evidencia relacionada con la documentación de los servicios, ya que no fue considerada dentro del alcance establecido para esta etapa.
 
 ##### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
