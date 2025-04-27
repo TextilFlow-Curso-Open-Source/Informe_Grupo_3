@@ -748,6 +748,7 @@ Claro, para contar con un historial de consumo por cliente, para usarlo después
 3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
 Por una transparencia si, mas yo como propietario de la tela no, porque me arriesgo a exponer la ruta de proceso de mis tejidos ante mis clientes, porque despues ellos lo harian por si solo o cambiar de proveedor, dando las especificaciones que yo brinde a ellos.
 
+[Ver las entrevistas en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EWcSisjze8xGsdF3Mvh79Y4BvDdoGIq_Nw9mIRqa4f08zw?e=pw8lk8)
 
 #### **2.2.3. Análisis de entrevistas**
 
@@ -1732,6 +1733,9 @@ Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing 
 ##### **5.2.1.4. Development Evidence for Sprint Review**
 
 ##### **5.2.1.5. Execution Evidence for Sprint Review**
+
+[TextilFlow Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQR3YmuCQ91IkCD5Q_j4y2cB-z-QLCLoL_pRz_AEyQHWMA?e=e5VGhF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
