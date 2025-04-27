@@ -44,6 +44,12 @@
 
 ## Registro de Versiones del Informe
 
+
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
+
+
 <hr>
 
 ## Project Report Collaboration Insights  
