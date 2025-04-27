@@ -2061,3 +2061,11 @@ https://overflow.io/s/DU68QJ8F/?node=653a4856
 UserFlowsDiagrams-TextiFlow
 
 https://overflow.io/s/DU68QJ8F/?node=653a4856
+
+Video-TextilFlow
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ET_gNINUrVFHoukgUU5dBOUBP3_veo3PhM6RDabN9D5Q-A?e=dIa4eC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Canvas-TextiFlow
+
+https://www.canva.com/design/DAGlnqMxMNM/uOeIo65I9k4TGmSQCUBDhQ/edit?utm_content=DAGlnqMxMNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
