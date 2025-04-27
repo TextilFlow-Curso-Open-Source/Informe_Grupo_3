@@ -156,6 +156,12 @@
 
 ## **Student Outcome**
 
+| Criterio específico | Acciones realizadas  | Conclusiones  |
+| :---- | :---- | :---- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase.  |
+| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. | <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. |
+
+
 <hr>
 
 ## **Capítulo I: Introducción**
