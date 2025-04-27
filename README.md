@@ -1664,7 +1664,32 @@ Los atributos de las etiquetas deben estar en lowercase (o minúscula).
 
 ##### **5.2.1.1. Sprint Planning 1**
 
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 1 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar el primer Sprint, enfocándonos en el desarrollo de la página principal (landing page) de TextilFlow. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma.<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos el trabajo en tareas específicas.<br> Definimos prioridades y formas de colaboración.  |  |
+| Date | 2025-04-18 |
+| Time | 21:05 PM |
+| Location | Meeting by Discord |
+| Prepared By | Maylhy Gutiérrez Condo and Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz  |
+| Sprint n \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (3 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint n \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Nuestro objetivo es implementar todas las funcionalidades principales de la **landing page de TextilFlow** en este Sprint de 3 semanas, para ofrecer una experiencia clara, confiable y atractiva a los visitantes nuevos. Queremos que los usuarios: Comprendan de inmediato el propósito de la plataforma.<br> Conozcan sus beneficios, precios y el equipo detrás.<br> Tengan acceso directo al registro, login, redes sociales y navegación del sitio.  |
+| Sprint n Velocity | 3 |
+| Sum of Story Points | 18 |
+
 ##### **5.2.1.2. Aspect Leaders and Collaborators**
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Steven Mathew Roca Tineo | matthewsrt29 | L | C | C |
+| Maylhy Olinda Gutierrez Condo | Ly009463 | C | C | L |
+| Mathias Eduardo Bueno Perales | MathiasBueno | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | L | C |
+
 
 ##### **5.2.1.3. Sprint Backlog 1**
 
