@@ -54,7 +54,21 @@
 
 ## Project Report Collaboration Insights  
 
-<hr>
+
+**Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
+
+#### Enlace del repositorio "Informe_Grupo_3": **https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3**
+
+**TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+
+**Figura 1**  
+*Insights de Informe_Grupo_3*
+
+<p align="center">
+  <img src="images/insights1.4.png" alt="PB" width="850">
+</p>
+
+
 
 ## Tabla de Contenidos
 
@@ -1645,7 +1659,7 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 #### **4.8.1. Database Diagram**
 
 <p align="center">
-  <img src="images/DatabaseDiagramTF.png" alt="PB" width="1000">
+  <img src="images/DatabaseDiagramTF.jpg" alt="PB" width="1000">
 </p>
 
 
@@ -1765,7 +1779,41 @@ Los atributos de las etiquetas deben estar en lowercase (o minúscula).
 
 #### **5.1.4. Software Deployment Configuration**
 
-#### Para el despliegue de nuestra Landing Page 
+**Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:**
+
+1. **Registro en GitHub** Creamos una cuenta en GitHub para poder gestionar nuestros repositorios.
+
+2. **Creación del repositorio**
+  * Hicimos clic en el botón "New" para generar un nuevo repositorio.
+  * Le asignamos el nombre "LandingPage" dentro de nuestra organización "TextilFlow"
+
+3. **Configuración del repositorio**
+  * Nos aseguramos de que el repositorio sea de acceso público.
+
+4. **Carga de los archivos de la landing page**
+  * Accedimos al repositorio creado.
+  * Esperamos a que todos los contribuyentes hagan los commits del desarrollo para darle Merge a la rama main.
+  * Finalmente, confirmamos la acción con "Commit changes" para guardar los archivos.
+
+5. **Activación de GitHub Pages**
+  * Entramos a la sección "Settings" del repositorio.
+  * Nos desplazamos hasta encontrar el apartado "GitHub Pages".
+  * Elegimos la rama "feature/develop" y guardamos los cambios con "Save".
+
+**Figura**
+*Explicación del paso 5*
+<p align="center">
+  <img src="images/SDC1.png" alt="PB" width="850">
+</p>
+
+Nota. Elaboración propia.
+
+6. **Verificación del sitio web** En pocos minutos, el sitio se publica en la siguiente dirección:  https://textilflow-curso-open-source.github.io/Landing-Page-TextilFlow/
+Accedemos a esta URL desde el navegador para confirmar que el sitio está activo.
+
+7. **Actualización del sitio**
+  * Cuando necesitemos modificar el sitio, solo debemos realizar commits y darle merge de nuevo siguiendo los mismos pasos.
+  * Los cambios se verán reflejados automáticamente en línea.
 
 ### **5.2. Landing Page, Services & Applications Implementation**
 
@@ -1921,6 +1969,16 @@ Nota. Elaboración propia.
 Informe_Grupo_3:
 
 <p align="center">
+  <img src="images/insights1.3.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/insights1.4.png" alt="PB" width="850">
+</p>
+
+Landing-Page-TextilFlow:
+
+<p align="center">
   <img src="images/insights1.1.png" alt="PB" width="850">
 </p>
 
@@ -1928,7 +1986,6 @@ Informe_Grupo_3:
   <img src="images/insights1.2.png" alt="PB" width="850">
 </p>
 
-Landing-Page-TextilFlow:
 
 ## **Conclusiones**
 
