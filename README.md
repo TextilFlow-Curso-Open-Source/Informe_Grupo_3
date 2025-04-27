@@ -1668,6 +1668,42 @@ Los atributos de las etiquetas deben estar en lowercase (o minúscula).
 
 ##### **5.2.1.3. Sprint Backlog 1**
 
+Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing Page de TextilFlow**. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la landing y las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
+**Figura**  
+
+*Sprint 1 de TextilFlow*
+<p align="center">
+  <img src="images/sprint1.png" alt="PB" width="850">
+</p>
+
+[Sprint Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
+
+
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| 26 | 	Visualizar información principal sobre la plataforma | T1 | Sección Principal | Implementar sección principal en landing page | 2 | Mathew Roca | Done |
+| 27 | 	Conocer los beneficios de usar TextilFlow | T1 | Sección de Beneficios | Implementar sección de beneficios en la web | 3 | Maylhy Gutiérrez | Done |
+| 28 | Consultar información sobre la empresa | T1 | Redacción "Sobre Nosotros" | Escribir un breve resumen de la historia y propósito de la empresa. | 1 | Maylhy Gutiérrez | Done |
+|  |  | T2 | 	Implementar sección "Sobre Nosotros" | Integrar la sección informativa de la empresa en la landing page. | 2 | Maylhy Gutiérrez | Done |
+| 29 | Comparar planes de suscripción disponibles | T1 | Diseñar estructura de comparación de planes | Crear el esquema visual de los diferentes planes ofrecidos. | 2 | Giancarlo Solis | Done |
+|  |  | T2 | Implementar sección de planes en la landing | Programar la estructura visual con precios y beneficios. | 3 | Giancarlo Solis | Done |
+| 30 | Resolver dudas frecuentes sobre el uso de la plataforma | T1 | Redactar contenido de preguntas frecuentes | Crear preguntas y respuestas claras sobre el funcionamiento de TextilFlow. | 1 | Mathias Bueno | Done |
+|  |  | T2 | Implementar sección FAQs | Programar e integrar el contenido en la landing page. | 2 | Mathias Bueno | Done |
+| 31 | Contactar al equipo de TextilFlow | T1 | Diseñar formulario de contacto | Crear la interfaz visual del formulario con campos necesarios. | 1 | Mathew Roca | Done |
+|  |  | T2 | Programar envío del formulario | Desarrollar la lógica para el envío de mensajes o solicitudes. | 3 | Mathew Roca | Done |
+| 32 | Acceder a la opción de iniciar sesión | T1 |  Agregar botón "Iniciar sesión" al header  | Insertar el botón visual en el encabezado de la landing. | 1 | Mathias Bueno | In process |
+| 33 | Conocer las secciones del sitio desde el menú | T1 | Diseñar estructura del menú de navegación | Definir los elementos del menú (Producto, Nosotros, Planes, Registro). | 2 | Mathew Roca | Done |
+|  |  | T2 | Programar menú responsive | Implementar el menú adaptable para diferentes dispositivos. | 3 | Mathew Roca | Done |
+| 34 | Visualizar información legal y de autor | T1 | Redactar información legal | Escribir el texto de derechos de autor y condiciones legales. | 1 | Giancarlo Solis | Done |
+|  |  | T2 | Implementar sección legal en el footer | Agregar el contenido legal al pie de página. | 2 | Giancarlo Solis | Done |
+| 35 | Acceder a redes sociales o enlaces adicionales | T1 | Insertar íconos de redes sociales | Agregar íconos representativos de redes sociales en el footer. | 1 | Mathias Bueno | Done |
+|  |  | T2 | 	Configurar enlaces hacia redes sociales | Programar los íconos para abrir los enlaces correspondientes. | 2 | Mathias Bueno | Done |
+
+
+
 ##### **5.2.1.4. Development Evidence for Sprint Review**
 
 ##### **5.2.1.5. Execution Evidence for Sprint Review**
