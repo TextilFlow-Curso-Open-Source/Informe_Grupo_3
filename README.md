@@ -1541,11 +1541,113 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.7.2. Class Dictionary**
 
-### **4.8. Database Design**
+#### Class User
 
+|  Atribute  | Type | Description| 
+| :---- | :---- | :---- | 
+| id | UUID | Unique code for a user | 
+| name | String | Name of a user | 
+| lastName | String | Last name of a user | 
+| email | String | Email related to the user account | 
+| password | String | Password of the user account | 
+| rol | UserType | Indicates what type of account the user will have | 
+| pay | CreditCard | Indicates the type of payment associated with the account | 
+
+---
+
+#### Class CreditCard
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| number | String | Credit card number |
+| cvv | String | Security code of the credit card |
+| expiration | String | Expiration date of the card |
+
+---
+
+#### Class Record
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| user | User | Reference to the user that creates the record |
+| batch | Batch | Reference to the batch involved in the record |
+| observation | Observation | Observations made by the user regarding the batch |
+
+---
+
+#### Class Batch
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | UUID | Unique identifier of the fabric batch |
+| client | String | Name of the client who owns the batch |
+| typeFabric | String | Type of fabric in the batch |
+| batchColor | String | Color of the fabric batch |
+| quantity | int | Quantity of fabric units in the batch |
+| price | money | Total price of the fabric batch |
+| registrationDate | date | Date when the batch was registered |
+
+---
+
+#### Class Observation
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | int | Unique identifier of the observation |
+| content | String | Text content of the observation |
+| author | User | Author of the observation |
+
+---
+
+#### Class Notification
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | int | Unique identifier of the notification |
+| issue | String | Title or brief of the issue |
+| content | String | Full content of the notification |
+| date | Date | Date when the notification was created |
+
+---
+
+#### Class NotificationManager
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| notification | Notification | Notification to be managed |
+| author | User | Author of the notification |
+
+---
+
+#### Class Yape
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| apiKey | String | API key for authenticating Yape transactions |
+
+---
+
+#### Class PagoEfectivo
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| apiKey | String | API key for authenticating PagoEfectivo transactions |
+
+---
+
+#### Class Plin
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| apiKey | String | API key for authenticating Plin transactions |
+
+### **4.8. Database Design**
 #### **4.8.1. Database Diagram**
 
-<hr>
+<p align="center">
+  <img src="images/DatabaseDiagramTF.png" alt="PB" width="1000">
+</p>
+
 
 ## **Capítulo V: Product Implementation, Validation & Deployment**
 
@@ -1754,18 +1856,79 @@ Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing 
 
 ##### **5.2.1.5. Execution Evidence for Sprint Review**
 
+En el sprint 1 alcanzamos un desarrollo parcial en la implementación y despliegue de la landing page, quedando pendientes algunas funcionalidades. La página muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre nuestro producto y nuestra startup. A continuación presentamos algunas evidencias:
+
+[Enlace Textil Flow Landing Page](https://textilflow-curso-open-source.github.io/Landing-Page-TextilFlow/)
+
+Imágenes del despliegue de la landing page TextilFlow:
+
+<p align="center">
+  <img src="images/EEvidence1.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/EEvidence2.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/EEvidence3.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/EEvidence4.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/EEvidence5.png" alt="PB" width="850">
+</p>
+
 [TextilFlow Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQR3YmuCQ91IkCD5Q_j4y2cB-z-QLCLoL_pRz_AEyQHWMA?e=e5VGhF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
-Durante este primer sprint, no se tomó en cuenta la generación de evidencia relacionada con la documentación de los servicios, ya que no fue considerada dentro del alcance establecido para esta etapa.
+Durante este primer sprint, no se tomó en cuenta la generación de evidencia relacionada con la documentación de los servicios, dado que no fue considerada dentro del alcance establecido para esta etapa.
 
 ##### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
+**Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.**
+
+**Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público "Landing-Page-TextilFlow" dentro de nuestra organización "TextilFlow". Luego, subimos los archivos de la página, activamos GitHub Pages seleccionando la rama "main" desde la configuración del repositorio y verificamos que el sitio estuviera disponible en línea en TextilFlow. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.**
+
+**Figura**
+*Evidencia de deployment 1*
+<p align="center">
+  <img src="images/SDEvidence1.png" alt="PB" width="850">
+</p>
+Nota. Elaboración propia.
+
+**Figura**
+*Evidencia de deployment 2*
+<p align="center">
+  <img src="images/SDEvidence2.png" alt="PB" width="850">
+</p>
+**Nota.** Elaboración propia.
+
 ##### **5.2.1.8. Team Collaboration Insights during Sprint**
 
-<hr>
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de la sección main de la landing page |
+| Maylhy Olinda Gutierrez Condo | Implementación de la sección company de la landing page |
+| Mathias Eduardo Bueno Perales | Implementación de la sección prices de la landing page |
+| Giancarlo Rafael Solis Santa Cruz | Implementación de la sección FAQ de la landing page |
+
+Informe_Grupo_3:
+
+<p align="center">
+  <img src="images/insights1.1.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/insights1.2.png" alt="PB" width="850">
+</p>
+
+Landing-Page-TextilFlow:
 
 ## **Conclusiones**
 
@@ -1777,7 +1940,7 @@ Durante este primer sprint, no se tomó en cuenta la generación de evidencia re
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
 
-<hr>
+<
 
 ## **Bibliografía**
 
