@@ -523,259 +523,51 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### **2.2.2. Registro de entrevistas**
 
-### Registro de Entrevista – Segmento 1: Empresarios
+### Segmento 1: Empresarios
 
----
+| Entrevistado 1 |  Jeanfer Ichiro Oshiro Asato |
+| :---- | :---- |
+| Edad | 25 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista1_segmento1.png" alt="PB" width="800"> | Cuenta con 2 años de experiencia trabajando en una fábrica textil de ropa deportiva. Realiza funciones en el área de almacén y control de calidad. Al recibir un nuevo lote, primero verifica que coincida con la guía, luego hace una inspección visual. Aunque existe un protocolo de revisión, no siempre se aplica por falta de tiempo. Los aspectos que evalúa son color, textura, elasticidad, manchas y metraje. Usa papel, Excel y WhatsApp para los registros, aunque de forma no constante. Toman fotos, pero no están organizadas. Cree que una plataforma que centralice esta información sería muy útil para el orden y los reclamos. |
+| Timing:00:02 – 06:20 min | [Entrevista 1 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8)  |
 
-### Entrevista #1 :
-### **Características demográficas**
+| Entrevistado 2 |  Victor Eduardo Orbezo Paredes |
+| :---- | :---- |
+| Edad | 25 años |
+| Distrito/Ciudad | Lima |
+|  <img src="images/entrevista7.png" alt="PB" width="800">  | Tiene entre 8 a 10 años de experiencia trabajando en un negocio familiar textil. Cuando recibe tela, se almacena y revisa visualmente sin seguir un protocolo técnico. La revisión se basa en la experiencia y se limita a aspectos generales como color, textura y elasticidad. Los registros se hacen en papel o por WhatsApp, de manera informal. Considera difícil reclamar a proveedores por falta de evidencia. Afirma que una plataforma que permita registrar evidencias visuales y observaciones facilitaría el orden interno y el respaldo ante reclamos. |
+| Timing:06:23 – 12:27 min | [Entrevista 2 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
-**Imagen 5**
-<p align="center">
-  <img src="images/entrevista7.png" alt="PB" width="800">
-</p> 
-
-
-1. **¿Cuál es tu edad?**  
-   Actualmente tengo 25 años.
-
-2. **¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?**  
-   Trabajo en la ciudad de Lima en un negocio familiar donde se confeccionan varios tipos de prendas como polos, pantalones, shorts, etc.
-
-3. **¿Cuántos años de experiencia tienes trabajando en el rubro textil?**  
-   Llevo toda mi vida aprendiendo de este mundo, pero laborando, llevaría entre 8 a 10 años, apoyando y dirigiendo de diversas maneras en el negocio.
-
-### **Preguntas Principales**
-
-1. **¿Cómo es el proceso actual cuando llega un nuevo lote de tela a tu empresa?**  
-   Cuando llega un nuevo lote, lo primero que hacemos es descargarlo y almacenarlo en una zona designada. Luego, alguien del equipo de almacén revisa de forma general la tela, pero es más visual que técnica. No tenemos un sistema muy formalizado para eso, lo hacemos "al ojo".
-
-2. **¿Tienen un protocolo definido para revisar la calidad de la tela? ¿Quién lo realiza?**  
-   La verdad, no tenemos un protocolo definido. Cada quien revisa según su experiencia. Generalmente lo hace el encargado de almacén o producción, pero no hay una guía clara ni documentación.
-
-3. **¿Qué aspectos revisan normalmente en la tela (color, textura, elasticidad, manchas, etc.)?**  
-   Vemos el color, que no esté manchada, que la textura sea la adecuada según el tipo de tela, y si tiene la elasticidad que necesitamos. Pero todo es muy subjetivo, no tenemos instrumentos de medición ni nada técnico.
-
-4. **¿Llevan algún registro de esa revisión? ¿Cómo lo hacen? (Papel, Excel, WhatsApp, etc.)**  
-   No como debería ser. A veces lo anotamos en una hoja o le pasamos el dato al jefe por WhatsApp. Otras veces se queda todo en la memoria. Solo cuando hay un problema serio se documenta un poco más.
-
-5. **¿Toman fotos o videos como respaldo? ¿Dónde los guardan?**  
-   Sí, tomamos fotos cuando vemos algo raro, pero se quedan en el celular de quien las tomó. No tenemos un lugar fijo donde se guarden, y a veces hasta se pierden o se borran sin querer.
-
-6. **¿Qué pasa si detectan un problema en el lote recibido? ¿Tienen forma de reclamar al proveedor? ¿Cómo lo hacen?**  
-   Sí, pero es complicado. Llamamos al proveedor y le mandamos fotos por WhatsApp o correo. A veces acepta el reclamo, otras veces no, porque no hay pruebas suficientes o porque pasó mucho tiempo. Es difícil demostrar que el problema fue desde que llegó.
-
-7. **¿Han tenido problemas por haber usado tela en mal estado sin darse cuenta al inicio?**  
-   Sí, ha pasado. A veces no se nota al inicio, y ya cuando se empieza a confeccionar recién salta el problema. Eso genera pérdidas porque hay que parar la producción o rehacer las prendas.
-
-### **Preguntas sobre el Proyecto (Qualyx)**
-
-1. **¿Qué te parecería tener una plataforma donde puedas registrar cada lote de tela que recibes y dejar evidencia visual y escrita de su estado?**  
-   Me parecería excelente. Nos daría mucho más orden y respaldo. Tener todo en un solo lugar nos evitaría muchos problemas con los proveedores y también dentro del equipo.
-
-2. **¿Qué datos crees que serían importantes registrar en la plataforma?**  
-   Tipo de tela, metraje, proveedor, fecha de llegada, quién la recibió, fotos del estado, observaciones, si hubo problemas o no, y quizás también el número de guía de remisión para tener todo relacionado.
-
-3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
-   Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
-
-### Entrevista #2 :
-**Imagen 6**
-<p align="center">
-  <img src="images/entrevista1_segmento1.png" alt="PB" width="800">
-</p> 
-Duracion(00:05-6:17)min.
-
-### **Características demográficas**
-
-1. **¿Cuál es tu edad?**  
-   Tengo 25 años.
-
-2. **¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?**  
-   Trabajo en Lima, en una fábrica textil que produce telas para confección de ropa deportiva.
+| Entrevistado 3 |  Martinez Peralta Gonzales Vinta |
+| :---- | :---- |
+| Edad | 46 años |
+|  <img src="images/entrevista5_segmento2.png" alt="PB" width="800"> | Martinez no tiene tienda física ni online; vende a través de su cartera de clientes. Distribuye jersey, franela, french terry y gamuza pima. Verifica la calidad en laboratorios midiendo gramaje y encogimiento. Hace inspecciones finales para detectar fallas. Guarda registros digitales por fecha y cliente. Toma muestras por color como respaldo. Le parece buena la idea de una plataforma para compartir evidencia visual, aunque expresa cierta reserva sobre exponer todo el proceso por miedo a que sus clientes copien su ruta de producción. |
+| Timing:12:30 – 18:12 min | [Entrevista 3 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
 
-3. **¿Cuántos años de experiencia tienes trabajando en el rubro textil?**  
-   Tengo 2 años de experiencia, principalmente en almacén y control de calidad.
+### Segmento 2: Distribuidores de Telas 
 
-### **Preguntas Principales**
+| Entrevistado 4 |  Daniela Gomez |
+| :---- | :---- |
+| Edad | 28 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista4-segmento2.png" alt="PB" width="800">| Daniela trabaja por pedidos para marcas pequeñas. Verifica calidad al tacto y visualmente. No tiene respaldo formal; cuando detecta defectos, no puede reclamar. Lleva registros en notas manuales y carpetas, lo que le genera desorden. Solo toma fotos si el cliente es nuevo o ha reclamado antes. Considera que una plataforma sería muy útil para mostrar evidencia, evitar errores y tener orden. Le gustaría que tanto proveedor como cliente puedan ver los controles para evitar malentendidos. |
+| Timing:18:13 – 22:16 min | [Entrevista 4 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
-1. **¿Cómo es el proceso actual cuando llega un nuevo lote de tela a tu empresa?**  
-   Primero recibimos el lote en el almacén, lo descargamos y revisamos que coincida con la guía. Luego hacemos una inspección visual rápida para ver si hay algo evidente como manchas o diferencias de color. A veces pasa al área de calidad para una revisión más técnica, pero no siempre se hace en el momento por falta de tiempo.
+| Entrevistado 5 |  Antonio Ramirez |
+| :---- | :---- |
+| Edad | 22 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista3_segmento2.png" alt="PB" width="800">| Tiene una tienda física en Gamarra y vende también por redes. Distribuye algodón licrado, denim y telas deportivas. Verifica calidad de forma visual, usando a veces lámparas para ver imperfecciones. A veces envía fotos por WhatsApp, pero no tiene respaldo formal. Ha tenido reclamos por diferencias de tono sin tener pruebas. Lleva registros en cuadernos o Excel de manera intermitente. Le parece excelente una plataforma donde pueda registrar evidencia, tener orden y compartir información con el cliente. |
+| Timing:22:19 – 26:35 min | [Entrevista 5 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
-2. **¿Tienen un protocolo definido para revisar la calidad de la tela? ¿Quién lo realiza?**  
-   Sí, hay un protocolo, pero en la práctica no se sigue siempre. Lo debe realizar el área de control de calidad, aunque muchas veces los de almacén hacemos una revisión básica si ellos están ocupados.
-
-3. **¿Qué aspectos revisan normalmente en la tela (color, textura, elasticidad, manchas, etc.)?**  
-    Revisamos color, textura, elasticidad, que no tenga manchas, hilos sueltos o diferencias entre rollos. También que el metraje esté correcto.
-
-4. **¿Llevan algún registro de esa revisión? ¿Cómo lo hacen? (Papel, Excel, WhatsApp, etc.)**  
-   Sí, usamos formatos en papel y, en algunos casos, pasamos observaciones por WhatsApp al área de calidad. A veces se lleva en Excel, pero no es constante.
-
-5. **¿Toman fotos o videos como respaldo? ¿Dónde los guardan?**  
-   Sí, fotos principalmente. Las tomamos con el celular y se envían por WhatsApp o se guardan en la galería. No hay una carpeta o sistema específico para organizarlas.
-
-6. **¿Qué pasa si detectan un problema en el lote recibido? ¿Tienen forma de reclamar al proveedor? ¿Cómo lo hacen?**  
-   Se informa al jefe de calidad o al encargado. Ellos contactan al proveedor con las fotos como prueba. A veces el proveedor acepta el reclamo, pero otras veces no, porque dicen que el daño no estaba cuando se envió.
-
-7. **¿Han tenido problemas por haber usado tela en mal estado sin darse cuenta al inicio?**  
-   Sí, varias veces. Ha pasado que se empieza a cortar sin revisar bien, y después aparecen manchas o diferencias de color que afectan la producción. Eso genera pérdida de tiempo y material.
-
-### **Preguntas sobre el Proyecto (Qualyx)**
-
-1. **¿Qué te parecería tener una plataforma donde puedas registrar cada lote de tela que recibes y dejar evidencia visual y escrita de su estado?**  
-   Me parecería muy útil, porque muchas veces la información se pierde o no queda registrada de forma clara. Tener todo en una sola plataforma sería más ordenado y ayudaría en los reclamos.
-
-2. **¿Qué datos crees que serían importantes registrar en la plataforma?**  
-   Tipo de tela, color, proveedor, fecha de recepción, quién recibió, observaciones, fotos, si fue aprobado o no, y algún número de lote o código interno.
-
-3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
-   Sí, definitivamente. Con eso podríamos tener mejor control y hacer seguimiento a los proveedores que entregan con fallas frecuentes. También ayudaría mucho para auditorías.
-
-
-### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
-### Entrevista #1 :
-
-**Imagen 7**
-
-<p align="center">
-  <img src="images/entrevista4-segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(18:12-22:16)min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
-    Tengo 28 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
-    Tengo un taller en mi casa, donde trabajo con tres personas más. No vendo directamente, trabajo por pedidos para marcas pequeñas o emprendedores.
-3. **¿Qué tipo de telas sueles distribuir?**
-    Trabajo con algodón, lycra, popelina y últimamente algo de denim para ropa juvenil.
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-    Cuando llegan las telas al taller, las reviso al tacto y estiro un poco para ver la elasticidad. También veo que el color no varíe entre rollos. Pero no siempre tengo tiempo para revisarlas una por una.
-2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
-    No, nunca. Si algo está mal, lo reclamo verbalmente al proveedor, pero no tengo pruebas. Me ha pasado que me dicen que ya venía así y nadie se hace cargo.
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
-    Sí, varias veces. A veces la tela tiene fallas en el color o se rompe al coser. El problema es que ya está cortada y no hay forma de reclamar. Eso me ha hecho perder clientes y dinero.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-    Hago notas a mano y tengo carpetas con pedidos, pero no hay algo unificado. Me pierdo a veces, sobre todo cuando tengo pedidos urgentes o simultáneos.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-    Solo si el cliente es nuevo o me ha reclamado antes. No tengo costumbre de documentar todo porque es muy tedioso con el celular.
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-    Me encantaría. Podría revisar cómo llegó cada rollo de tela y tener fotos antes de cortar. También podría mostrarle al proveedor si algo viene mal.
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-    Sí, sobre todo cuando tengo varios pedidos seguidos. Me ayudaría a evitar errores como entregar la prenda equivocada o usar una tela que no era.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
-    Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos entendidos. Todos ven lo mismo, y queda como evidencia de lo que se hizo.
-
-### Entrevista #2 :
-
-**Imagen 8**
-
-<p align="center">
-  <img src="images/entrevista2_segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(00:02-5:15)min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
-    Tengo 20 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
-    Una tienda física en Gamarra, pero también vendo por redes sociales y WhatsApp a talleres de confección en Lima y provincias.
-3. **¿Qué tipo de telas sueles distribuir?**
-    Principalmente telas planas y de punto: franela, jersey, popelina, algodón licrado y algunas telas sintéticas para ropa juvenil.
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-    Normalmente reviso el lote cuando llega del proveedor mayorista. Veo que no tenga manchas, que el color esté parejo y que el metraje esté correcto. Si el cliente es exigente, reviso con más detalle antes del envío.
-2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
-    La verdad, no siempre. A veces tomo fotos si es un cliente nuevo o complicado, pero la mayoría de veces solo confían en lo que les mando. Si me reclaman, tengo que revisar el rollo o hablar con el proveedor, pero sin evidencia es difícil.
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
-    Sí, claro. Me ha pasado que me reclaman por manchas o por diferencia de tono. Algunos clientes piensan que yo les mandé mal la tela, cuando en realidad vino así del mayorista. A veces lo resuelvo cambiando el rollo, otras veces pierdo el cliente.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-    Manejamos un Excel básico con el tipo de tela, cantidad y nombre del cliente. No siempre apunto el número de lote porque muchos no vienen etiquetados.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-    Sí, trato de tomar una o dos fotos por cada rollo, pero las tengo en el celular mezcladas con otras cosas. A veces se me olvidan o no las encuentro después.
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-    Me parecería súper útil, especialmente para evitar malentendidos. Así puedo mostrar que la tela salió bien y el cliente también tiene cómo verificar. 
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-    Sí, bastante. Así tengo un respaldo de lo que ya envié, a quién, en qué condiciones, y puedo revisar rápido si me reclaman algo.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
-    Sí, totalmente. Así no hay confusión. Si los dos vemos lo mismo, se evitan discusiones. Incluso sería bueno que el cliente pueda confirmar o dejar un comentario después de recibir.
-
-### Entrevista #3 :
-**Imagen 9**
-
-<p align="center">
-  <img src="images/entrevista3_segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(22:19-26:35)min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
- Tengo 22 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
- Tengo una tienda física en Gamarra, pero también vendo por WhatsApp y redes sociales.
-3. **¿Qué tipo de telas sueles distribuir?**
- Principalmente algodón licrado, denim y telas sintéticas para ropa deportiva.
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
- Normalmente revisamos visualmente cada rollo. Vemos si hay manchas, cambios de color o si el estiramiento es el adecuado. A veces usamos una lámpara para ver imperfecciones.
-2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
- No formalmente. A veces les mando fotos por WhatsApp antes de despachar, pero no siempre lo hacemos. Es más por confianza.
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
- Sí, una vez me dijeron que un lote tenía un tono ligeramente distinto. Yo juraría que estaba bien cuando salió, pero como no tenía prueba, asumí la devolución. Perdí plata ahí.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
- Solo un cuaderno con anotaciones. A veces uso Excel, pero no siempre lo actualizo.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
- Como te decía, a veces tomamos fotos si vemos algo que podría causar dudas, pero no es un proceso fijo.
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
- Me parece excelente. Eso me ayudaría mucho, sobre todo con clientes nuevos o exigentes. Tendría respaldo.
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
- Claro que sí. Así puedo saber qué le mandé antes, qué reclamos hubo y tener todo más ordenado.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
- Sí, sería ideal. Así no hay malentendidos. Yo subo fotos, el cliente las ve y queda constancia para ambos.
-
-
-### Entrevista #4:
-
-**Imagen 10**
-<p align="center">
-  <img src="images/entrevista5_segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(12:30-18:12) min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
-Mi edad actualmente es 46 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
-Mis ventas las hago con mi cartera de clientes, no tengo ni tienda fisica ni online.
-3. **¿Qué tipo de telas sueles distribuir?**
-Suelo distribuir jersey, franela, french terry y gamuza pima 
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-En laboratorios, les hago gramaje y lavado de encogimientos. El gramaje es para ver el peso de la tela y el lavado de encogimientos para saber cuando encoge hacia lo ancho y alto en porcentaje.
-2. **¿Tienes alguna forma de respaldar que las telas estén en buen estado al momento de la entrega?**
-Al momento del acabado final se hace revisiones de las telas para verificar algunas fallas (huecos, manchas, etc.)
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
-Si, he tenido que ponerse de acuerdo con clientes para darles un mejor precio o cambiarles la tela si es que está muy fallada.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-Si llevo un registro, guardado en mi computadora, por fecha, número de guia y cliente.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-Si, corto muestras de cada lote por color para tener evidencia de lo que estoy entregando
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-Si me pareceria bueno, seria una buena forma de que los clientes sepan que se le va a enviar lo que precisamente ellos pidieron.
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-Claro, para contar con un historial de consumo por cliente, para usarlo después como estadistica para ver su historial de consumo mensual, anual y los colores de tela.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
-Por una transparencia si, mas yo como propietario de la tela no, porque me arriesgo a exponer la ruta de proceso de mis tejidos ante mis clientes, porque despues ellos lo harian por si solo o cambiar de proveedor, dando las especificaciones que yo brinde a ellos.
+| Entrevistado 6 | Luis García |
+| :---- | :---- |
+| Edad | 20 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista2_segmento2.png" alt="PB" width="800"> | Tiene una tienda física y también vende por redes y WhatsApp. Distribuye franela, jersey, algodón licrado y telas sintéticas. Revisa el lote cuando llega del mayorista, pero no siempre documenta. Toma algunas fotos, pero no están organizadas. Ha recibido reclamos por diferencias de tono. Registra pedidos en Excel de forma básica. Considera que una plataforma sería muy útil para evitar malentendidos y mostrar evidencia a los clientes. |
+| Timing:26:38 – 31:55 min | [Entrevista 6 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
 [Ver las entrevistas en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EWcSisjze8xGsdF3Mvh79Y4BvDdoGIq_Nw9mIRqa4f08zw?e=pw8lk8)
 
