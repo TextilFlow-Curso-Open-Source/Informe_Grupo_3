@@ -314,21 +314,17 @@ TextilFlow se usa justo antes de utilizar una tela en la producción o antes de 
 
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
-Creemos que permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
- Sabremos que esto es cierto cuando veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
-#### Cuando veamos los siguientes comentarios del mercado:
-* “Ahora tengo respaldo para reclamar al proveedor.”
-* “Evité una pérdida gracias a la revisión previa.” 
-* Aumento del 40% en lotes registrados con observaciones.
-* Reducción de reportes por fallos de tela en producción.
+* #### Hypothesis Statement 01:
 
- Creemos que ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
- Sabremos que esto es cierto cuando veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
-#### Cuando veamos los siguientes comentarios del mercado:
-* “Ahora sé que la tela ya venía con ese detalle.”
-* “Agradezco ver el informe antes del envío.”
-* Disminución del 30% en reclamos sin respaldo.
+  **Creemos que** permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
+  **Sabremos** que hemos tenido éxito
+  **cuando** veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
 
+* #### Hypothesis Statement 02:
+
+  **Creemos que** ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
+  **Sabremos** que hemos tenido éxito
+  **cuando** veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
 
 #### **1.2.2.4. Lean UX Canvas**
 **Imagen 3**
