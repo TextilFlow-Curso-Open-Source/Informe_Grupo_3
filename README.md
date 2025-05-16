@@ -2090,47 +2090,66 @@ Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de 
 
 ##### **5.2.2.5. Execution Evidence for Sprint Review**
 
-Para esta entrega, tanto el producto Landing Page como nuestra aplicacion web se encuentran en lanzamiento y con acceso abierto para todos los usuarios.
+Para esta entrega, tanto el producto Landing Page como nuestra aplicacion web se encuentran en lanzamiento y con acceso abierto para todos los usuarios. 
+
+https://github.com/TextilFlow-Curso-Open-Source/Landing-Page-TextilFlow
+
+https://textilflow.web.app/login
 
 <p align="center">
   <img src="images/EEvidence1.png" alt="PB" width="850">
 </p>
 
+<p align="center">
+  <img src="images/EEvidence_sprint2.png" alt="PB" width="850">
+</p>
 
 
+
+[TextilFlow Execution Evidence for Sprint Review](https://drive.google.com/drive/folders/1uNoO2d2ZfiTcSW7YRwtGYBqTgDddZON7?usp=sharing)
 
 
 ##### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 
 Aqui se muestra la documentacion de los servicios empleados. En esta ocasion, hemos usado servicios de forma simulada, para aplicar los servicios finales del servicio.
 
+<p align="center">
+  <img src="images/api_endpoint.jpg" alt="PB" width="850">
+</p>
+
+
 Servicio de users:
 
 <p align="center">
-  <img src="images/User_Service.png" alt="PB" width="850">
+  <img src="images/Users_service.jpeg" alt="PB" width="850">
 </p>
 
 Servicio de businessman:
 
 <p align="center">
-  <img src="images/Businessman_Service.png" alt="PB" width="850">
+  <img src="images/Businessman_service.jpeg" alt="PB" width="850">
 </p>
 
 Servicio de supplier:
 
 <p align="center">
-  <img src="images/Suppliers_Service.png" alt="PB" width="850">
+  <img src="images/Suppliers_Service.jpeg" alt="PB" width="850">
 </p>
 
 Servicio de batches:
 
 <p align="center">
-  <img src="images/Batches_Service.png" alt="PB" width="850">
+  <img src="images/Batches_service.jpeg" alt="PB" width="850">
 </p>
 
 
 ##### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 
+Para este segundo sprint, optamos por usar Firebase para desplegar el front-end. Iniciamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio, realizamos la configuracion con los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy " para implementar nuestra aplicación exclusivamente para el servicio.
+
+<p align="center">
+  <img src="images/deploy_evidence2.jpeg" alt="PB" width="850">
+</p>
 
 
 ##### **5.2.2.8. Team Collaboration Insights during Sprint**
