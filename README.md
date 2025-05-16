@@ -164,6 +164,16 @@
     <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
     <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
     <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#522-sprint-2">5.2.2. Sprint 2</a></li>
+    <li><a href="#5221-sprint-planning-1">5.2.2.1. Sprint Planning 2</a></li>
+    <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
+    <li><a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a></li>
+    <li><a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a></li>
+    <li><a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a></li>
+    <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
+    <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
+    <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+    
   </ul>        
 
 <hr>
@@ -1667,7 +1677,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint n \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
 | **Sprint Goal & User Stories** |  |
 | Sprint n Goal | Nuestro objetivo es implementar todas las funcionalidades principales de la **landing page de TextilFlow** en este Sprint de 3 semanas, para ofrecer una experiencia clara, confiable y atractiva a los visitantes nuevos. Queremos que los usuarios: Comprendan de inmediato el propósito de la plataforma.<br> Conozcan sus beneficios, precios y el equipo detrás.<br> Tengan acceso directo al registro, login, redes sociales y navegación del sitio.  |
-| Sprint n Velocity | 3 |
+| Sprint 1 Velocity | 3 |
 | Sum of Story Points | 18 |
 
 ##### **5.2.1.2. Aspect Leaders and Collaborators**
@@ -1818,6 +1828,41 @@ Landing-Page-TextilFlow:
   <img src="images/insights1.2.png" alt="PB" width="850">
 </p>
 
+##### **5.2.2. Sprint 2**
+
+
+##### **5.2.2.1. Sprint Planning 2**
+
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 1 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este segundo Sprint, enfocándonos en el desarrollo iniciald del front-end de TextilFlow. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma.<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
+| Date | 2025-05-01 |
+| Time | 19:10 PM |
+| Location | Meeting by Discord |
+| Prepared By |  Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz <br>Maylhy Olinda Gutierrez Condo |
+| Sprint 2 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 2 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | Nuestro objetivo es implementar todas las funcionalidades principales para la **version inicial del front-end de TextilFlow** en este Sprint de 2 semanas, para mostrar la funcionalidad en esencia del producto. Queremos que los usuarios: Descubran lo esencial de nuestra aplicacion.<br> Tengan acceso directo al registro, login, registro de lotes, configuracion y personalizacion.  |
+| Sprint 2 Velocity | 3 |
+| Sum of Story Points | 18 |
+
+##### **5.2.2.2. Aspect Leaders and Collaborators**
+
+##### **5.2.2.3. Sprint Backlog 2**
+
+##### **5.2.2.4. Development Evidence for Sprint Review**
+
+##### **5.2.2.5. Execution Evidence for Sprint Review**
+
+##### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+##### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
+##### **5.2.2.8. Team Collaboration Insights during Sprint**
 
 ## **Conclusiones**
 
