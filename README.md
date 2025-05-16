@@ -48,18 +48,20 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
-
+| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrea pacial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
 
 <hr>
 
 ## Project Report Collaboration Insights  
 
 
-**Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
+Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
 
 #### Enlace del repositorio "Informe_Grupo_3": **https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3**
 
 **TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+
+**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
 **Figura 1**  
 *Insights de Informe_Grupo_3*
@@ -2013,7 +2015,7 @@ Landing-Page-TextilFlow:
 
 Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
 
-| Sprint \# | Sprint 1 |
+| Sprint \# | Sprint 2 |
 | :---- | :---- |
 | **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este segundo Sprint, enfocándonos en el desarrollo iniciald del front-end de TextilFlow. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma.<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
 | Date | 2025-05-01 |
@@ -2041,22 +2043,109 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 ##### **5.2.2.3. Sprint Backlog 2**
 
+Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de TextilFlow. Para llevarlo a cabo, definimmos tareas especificas para cada historia de usuario relacionada con la funcionalidad y las hemos asignado entre los integrantes del equipo. Para una mejor organizacion en el Backlog, usamos la herramienta Trello.
+
+*Sprint 2 de TextilFlow*
+<p align="center">
+  <img src="images/sprint2.png" alt="PB" width="850">
+</p>
+
+
+[Sprint Backlog en Trello](https://trello.com/invite/b/6826ee088086ab2cf36c5887/ATTIda93837814f8bd7a54a1d6a214528a46DFB98EAE/sprint-2)
+
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| 21 | Registro de usuario	 | T1 | Desarrollar registro de usuario |  Implementar registro de usuario en Angular | 2 | Mathew Roca | Done |
+| 22 | Inicio de Sesion	 | T1 | Desarrollar inicio de sesion | Implementar inicio de sesion en Angular | 2 | Mathew Roca | Done |
+| 24 | Seleccion de Tipo de Usuario | T1 | Desarrollar la seleccion segun el tipo de usuario | Implementar la seleccion de usuario en Angular | 1 | Mathew Roca | Done |
+| 01 | Visualizar listado de lotes recibidos | T1 | Ver todos los lotes recibidos	 | Implementar la visualizacion de lotes recibidos | 3 | Maylhy Gutiérrez | Done |
+| 04 | Ver detalles de un lote específico | T1 | Ver los detalles de los lotes | Desarrollar la muestra de detalles de los lotes | 4 | Maylhy Gutiérrez | Done |
+| 05 | Enviar observaciones sobre un lote recibido | T1 | Enviar observaciones de alertas en el lote | Desarrollar la logica de envio de observaciones | 3 | Maylhy Gutiérrez | Done |
+| 12 | 	Visualizar planes de suscripción disponibles | T1 | Mostrar los planes disponibles | Agregar la seccion de planes disponibles en Angular | 2 | Giancarlo Solis | Done |
+| 14 | Personalizar la vista de la plataforma | T1 | Personalizacion de la vista segun lo quiera el usuario | Desarrollar la personalizacion de la app en Angular | 3 | Mathias Bueno | Done |
+| 15 | Editar datos del perfil | T1 | Desarrollar la edicion de datos del perfil | Implementar la logica de personalizacion del perfil | 1 | Mathias Bueno | Done |
+| 18 | Registrar lote por código automático o manual | T1 | Desarrollar el registro de lote | Implementar logica de registro de lote en Angular | 4 | Maylhy Gutierrez | Done |
+| 08 | Visualizar observaciones enviadas | T1 | Ver todas las observaciones  | Desarrollar la visualizacion de observaciones enviadas | 3 | Giancarlo Solis | In process |
+
+
 ##### **5.2.2.4. Development Evidence for Sprint Review**
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| TextilFlow-Curso-Open-Source/Front-end | feat/initial | e00df80 | feat: adding login,layouts and authentication |  | 13/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/config_and_profile | 07c7283 | feat: adding config models, services and businessman profile config |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/supplier_home | 84967af | feat:Adding funcionality to the Supplier-home part |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/business_home | 0ab56af | feat:Adding the bussinessmanHome into the code with funcionalities |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/sup_config_profile | 79f1bbc | feat:adding supplier configuration and profile |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 8b8ef6b | feat: batch registration with success, error and warning notifications |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 352212f | fix: ajustes finales antes de cerrar la feature  |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 78039b5 | fix: Add supplier batch |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 76786ef | fix:update styles,html and logic in Supplier-Home |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/sup_config_profile | f20b934 | fix:updating supplier profile configuration |  | 15/05/2025 |
 
 ##### **5.2.2.5. Execution Evidence for Sprint Review**
 
+Para esta entrega, tanto el producto Landing Page como nuestra aplicacion web se encuentran en lanzamiento y con acceso abierto para todos los usuarios.
+
+<p align="center">
+  <img src="images/EEvidence1.png" alt="PB" width="850">
+</p>
+
+
+
+
+
 ##### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+Aqui se muestra la documentacion de los servicios empleados. En esta ocasion, hemos usado servicios de forma simulada, para aplicar los servicios finales del servicio.
+
+Servicio de users:
+
+<p align="center">
+  <img src="images/User_Service.png" alt="PB" width="850">
+</p>
+
+Servicio de businessman:
+
+<p align="center">
+  <img src="images/Businessman_Service.png" alt="PB" width="850">
+</p>
+
+Servicio de supplier:
+
+<p align="center">
+  <img src="images/Suppliers_Service.png" alt="PB" width="850">
+</p>
+
+Servicio de batches:
+
+<p align="center">
+  <img src="images/Batches_Service.png" alt="PB" width="850">
+</p>
+
 
 ##### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 
+
+
 ##### **5.2.2.8. Team Collaboration Insights during Sprint**
+
+Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. Aqui adjuntamos una imagen que muestra la cotribucion de todos los miembros del equipo con los commits durante este proceso de desarrollo.
+
+<p align="center">
+  <img src="images/Insights2.png" alt="PB" width="850">
+</p>
+
 
 ## **Conclusiones**
 
 
 * Nuestro startup Qualix que tiene como producto a TextilFlow tiene potencial para ser explotado en el rubro textil, y es que la gestión de lotes, su documentación y evidencia visual de cada uno previo a una venta/compra, así como la verificación de la calidad de esta, son cruciales al momento de producir prendas o algún producto confeccionado.
 
-* Luego de la delimitación de las funcionalidades a considerar en nuestro producto, hicimos el despliegue de nuestra Landing Page con HTML CSS y Javascript, partiendo de las delimitaciones anteriormente hechas en algunos wireframes o mock ups, dándole así uso a la plataforma de control de versiones, GitHub.
+* Luego de la delimitación de las funcionalidades a considerar en nuestro producto, hicimos el despliegue de nuestra Landing Page y web applications con HTML CSS y Javascript, partiendo de las delimitaciones anteriormente hechas en algunos wireframes o mock ups, dándole así uso a la plataforma de control de versiones, GitHub.
 
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
