@@ -2078,7 +2078,7 @@ Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de 
 [Sprint Backlog en Trello](https://trello.com/invite/b/6826ee088086ab2cf36c5887/ATTIda93837814f8bd7a54a1d6a214528a46DFB98EAE/sprint-2)
 
 
-| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work Item/Task |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
