@@ -8,8 +8,8 @@
 <h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
 <h4 style="text-align: center;"><strong>Desarrollo de Aplicaciones Open Source - 4289</strong></h4>
 <h4 style="text-align: center;"><strong>Docente: Efraín Ricardo Bautista Ubillús</strong></h4>
-<h4 style="text-align: center;"><strong>Startup: TextilFlow</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Efraín Ricardo Bautista Ubillús</strong></h4>
+<h4 style="text-align: center;"><strong>Startup: Qualix</strong></h4>
+<h4 style="text-align: center;"><strong>Producto: TextilFlow</strong></h4>
 
 ### **Team members:**
 
@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-<h3 style="text-align: center;"><strong>Ciclo 2025-01</strong></h3>
+<h3 style="text-align: center;"><strong>Ciclo 2025-10</strong></h3>
 
 <hr>
 
@@ -48,18 +48,20 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
-
+| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga parcial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
 
 <hr>
 
 ## Project Report Collaboration Insights  
 
 
-**Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
+Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
 
 #### Enlace del repositorio "Informe_Grupo_3": **https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3**
 
 **TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+
+**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
 **Figura 1**  
 *Insights de Informe_Grupo_3*
@@ -164,6 +166,16 @@
     <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
     <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
     <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#522-sprint-2">5.2.2. Sprint 2</a></li>
+    <li><a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a></li>
+    <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
+    <li><a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a></li>
+    <li><a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a></li>
+    <li><a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a></li>
+    <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
+    <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
+    <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+    
   </ul>        
 
 <hr>
@@ -172,8 +184,8 @@
 
 | Criterio específico | Acciones realizadas  | Conclusiones  |
 | :---- | :---- | :---- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase.  |
-| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. | <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> Al actualizar el Figma, levantar la API y registrar los lotes, pude explicar de manera clara los cambios y procesos tanto a diseñadores como a desarrolladores, adaptando mi comunicación según el perfil técnico de cada grupo para asegurar una comprensión efectiva. <br>**Roca Tineo, Steven Mathew**<br> Al desarrollar el registro, login de usuario y la sección de solicitudes, comuniqué los avances y necesidades del proyecto de forma clara y adecuada, adaptando mi mensaje según el perfil técnico de cada miembro del equipo. <br>**Mathias Eduardo Bueno Perales**<br> Al trabajar en la configuración, el perfil de usuario y el avance del sprint 2, logré comunicar claramente los objetivos y progresos a distintos miembros del equipo, ajustando mi lenguaje según el rol de cada interlocutor para asegurar una colaboración efectiva. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Durante el desarrollo del HomeView y la mejora del diagrama de clases y diccionario de clases, logré comunicar de forma clara y adecuada los avances y decisiones técnicas al equipo, adaptando el lenguaje según el perfil de cada audiencia, lo que facilitó la colaboración y comprensión del proyecto. | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase. <br>**TP:**<br> Todos los integrantes mostraron una comunicación oral clara y efectiva en la exposición. Adaptamos el lenguaje según el público (profesores y compañeros), asegurando comprensión en cada fase.|
+| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> Al actualizar el Figma, levantar la API y registrar lotes, redacté informes y documentos claros y precisos, adaptando el contenido para que tanto diseñadores como desarrolladores comprendieran fácilmente los avances y requerimientos del proyecto.<br>**Roca Tineo, Steven Mathew**<br> Al implementar el registro, login de usuario y la sección de solicitudes, documenté de manera clara los procesos y requerimientos, adaptando la redacción para que tanto perfiles técnicos como no técnicos pudieran comprender y dar seguimiento al proyecto. <br>**Mathias Eduardo Bueno Perales**<br> Al trabajar en la configuración, el perfil de usuario y el avance del sprint 2, elaboré documentación clara y accesible que permitió a diferentes miembros del equipo entender el progreso y los detalles técnicos del proyecto, adaptando el lenguaje según el público. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Al desarrollar el HomeView, corregir el diagrama de clases y actualizar el diccionario de clases, redacté documentos técnicos claros y estructurados, facilitando la comprensión tanto para perfiles técnicos como para miembros con menos experiencia. | <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. <br>**TP:**<br> Durante esta parte del trabajo, la documentacion agregada al documento fue clara y adecuada para distintos publicos. Nuestra redaccion ordenada permite la comprension de los nuevos puntos avanzados del proyecto. Cada uno realizo aporte para llenar por completo la documentacion.  |
 
 
 <hr>
@@ -314,21 +326,17 @@ TextilFlow se usa justo antes de utilizar una tela en la producción o antes de 
 
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
-Creemos que permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
- Sabremos que esto es cierto cuando veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
-#### Cuando veamos los siguientes comentarios del mercado:
-* “Ahora tengo respaldo para reclamar al proveedor.”
-* “Evité una pérdida gracias a la revisión previa.” 
-* Aumento del 40% en lotes registrados con observaciones.
-* Reducción de reportes por fallos de tela en producción.
+* #### Hypothesis Statement 01:
 
- Creemos que ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
- Sabremos que esto es cierto cuando veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
-#### Cuando veamos los siguientes comentarios del mercado:
-* “Ahora sé que la tela ya venía con ese detalle.”
-* “Agradezco ver el informe antes del envío.”
-* Disminución del 30% en reclamos sin respaldo.
+  **Creemos que** permitir que las empresas textiles registren el estado de los lotes de tela con fotos y observaciones antes de usarlos reducirá los errores de producción y mejorará la capacidad de hacer reclamos con evidencia.
+  **Sabremos** que hemos tenido éxito
+  **cuando** veamos que los usuarios registran activamente los lotes en la plataforma y reportan una disminución en la cantidad de telas defectuosas utilizadas en producción.
 
+* #### Hypothesis Statement 02:
+
+  **Creemos que** ofrecer a los distribuidores una forma de documentar y compartir la calidad del lote antes del envío aumentará la confianza del cliente y reducirá los reclamos sin justificación.
+  **Sabremos** que hemos tenido éxito
+  **cuando** veamos que los distribuidores generan reportes previos al envío y que los clientes mencionan una mayor claridad sobre el estado de la tela recibida.
 
 #### **1.2.2.4. Lean UX Canvas**
 **Imagen 3**
@@ -369,10 +377,23 @@ Este segmento está formado por personas o empresas dedicadas a la venta y distr
 ### **2.1. Competidores**
 
 #### **2.1.1. Análisis competitivo**
-**Imagen 4**
-<p align="center">
-  <img src="images/Analisis_Competitivo.png" alt="PB" width="800">
-</p>
+
+| Competitive Analysis Landscape |  |  |  |  |  |
+| ----- | :---: | ----- | ----- | ----- | ----- |
+|  ¿Por qué llevar a cabo este análisis? |  | ¿Cuál es el análisis de las ventajas y desventajas de las empresas que compiten con nosotros? ¿Cómo nos comparamos en términos de fortalezas y debilidades respecto a ellos? ¿Se vislumbran oportunidades para destacarnos de la competencia y de qué manera podríamos sacar provecho de ellas? |  |  |  |
+|  |  | El propósito de este análisis competitivo es evaluar las ventajas y desventajas de Qualix y su producto Textiflow en comparación con los competidores, con el fin de crear estrategias y diseños que nos permitan competir de manera efectiva en el mercado. |  |  |  |
+|  Competidores |  | Textiflow ![][image1] | Inspectorio ![Inspectorio Announces New Tracking Platform to Prevent Supply Chain Delays  and Improve On-Time Delivery Performance][image2] | Texbase ![Texbase Appoints Veteran Retail Tech Pioneer Donny Askin As CEO][image3] | TextileGenesis ![TextileGenesis Enables Fashion Industry to Trace Origin of All Materials,  Sustainable or Generic, via its Platform – DailyCADCAM][image4] |
+|  P E R F I L | Overview | Plataforma web para trazabilidad y control de calidad en la recepción y distribución de telas. |  Plataforma SaaS global para control de calidad, auditorías y cumplimiento en la cadena de suministro  | Plataforma de gestión de calidad, cumplimiento y especificaciones para textiles y productos blandos. | Plataforma de trazabilidad para el sector textil/moda, que utiliza la tecnología Fibercoin |
+|  |  Ventaja Competitiva ¿Qué valor ofrece el cliente?  | Textiflow se enfoca en utilizar evidencia visual y documentada del estado de los lotes de tela para prevenir errores y fortalecer la confianza entre distribuidores y talleres. | Inspectorio su gran enfoque es en automatizar inspecciones, mejora cumplimiento y visibilidad, reduce errores humanos.  | Texbase se enfoca en unificar la cadena de suministro en términos de cumplimiento, pruebas de laboratorio y gestión de producto. | TextileGenesis se concentra más en acelerar la implantación de la trazabilidad desde la fibra al retail para todo el sector. |
+|  P E R F I L D E M A R K E T I N G | Mercado Objetivo | TextiFlow tiene como mercado objetivo empresas textiles, talleres de confección y distribuidores de telas en Perú dándole una mayor visualización a las pequeñas empresas y negocios que recién comienzan en este rubro. | Inspectorio está dirigido principalmente a grandes marcas de moda, retailers y fabricantes globales. | Textbase está más dirigido hacia grandes retailers, marcas y además a laboratorios textiles. | TextileGenesis está más enfocado a lo que es una red global de fabricantes de fibras sostenibles, marcas líderes y organizaciones industriales. |
+|  | Estrategias de marketing | Las estrategias de marketing que utiliza el producto TextiFlow se centran en promover su solución dentro de los estándares modernos como: Marketing de Contenidos Marketing en Redes Sociales Publicidad Online Publicidad directa en zona de distribución textil.  | Inspectorio opta por un estilo de marketing como: B2B, alianzas con marcas como Target, Crocs, Levi’s. | Textbase se enfoca más por el lado de asociaciarce con proveedores certificados, énfasis en estándares. | TextileGenesis busca más por optar una comunicación directa con los retails además de darse a conocer por anuncios en línea. |
+|  | Productos y servicios | TextilFlow ofrece en principal registrar lotes de tela, generar reportes, subir fotos, evidencias y compartir datos con clientes/proveedores; dándole un completo énfasis en la verificación de las telas | Inspectorio ofrece en general las inspecciones digitales, compliance, trazabilidad, auditorías, desbordas analíticos. | Textbase se enfoca más en ofrecer una gestión de pruebas, fichas técnicas, cumplimiento regulatorio, calidad. | TextileGenesis ofrece más que todo acelerar la implantación de la trazabilidad desde la fibra al retail con marcas internacionales de renombre. |
+|  | Precios y costos | Ofrecemos una versión de pago accesible para los clientes. | Ofrece más que todo modelo Enterprise personalizado, alto ticket. | Enfocado a medianas y grandes empresas, con precios personalizados. | Posiblemente basado en membresía o suscripción con opción a free service. |
+|  | Canales de distribución |  Directo vía web, ferias textiles. |  Equipo comercial, partners globales, eventos corporativos. |  Ventas corporativas, red de partners tecnológicos. |  Alianzas estratégicas y presencia digital. |
+| A N A L I S I S S W O T | Fortalezas | Enfoque regional, facilidad de uso, precio accesible, visión open source. Adaptabilidad a procesos locales y facilidad de implementación. | Cliente base fuerte, herramienta robusta, presencia global. | Larga trayectoria en la industria, alta personalización. | Foco en sostenibilidad y trazabilidad desde la fibra al retail. |
+|  | Debilidades | Startup en etapa temprana, sin clientes consolidados aún. Baja adopción tecnológica de usuarios tradicionales del rubro textil. | Costo elevado, poco enfoque en pymes. |  No enfocado en  control visual de  lotes o contacto  directo con  talleres.  | No especificado, pero podría carecer de enfoque en pymes.  |
+|  | Oportunidades | Digitalización acelerada del sector textil, necesidad de transparencia en Perú. Nuevas exigencias de trazabilidad y respaldo para exportaciones y auditorías. | Expansión hacia LATAM. | Integrarse con plataformas emergentes más ágiles. | Reposicionar modelo en regiones donde el impacto de ESG es creciente. |
+|  | Amenazas |  Competidores  consolidados en  mercados  internacionales que  pueden expandirse localmente. Cultura de  informalidad o   resistencia al  cambio en pymes  textiles.  | Competencia más flexible o económica para mercados emergentes. | Soluciones más económicas y específicas para LATAM. | Demanda baja en mercados donde la trazabilidad aún no es prioridad. |
 
 #### **2.1.2. Estrategias y tácticas frente a competidores**
 
@@ -514,259 +535,51 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### **2.2.2. Registro de entrevistas**
 
-### Registro de Entrevista – Segmento 1: Empresarios
+### Segmento 1: Empresarios
 
----
+| Entrevistado 1 |  Jeanfer Ichiro Oshiro Asato |
+| :---- | :---- |
+| Edad | 25 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista1_segmento1.png" alt="PB" width="800"> | Cuenta con 2 años de experiencia trabajando en una fábrica textil de ropa deportiva. Realiza funciones en el área de almacén y control de calidad. Al recibir un nuevo lote, primero verifica que coincida con la guía, luego hace una inspección visual. Aunque existe un protocolo de revisión, no siempre se aplica por falta de tiempo. Los aspectos que evalúa son color, textura, elasticidad, manchas y metraje. Usa papel, Excel y WhatsApp para los registros, aunque de forma no constante. Toman fotos, pero no están organizadas. Cree que una plataforma que centralice esta información sería muy útil para el orden y los reclamos. |
+| Timing:00:02 – 06:20 min | [Entrevista 1 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8)  |
 
-### Entrevista #1 :
-### **Características demográficas**
+| Entrevistado 2 |  Victor Eduardo Orbezo Paredes |
+| :---- | :---- |
+| Edad | 25 años |
+| Distrito/Ciudad | Lima |
+|  <img src="images/entrevista7.png" alt="PB" width="800">  | Tiene entre 8 a 10 años de experiencia trabajando en un negocio familiar textil. Cuando recibe tela, se almacena y revisa visualmente sin seguir un protocolo técnico. La revisión se basa en la experiencia y se limita a aspectos generales como color, textura y elasticidad. Los registros se hacen en papel o por WhatsApp, de manera informal. Considera difícil reclamar a proveedores por falta de evidencia. Afirma que una plataforma que permita registrar evidencias visuales y observaciones facilitaría el orden interno y el respaldo ante reclamos. |
+| Timing:06:23 – 12:27 min | [Entrevista 2 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
-**Imagen 5**
-<p align="center">
-  <img src="images/entrevista7.png" alt="PB" width="800">
-</p> 
-
-
-1. **¿Cuál es tu edad?**  
-   Actualmente tengo 25 años.
-
-2. **¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?**  
-   Trabajo en la ciudad de Lima en un negocio familiar donde se confeccionan varios tipos de prendas como polos, pantalones, shorts, etc.
-
-3. **¿Cuántos años de experiencia tienes trabajando en el rubro textil?**  
-   Llevo toda mi vida aprendiendo de este mundo, pero laborando, llevaría entre 8 a 10 años, apoyando y dirigiendo de diversas maneras en el negocio.
-
-### **Preguntas Principales**
-
-1. **¿Cómo es el proceso actual cuando llega un nuevo lote de tela a tu empresa?**  
-   Cuando llega un nuevo lote, lo primero que hacemos es descargarlo y almacenarlo en una zona designada. Luego, alguien del equipo de almacén revisa de forma general la tela, pero es más visual que técnica. No tenemos un sistema muy formalizado para eso, lo hacemos "al ojo".
-
-2. **¿Tienen un protocolo definido para revisar la calidad de la tela? ¿Quién lo realiza?**  
-   La verdad, no tenemos un protocolo definido. Cada quien revisa según su experiencia. Generalmente lo hace el encargado de almacén o producción, pero no hay una guía clara ni documentación.
-
-3. **¿Qué aspectos revisan normalmente en la tela (color, textura, elasticidad, manchas, etc.)?**  
-   Vemos el color, que no esté manchada, que la textura sea la adecuada según el tipo de tela, y si tiene la elasticidad que necesitamos. Pero todo es muy subjetivo, no tenemos instrumentos de medición ni nada técnico.
-
-4. **¿Llevan algún registro de esa revisión? ¿Cómo lo hacen? (Papel, Excel, WhatsApp, etc.)**  
-   No como debería ser. A veces lo anotamos en una hoja o le pasamos el dato al jefe por WhatsApp. Otras veces se queda todo en la memoria. Solo cuando hay un problema serio se documenta un poco más.
-
-5. **¿Toman fotos o videos como respaldo? ¿Dónde los guardan?**  
-   Sí, tomamos fotos cuando vemos algo raro, pero se quedan en el celular de quien las tomó. No tenemos un lugar fijo donde se guarden, y a veces hasta se pierden o se borran sin querer.
-
-6. **¿Qué pasa si detectan un problema en el lote recibido? ¿Tienen forma de reclamar al proveedor? ¿Cómo lo hacen?**  
-   Sí, pero es complicado. Llamamos al proveedor y le mandamos fotos por WhatsApp o correo. A veces acepta el reclamo, otras veces no, porque no hay pruebas suficientes o porque pasó mucho tiempo. Es difícil demostrar que el problema fue desde que llegó.
-
-7. **¿Han tenido problemas por haber usado tela en mal estado sin darse cuenta al inicio?**  
-   Sí, ha pasado. A veces no se nota al inicio, y ya cuando se empieza a confeccionar recién salta el problema. Eso genera pérdidas porque hay que parar la producción o rehacer las prendas.
-
-### **Preguntas sobre el Proyecto (Qualyx)**
-
-1. **¿Qué te parecería tener una plataforma donde puedas registrar cada lote de tela que recibes y dejar evidencia visual y escrita de su estado?**  
-   Me parecería excelente. Nos daría mucho más orden y respaldo. Tener todo en un solo lugar nos evitaría muchos problemas con los proveedores y también dentro del equipo.
-
-2. **¿Qué datos crees que serían importantes registrar en la plataforma?**  
-   Tipo de tela, metraje, proveedor, fecha de llegada, quién la recibió, fotos del estado, observaciones, si hubo problemas o no, y quizás también el número de guía de remisión para tener todo relacionado.
-
-3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
-   Sí, mucho. Tener ese historial nos permitiría hacer seguimiento, identificar patrones (si un proveedor siempre falla, por ejemplo), y también nos serviría como prueba ante auditorías o reclamos. Sería una gran mejora frente a lo que hacemos ahora.
-
-### Entrevista #2 :
-**Imagen 6**
-<p align="center">
-  <img src="images/entrevista1_segmento1.png" alt="PB" width="800">
-</p> 
-Duracion(00:05-6:17)min.
-
-### **Características demográficas**
-
-1. **¿Cuál es tu edad?**  
-   Tengo 25 años.
-
-2. **¿En qué ciudad y tipo de empresa textil trabajas (taller, fábrica, marca de ropa, etc.)?**  
-   Trabajo en Lima, en una fábrica textil que produce telas para confección de ropa deportiva.
+| Entrevistado 3 |  Eduardo Andy Bueno Muro |
+| :---- | :---- |
+| Edad | 46 años |
+|  <img src="images/entrevista5_segmento2.png" alt="PB" width="800"> | Eduardo no tiene tienda física ni online; vende a través de su cartera de clientes. Distribuye jersey, franela, french terry y gamuza pima. Verifica la calidad en laboratorios midiendo gramaje y encogimiento. Hace inspecciones finales para detectar fallas. Guarda registros digitales por fecha y cliente. Toma muestras por color como respaldo. Le parece buena la idea de una plataforma para compartir evidencia visual, aunque expresa cierta reserva sobre exponer todo el proceso por miedo a que sus clientes copien su ruta de producción. |
+| Timing:12:30 – 18:12 min | [Entrevista 3 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
 
-3. **¿Cuántos años de experiencia tienes trabajando en el rubro textil?**  
-   Tengo 2 años de experiencia, principalmente en almacén y control de calidad.
+### Segmento 2: Distribuidores de Telas 
 
-### **Preguntas Principales**
+| Entrevistado 4 |  Daniela Gomez |
+| :---- | :---- |
+| Edad | 28 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista4-segmento2.png" alt="PB" width="800">| Daniela trabaja por pedidos para marcas pequeñas. Verifica calidad al tacto y visualmente. No tiene respaldo formal; cuando detecta defectos, no puede reclamar. Lleva registros en notas manuales y carpetas, lo que le genera desorden. Solo toma fotos si el cliente es nuevo o ha reclamado antes. Considera que una plataforma sería muy útil para mostrar evidencia, evitar errores y tener orden. Le gustaría que tanto proveedor como cliente puedan ver los controles para evitar malentendidos. |
+| Timing:18:13 – 22:16 min | [Entrevista 4 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
-1. **¿Cómo es el proceso actual cuando llega un nuevo lote de tela a tu empresa?**  
-   Primero recibimos el lote en el almacén, lo descargamos y revisamos que coincida con la guía. Luego hacemos una inspección visual rápida para ver si hay algo evidente como manchas o diferencias de color. A veces pasa al área de calidad para una revisión más técnica, pero no siempre se hace en el momento por falta de tiempo.
+| Entrevistado 5 |  Antonio Ramirez |
+| :---- | :---- |
+| Edad | 22 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista3_segmento2.png" alt="PB" width="800">| Tiene una tienda física en Gamarra y vende también por redes. Distribuye algodón licrado, denim y telas deportivas. Verifica calidad de forma visual, usando a veces lámparas para ver imperfecciones. A veces envía fotos por WhatsApp, pero no tiene respaldo formal. Ha tenido reclamos por diferencias de tono sin tener pruebas. Lleva registros en cuadernos o Excel de manera intermitente. Le parece excelente una plataforma donde pueda registrar evidencia, tener orden y compartir información con el cliente. |
+| Timing:22:19 – 26:35 min | [Entrevista 5 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
-2. **¿Tienen un protocolo definido para revisar la calidad de la tela? ¿Quién lo realiza?**  
-   Sí, hay un protocolo, pero en la práctica no se sigue siempre. Lo debe realizar el área de control de calidad, aunque muchas veces los de almacén hacemos una revisión básica si ellos están ocupados.
-
-3. **¿Qué aspectos revisan normalmente en la tela (color, textura, elasticidad, manchas, etc.)?**  
-    Revisamos color, textura, elasticidad, que no tenga manchas, hilos sueltos o diferencias entre rollos. También que el metraje esté correcto.
-
-4. **¿Llevan algún registro de esa revisión? ¿Cómo lo hacen? (Papel, Excel, WhatsApp, etc.)**  
-   Sí, usamos formatos en papel y, en algunos casos, pasamos observaciones por WhatsApp al área de calidad. A veces se lleva en Excel, pero no es constante.
-
-5. **¿Toman fotos o videos como respaldo? ¿Dónde los guardan?**  
-   Sí, fotos principalmente. Las tomamos con el celular y se envían por WhatsApp o se guardan en la galería. No hay una carpeta o sistema específico para organizarlas.
-
-6. **¿Qué pasa si detectan un problema en el lote recibido? ¿Tienen forma de reclamar al proveedor? ¿Cómo lo hacen?**  
-   Se informa al jefe de calidad o al encargado. Ellos contactan al proveedor con las fotos como prueba. A veces el proveedor acepta el reclamo, pero otras veces no, porque dicen que el daño no estaba cuando se envió.
-
-7. **¿Han tenido problemas por haber usado tela en mal estado sin darse cuenta al inicio?**  
-   Sí, varias veces. Ha pasado que se empieza a cortar sin revisar bien, y después aparecen manchas o diferencias de color que afectan la producción. Eso genera pérdida de tiempo y material.
-
-### **Preguntas sobre el Proyecto (Qualyx)**
-
-1. **¿Qué te parecería tener una plataforma donde puedas registrar cada lote de tela que recibes y dejar evidencia visual y escrita de su estado?**  
-   Me parecería muy útil, porque muchas veces la información se pierde o no queda registrada de forma clara. Tener todo en una sola plataforma sería más ordenado y ayudaría en los reclamos.
-
-2. **¿Qué datos crees que serían importantes registrar en la plataforma?**  
-   Tipo de tela, color, proveedor, fecha de recepción, quién recibió, observaciones, fotos, si fue aprobado o no, y algún número de lote o código interno.
-
-3. **¿Te ayudaría tener reportes automáticos o un historial con todos los lotes revisados?**  
-   Sí, definitivamente. Con eso podríamos tener mejor control y hacer seguimiento a los proveedores que entregan con fallas frecuentes. También ayudaría mucho para auditorías.
-
-
-### Registro de Entrevista – Segmento 2: Distribuidores de Telas 
-### Entrevista #1 :
-
-**Imagen 7**
-
-<p align="center">
-  <img src="images/entrevista4-segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(18:12-22:16)min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
-    Tengo 28 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
-    Tengo un taller en mi casa, donde trabajo con tres personas más. No vendo directamente, trabajo por pedidos para marcas pequeñas o emprendedores.
-3. **¿Qué tipo de telas sueles distribuir?**
-    Trabajo con algodón, lycra, popelina y últimamente algo de denim para ropa juvenil.
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-    Cuando llegan las telas al taller, las reviso al tacto y estiro un poco para ver la elasticidad. También veo que el color no varíe entre rollos. Pero no siempre tengo tiempo para revisarlas una por una.
-2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
-    No, nunca. Si algo está mal, lo reclamo verbalmente al proveedor, pero no tengo pruebas. Me ha pasado que me dicen que ya venía así y nadie se hace cargo.
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
-    Sí, varias veces. A veces la tela tiene fallas en el color o se rompe al coser. El problema es que ya está cortada y no hay forma de reclamar. Eso me ha hecho perder clientes y dinero.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-    Hago notas a mano y tengo carpetas con pedidos, pero no hay algo unificado. Me pierdo a veces, sobre todo cuando tengo pedidos urgentes o simultáneos.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-    Solo si el cliente es nuevo o me ha reclamado antes. No tengo costumbre de documentar todo porque es muy tedioso con el celular.
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-    Me encantaría. Podría revisar cómo llegó cada rollo de tela y tener fotos antes de cortar. También podría mostrarle al proveedor si algo viene mal.
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-    Sí, sobre todo cuando tengo varios pedidos seguidos. Me ayudaría a evitar errores como entregar la prenda equivocada o usar una tela que no era.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
-    Sí, sería mucho más profesional. Así no hay confusiones y se evitan malos entendidos. Todos ven lo mismo, y queda como evidencia de lo que se hizo.
-
-### Entrevista #2 :
-
-**Imagen 8**
-
-<p align="center">
-  <img src="images/entrevista2_segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(00:02-5:15)min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
-    Tengo 20 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
-    Una tienda física en Gamarra, pero también vendo por redes sociales y WhatsApp a talleres de confección en Lima y provincias.
-3. **¿Qué tipo de telas sueles distribuir?**
-    Principalmente telas planas y de punto: franela, jersey, popelina, algodón licrado y algunas telas sintéticas para ropa juvenil.
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-    Normalmente reviso el lote cuando llega del proveedor mayorista. Veo que no tenga manchas, que el color esté parejo y que el metraje esté correcto. Si el cliente es exigente, reviso con más detalle antes del envío.
-2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
-    La verdad, no siempre. A veces tomo fotos si es un cliente nuevo o complicado, pero la mayoría de veces solo confían en lo que les mando. Si me reclaman, tengo que revisar el rollo o hablar con el proveedor, pero sin evidencia es difícil.
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?** 
-    Sí, claro. Me ha pasado que me reclaman por manchas o por diferencia de tono. Algunos clientes piensan que yo les mandé mal la tela, cuando en realidad vino así del mayorista. A veces lo resuelvo cambiando el rollo, otras veces pierdo el cliente.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-    Manejamos un Excel básico con el tipo de tela, cantidad y nombre del cliente. No siempre apunto el número de lote porque muchos no vienen etiquetados.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-    Sí, trato de tomar una o dos fotos por cada rollo, pero las tengo en el celular mezcladas con otras cosas. A veces se me olvidan o no las encuentro después.
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-    Me parecería súper útil, especialmente para evitar malentendidos. Así puedo mostrar que la tela salió bien y el cliente también tiene cómo verificar. 
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-    Sí, bastante. Así tengo un respaldo de lo que ya envié, a quién, en qué condiciones, y puedo revisar rápido si me reclaman algo.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?** 
-    Sí, totalmente. Así no hay confusión. Si los dos vemos lo mismo, se evitan discusiones. Incluso sería bueno que el cliente pueda confirmar o dejar un comentario después de recibir.
-
-### Entrevista #3 :
-**Imagen 9**
-
-<p align="center">
-  <img src="images/entrevista3_segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(22:19-26:35)min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
- Tengo 22 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
- Tengo una tienda física en Gamarra, pero también vendo por WhatsApp y redes sociales.
-3. **¿Qué tipo de telas sueles distribuir?**
- Principalmente algodón licrado, denim y telas sintéticas para ropa deportiva.
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
- Normalmente revisamos visualmente cada rollo. Vemos si hay manchas, cambios de color o si el estiramiento es el adecuado. A veces usamos una lámpara para ver imperfecciones.
-2. **¿Tienes alguna forma de respaldar que las telas estaban en buen estado al momento de la entrega?**
- No formalmente. A veces les mando fotos por WhatsApp antes de despachar, pero no siempre lo hacemos. Es más por confianza.
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
- Sí, una vez me dijeron que un lote tenía un tono ligeramente distinto. Yo juraría que estaba bien cuando salió, pero como no tenía prueba, asumí la devolución. Perdí plata ahí.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
- Solo un cuaderno con anotaciones. A veces uso Excel, pero no siempre lo actualizo.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
- Como te decía, a veces tomamos fotos si vemos algo que podría causar dudas, pero no es un proceso fijo.
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
- Me parece excelente. Eso me ayudaría mucho, sobre todo con clientes nuevos o exigentes. Tendría respaldo.
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
- Claro que sí. Así puedo saber qué le mandé antes, qué reclamos hubo y tener todo más ordenado.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
- Sí, sería ideal. Así no hay malentendidos. Yo subo fotos, el cliente las ve y queda constancia para ambos.
-
-
-### Entrevista #4:
-
-**Imagen 10**
-<p align="center">
-  <img src="images/entrevista5_segmento2.png" alt="PB" width="800">
-</p> 
-Duracion(12:30-18:12) min.
-
-### **Características demográficas**
-1. **¿Cuál es tu edad?**
-Mi edad actualmente es 46 años.
-2. **¿Tienes tienda física, vendes online o ambos?**
-Mis ventas las hago con mi cartera de clientes, no tengo ni tienda fisica ni online.
-3. **¿Qué tipo de telas sueles distribuir?**
-Suelo distribuir jersey, franela, french terry y gamuza pima 
-
-### **Preguntas Principales**
-1. **¿Cómo verificas la calidad de tus telas antes de enviarlas a los clientes?**
-En laboratorios, les hago gramaje y lavado de encogimientos. El gramaje es para ver el peso de la tela y el lavado de encogimientos para saber cuando encoge hacia lo ancho y alto en porcentaje.
-2. **¿Tienes alguna forma de respaldar que las telas estén en buen estado al momento de la entrega?**
-Al momento del acabado final se hace revisiones de las telas para verificar algunas fallas (huecos, manchas, etc.)
-3. **¿Te han reclamado alguna vez por defectos que no detectaste? ¿Qué pasó?**
-Si, he tenido que ponerse de acuerdo con clientes para darles un mejor precio o cambiarles la tela si es que está muy fallada.
-4. **¿Llevas algún registro sobre los lotes que envías (número, tipo de tela, cliente)?**
-Si llevo un registro, guardado en mi computadora, por fecha, número de guia y cliente.
-5. **¿Tomas fotos o haces alguna inspección antes de despachar?**
-Si, corto muestras de cada lote por color para tener evidencia de lo que estoy entregando
-### **Preguntas sobre el Proyecto (Qualyx)**
-1. **¿Qué te parecería tener una plataforma donde puedas dejar evidencia visual del estado de las telas antes del envío?**
-Si me pareceria bueno, seria una buena forma de que los clientes sepan que se le va a enviar lo que precisamente ellos pidieron.
-2. **¿Te ayudaría contar con un historial de envíos y controles realizados por cliente?**
-Claro, para contar con un historial de consumo por cliente, para usarlo después como estadistica para ver su historial de consumo mensual, anual y los colores de tela.
-3. **¿Preferirías que los controles de calidad sean visibles para ambos (tú y tu cliente) dentro de la misma plataforma?**
-Por una transparencia si, mas yo como propietario de la tela no, porque me arriesgo a exponer la ruta de proceso de mis tejidos ante mis clientes, porque despues ellos lo harian por si solo o cambiar de proveedor, dando las especificaciones que yo brinde a ellos.
+| Entrevistado 6 | Luis García |
+| :---- | :---- |
+| Edad | 20 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista2_segmento2.png" alt="PB" width="800"> | Tiene una tienda física y también vende por redes y WhatsApp. Distribuye franela, jersey, algodón licrado y telas sintéticas. Revisa el lote cuando llega del mayorista, pero no siempre documenta. Toma algunas fotos, pero no están organizadas. Ha recibido reclamos por diferencias de tono. Registra pedidos en Excel de forma básica. Considera que una plataforma sería muy útil para evitar malentendidos y mostrar evidencia a los clientes. |
+| Timing:26:38 – 31:55 min | [Entrevista 6 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20TextilFlow%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5cb30a6c%2D0c5e%2D4acf%2D8fb2%2Dea5b477f75b8) |
 
 [Ver las entrevistas en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EWcSisjze8xGsdF3Mvh79Y4BvDdoGIq_Nw9mIRqa4f08zw?e=pw8lk8)
 
@@ -907,46 +720,91 @@ Por una transparencia si, mas yo como propietario de la tela no, porque me arrie
 | Gestión de suscripción | EP04 |
 | Configuración de cuenta | EP05 |
 | Landing Page | EP06 |
-
+| Solicitudes y Distribuidores | EP07 |
 
 | Story ID | Título  | Descripción  | Criterios de Aceptación  | Relacionado con (Epic ID) |
 | :---- | :---- | :---- | :---- | :---- |
-| US01 | Visualizar listado de lotes recibidos | Como empresario, Quiero visualizar una lista de todos los lotes que he recibido, Para saber su estado actual y tomar decisiones sobre su aceptación o rechazo. | **Escenario: Acceso a la sección de lotes recibidos** <br> Given qué estoy autenticado como empresario, When accedo a la sección Lotes Recibidos, Then el sistema debe mostrar una lista con código, cliente, tipo de tela, fecha, estado y precio del lote.  | EP02 |
-| US02 | Visualizar listado de lotes enviados | Como distribuidor, Quiero ver todos los lotes que he enviado a las empresas, Para hacer seguimiento de su estado. | **Escenario:Acceso a la lista de mis lotes <br>  Given** que estoy autenticado como distribuidor,<br> **When** ingreso a la sección Mis Lotes,<br> **Then** el sistema debe mostrar los lotes registrados con su estado (Por enviar, Enviado, Confirmado, Rechazado).  | EP02 |
-| US03 | Filtrar y buscar lotes por distintos criterios | Como usuario (empresario o distribuidor), Quiero buscar y filtrar los lotes por código, cliente, tipo de tela, estado o fecha, Para encontrar fácilmente la información que necesito. | **Escenario 1:Filtrado de lotes por atributos Given** que estoy en la vista de lotes,<br> **When** utilizo filtros por estado, fecha o cliente,<br> **Then** el sistema debe actualizar la vista mostrando solo los lotes que cumplen esas condiciones. **Escenario 2:Búsqueda por código o nombre <br> Given** que escribo un texto en el campo “Buscar”,<br> **When** presiono “Enter” o el botón de búsqueda,<br> **Then** el sistema debe mostrar resultados que coincidan con el texto ingresado.  | EP02 |
-| US04 | Ver detalles de un lote específico | Como usuario, Quiero poder ver los detalles completos de un lote, Para tomar decisiones informadas. | **Escenario:Acceso al detalle del lote Given** que estoy en la lista de lotes,<br> **When** hago clic en “Ver Detalles” de un lote,<br> **Then** el sistema debe mostrar código, cliente, tipo y color de tela, fecha, cantidad, precio y observaciones.  | EP02 |
-| US05 | Enviar observaciones sobre un lote recibido | Como empresario, Quiero poder enviar una observación sobre un lote que recibí, Para alertar al distribuidor de problemas en el producto. | **Escenario1:Acceso a formulario de observación Given** que estoy visualizando un lote,<br> **When** hago clic en “Enviar Observación”,<br> **Then** el sistema debe mostrar campos para escribir el motivo y subir evidencia . <br> **Escenario2 :Registro exitoso de observación Given** que completo los campos y adjunto evidencia,<br> **When** presiono “Enviar”,<br> **Then** el sistema debe guardar la observación y notificar al distribuidor.  | EP02 |
-| US06 | Registrar y enviar lote | **Como** distribuidor, **Quiero** registrar un nuevo lote con todos los datos necesarios, **Para** enviarlo a un empresario y dar seguimiento a su evaluación. | **Escenario1:Registro de un nuevo lote Given** que estoy en la sección “Registrar Lote”,<br> **When** ingreso los datos requeridos y confirmo,<br> **Then** el sistema debe guardar el lote y asignarle estado  <br> **Escenario2:Notificación al empresario Given** que el lote ha sido registrado,<br> **When** se completa el envío,<br> **Then** el empresario correspondiente debe recibir una notificación del nuevo lote.  | EP02 |
-| US07 | Descargar reporte de lotes | **Como** usuario (empresario o distribuidor), **Quiero** poder descargar un reporte con la información de mis lotes, **Para** llevar un respaldo o análisis fuera de la plataforma. | **Escenario 1: Acceso a opción de descarga Given** que estoy autenticado y en la sección de lotes (enviados o recibidos),  **When** hago clic en el icono de descarga  **Then** el sistema debe generar un archivo descargable (PDF) con los datos de los lotes visibles en pantalla. <br>**Escenario 2 :  Descarga filtrada por estado o fecha Given** que he aplicado filtros (por fecha, estado, cliente, etc.), **When** descargo el reporte,  **Then e**l sistema debe generar un archivo solo con los lotes que cumplen esos criterios. <br>**Escenario 3: Validación de contenido del reporte Given** que abro el archivo descargado,  **When** reviso el contenido,  **Then** debe incluir al menos: código del lote, tipo de tela, fecha, estado, cantidad, precio y observaciones si existieran. | EP02 |
-| US08 | Visualizar observaciones enviadas | **Como** distribuidor, **Quiero** ver todas las observaciones que he enviado, **Para** llevar un control de lo que fue observado y su estado actual. | **Escenario1:Acceso al historial de observaciones Given** que estoy autenticado como distribuidor,<br> **When** ingreso a la sección “Mis observaciones”,<br> **Then** el sistema muestra una lista con: lote, fecha, motivo, evidencia y estado (pendiente, visto, rechazado, confirmado).  | EP03 |
-| US09 | Editar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero poder editar una observación que aún no ha sido revisada por el empresario, Para corregir información o añadir detalles antes de su revisión. | **Escenario1:Edición de observación no vista Given** que la observación tiene estado “pendiente”, **When** hago clic en el botón “Editar”, **Then** el sistema debe permitir modificar el texto del motivo y la evidencia adjunta. <br>  **Escenario2:Restricción si ya fue revisada Given** que la observación tiene estado “visto”, “rechazado” o “confirmado”, **When** intento editarla, **Then** el sistema debe mostrar un mensaje: “No se puede editar una observación ya revisada”. | EP03 |
-| US10 | Eliminar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero eliminar una observación que aún no ha sido vista, Para retirarla del sistema si fue registrada por error. | **Escenario 1:Eliminación de observación pendiente**  **Given** que la observación está en estado “pendiente”, **When** hago clic en “Eliminar”, **Then** el sistema debe pedir confirmación y eliminarla definitivamente. <br> **Escenario 2 : Bloqueo de eliminación si ya fue revisada**  **Given** que la observación ya fue vista o respondida, **When** intento eliminarla, **Then** el sistema debe mostrar un mensaje: “Solo se pueden eliminar observaciones pendientes”. | EP03 |
-| US11 | Marcar observaciones como vistas | Como empresario, Quiero marcar una observación como vista cuando la revise, Para llevar el control de qué observaciones ya fueron leídas. | **Escenario:  Marcado como visto**  **Given** que estoy en la sección de “Observaciones Recibidas”, **When** hago clic en “Marcar como Visto” en una observación, **Then** el sistema debe cambiar el estado de la observación a “Visto” y registrar la fecha de lectura. | EP03 |
-| US12 | Visualizar planes de suscripción disponibles | Como usuario, Quiero ver los planes de suscripción disponibles, Para comparar sus beneficios y elegir el que se ajuste a mis necesidades. | **Escenario 1: Acceso a la vista de planes**  **Given** que estoy autenticado, **When** accedo a la sección “Planes de suscripción”, **Then** el sistema muestra los planes disponibles: Básico y Corporativo, con sus beneficios y precios.<br> **Escenario 2 :  Detalles de cada plan**  **Given** que estoy en la vista de planes, **When** hago clic en “Ver más” sobre un plan, **Then** el sistema muestra información detallada: número de lotes, acceso a estadísticas, usuarios permitidos, entre otros. | EP04 |
-| US13 | Cambiar de plan de suscripción | Como usuario, Quiero poder cambiar mi plan de suscripción, Para ajustar mi cuenta según el crecimiento de mi negocio. | **Escenario 1:  Selección de nuevo plan**  **Given** que estoy visualizando los planes, **When** selecciono un plan diferente al actual y confirmo, **Then** el sistema realiza el cambio y actualiza mi cuenta con los beneficios correspondientes. <br>**Escenario 2:  Confirmación del cambio**  **Given** que ya seleccioné un nuevo plan, **When** el sistema finaliza el proceso, **Then** muestra un mensaje de confirmación y la fecha de vigencia del nuevo plan. | EP04 |
-| US14 | Personalizar la vista de la plataforma | Como usuario, Quiero poder personalizar la vista de la plataforma (modo claro/oscuro, orden de elementos, tipo de visualización), Para sentirme más cómodo/a usando el sistema según mis preferencias. | **Escenario 1: Activar modo oscuro o claro**  **Given** que accedo a la configuración de cuenta, **When** selecciono “Modo Oscuro” o “Modo Claro”, **Then** el sistema debe aplicar inmediatamente el modo seleccionado en la interfaz. <br>  **Escenario 2 :  Cambiar orden de visualización**  **Given** que estoy en la sección de personalización, **When** selecciono un orden (por fecha, por cliente, por tipo de tela), **Then** el sistema organiza las vistas según esa preferencia.  | EP05 |
-| US15 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto de perfil o logo, Para mantener mi cuenta actualizada y personal. | **Escenario 1 :  Acceder al formulario de edición de perfil**  **Given** que accedo a “Mi perfil”, **When** hago clic en “Editar”, **Then** el sistema muestra un formulario con los campos actuales de nombre, correo y foto/logo.<br>**Escenario 2 :  Guardar cambios correctamente**  **Given** que edité mis datos, **When** presiono “Guardar cambios”, **Then** el sistema actualiza los datos y muestra el mensaje “Perfil actualizado correctamente”. <br>**Escenario 3: Validación de campos obligatorios**  **Given** que intento guardar el formulario sin nombre o sin correo, **When** hago clic en “Guardar cambios”, **Then** el sistema debe mostrar un mensaje de error indicando los campos requeridos. | EP05 |
-| US16 | Cerrar sesión de forma segura | Como usuario, Quiero cerrar sesión desde mi cuenta, Para asegurar mi privacidad cuando ya no esté usando la plataforma. | **Escenario : Cierre de sesión exitoso** <br> **Given** que estoy autenticado, **When** hago clic en el botón “Cerrar sesión”, **Then** el sistema me redirige a la pantalla de inicio de sesión y borra la sesión activa. | EP05 |
-| US17 | Cambiar modo de visualización (claro / oscuro) | Como usuario, Quiero cambiar entre modo claro y oscuro, Para personalizar la interfaz según mis preferencias visuales. | **Escenario : Activación de modo oscuro o claro**  **Given** que estoy en la sección “Configuración de cuenta”, **When** selecciono una opción de visualización (modo claro u oscuro), **Then** el sistema debe aplicar el modo elegido de forma inmediata. | EP05 |
-| US18 | Registrar lote por código automático o manual | Como distribuidor, Quiero registrar un nuevo lote utilizando un código generado automáticamente o ingresarlo manualmente, Para mantener orden en mis registros y adaptarme a mis necesidades de control. | **Escenario 1: Generación automática de código de lote**  **Given** que estoy en el menú“Configuraciones”, **When** selecciono la opción “Generar código automáticamente”, **Then** el sistema debe crear un código único con el formato estándar (ej. LOT-20250421-001) y asignarlo al lote. <br>**Escenario 2 : Ingreso manual de código de lote**  **Given** que estoy en el mismo menú, **When** selecciono “Ingresar código manualmente”, **Then** el sistema habilita un campo para escribir mi propio código. <br>**Escenario 3 :  Validación de unicidad del código**  **Given** que ingreso un código manual, **When** intento guardar un código ya existente, **Then** el sistema muestra un mensaje de error: “Este código ya ha sido registrado”. | EP05 |
-| US19 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto/logo, Para mantener actualizada mi información de perfil. | **Escenario 1: Acceso al formulario de edición**  **Given** que estoy en “Mi perfil”, **When** hago clic en “Editar”, **Then** el sistema muestra los campos editables: nombre, email y logo/foto.<br>**Escenario 2: Guardado exitoso**  **Given** que actualizo mis datos, **When** hago clic en “Guardar cambios”, **Then** el sistema actualiza los datos y muestra “Perfil actualizado con éxito”. <br>**Escenario 3: Validación de campos requeridos**  **Given** que intento guardar sin llenar los campos obligatorios, **When** hago clic en “Guardar cambios”, **Then** el sistema muestra mensajes de error indicando qué falta. | EP05 |
-| US20 | Cerrar sesión | Como usuario, Quiero cerrar sesión de forma segura, Para proteger mi información cuando dejo de usar la plataforma. | **Escenario :Cierre de sesión exitoso**<br>**Given** que estoy autenticado, **When** hago clic en “Cerrar sesión”, **Then** el sistema finaliza la sesión y me redirige a la pantalla de inicio de sesión. | EP05 |
+| US01 | Visualizar listado de lotes recibidos | Como empresario, Quiero visualizar una lista de todos los lotes que he recibido, Para saber su estado actual y tomar decisiones sobre su aceptación o rechazo. | **Escenario : Visualización de la lista de lotes recibidos Given** que el empresario ha iniciado sesión correctamente, **When** accede a la sección de lotes recibidos, **Then** el sistema muestra una lista que incluye código, cliente, tipo de tela, fecha, estado y precio del lote.    | EP02 |
+| US02 | Visualizar listado de lotes enviados | Como distribuidor, Quiero ver todos los lotes que he enviado a las empresas, Para hacer seguimiento de su estado. | **Escenario 1: Visualización de la lista de lotes enviados Given** que el distribuidor ha iniciado sesión correctamente, **When** accede a la sección “Mis Lotes”, **Then** el sistema muestra una lista de lotes enviados con su estado correspondiente (Por enviar, Enviado, Confirmado, Rechazado).             **Escenario 2: Acceso restringido para otros tipos de usuario Given** que el usuario autenticado no tiene rol de distribuidor, **When** intenta acceder a la sección “Mis Lotes”,**Then** el sistema impide el acceso y redirige al panel correspondiente según su rol.   | EP02 |
+| US03 | Filtrar y buscar lotes por distintos criterios | Como usuario (empresario o distribuidor), Quiero buscar y filtrar los lotes por código, cliente, tipo de tela, estado o fecha, Para encontrar fácilmente la información que necesito. | **Escenario 1: Filtrado de lotes por atributos Given** que el usuario se encuentra autenticado y visualiza la sección de lotes, **When** aplica uno o más filtros (por estado, fecha, cliente o tipo de tela), **Then** el sistema actualiza automáticamente la lista para mostrar solo los lotes que cumplen con los filtros seleccionados. **Escenario 2: Búsqueda por código o nombre Given** que el usuario se encuentra en la sección de lotes, **When** escribe un texto en el campo de búsqueda y presiona “Enter” o el botón correspondiente, **Then** el sistema muestra únicamente los lotes cuyo código o cliente coincidan total o parcialmente con el texto ingresado.   | EP02 |
+| US04 | Ver detalles de un lote específico | Como usuario, Quiero poder ver los detalles completos de un lote, Para tomar decisiones informadas. | **Escenario : Acceso al detalle del lote Given** que el usuario se encuentra autenticado y visualiza la lista de lotes, **When** selecciona la opción “Ver Detalles” sobre un lote específico, **Then** el sistema muestra en pantalla la información completa del lote, incluyendo: código, cliente, tipo de tela, color, fecha de recepción, cantidad, precio y observaciones registradas.   | EP02 |
+| US05 | Enviar observaciones sobre un lote recibido | Como empresario, Quiero poder enviar una observación sobre un lote que recibí, Para alertar al distribuidor de problemas en el producto. | **Escenario 1: Acceso al formulario de observación Given** que el empresario está visualizando el detalle de un lote recibido, **When** selecciona la opción “Enviar Observación”, **Then** el sistema muestra un formulario con campos para ingresar el motivo de la observación y adjuntar evidencia en formato imagen o documento. **Escenario 2: Registro exitoso de observación Given** que el empresario completa todos los campos requeridos y adjunta la evidencia, **When** presiona el botón “Enviar”, **Then** el sistema guarda la observación, la asocia al lote correspondiente y notifica al distribuidor.   | EP02 |
+| US06 | Registrar y enviar lote | **Como** distribuidor, **Quiero** registrar un nuevo lote con todos los datos necesarios, **Para** enviarlo a un empresario y dar seguimiento a su evaluación. | **Escenario 1: Registro de un nuevo lote Given** que el distribuidor se encuentra en la sección “Registrar Lote”, **When** ingresa todos los datos requeridos y confirma el registro, **Then** el sistema debe guardar el lote con los datos proporcionados y asignarle el estado inicial “Por enviar”. **Escenario 2: Notificación al empresario Given** que el lote ha sido registrado correctamente, **When** el distribuidor completa el envío del lote, **Then** el sistema debe notificar automáticamente al empresario correspondiente indicando que ha recibido un nuevo lote.    | EP02 |
+| US07 | Descargar reporte de lotes | **Como** usuario (empresario o distribuidor), **Quiero** poder descargar un reporte con la información de mis lotes, **Para** llevar un respaldo o análisis fuera de la plataforma. | **Escenario 1: Acceso a la opción de descarga Given** que el usuario se encuentra autenticado y visualiza la sección de lotes (enviados o recibidos), **When** selecciona el icono de descarga, **Then** el sistema debe generar un archivo PDF descargable que contenga los datos visibles en la pantalla. **Escenario 2: Descarga filtrada por estado o fecha Given** que el usuario ha aplicado filtros por fecha, estado o cliente, **When** ejecuta la opción de descarga, **Then** el sistema debe generar un archivo PDF solo con los lotes que cumplen con los filtros seleccionados. **Escenario 3: Validación del contenido del archivo Given** que el usuario abre el archivo descargado, **When** revisa su contenido, **Then** el reporte debe incluir como mínimo: código del lote, tipo de tela, fecha, estado, cantidad, precio y observaciones (si las hubiera).  | EP02 |
+| US08 | Visualizar observaciones enviadas | **Como** distribuidor, **Quiero** ver todas las observaciones que he enviado, **Para** llevar un control de lo que fue observado y su estado actual. | **Escenario 1: Acceso al historial de observaciones Given** que el distribuidor se encuentra autenticado correctamente, **When** accede a la sección “Mis observaciones”, **Then** el sistema muestra una lista con los siguientes campos: lote asociado, fecha de envío, motivo registrado, evidencia adjunta (si existe), y el estado actual de la observación (pendiente, visto, rechazado o confirmado).   | EP03 |
+| US09 | Editar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero poder editar una observación que aún no ha sido revisada por el empresario, Para corregir información o añadir detalles antes de su revisión. | **Escenario 1: Edición de observación no vista Given** que la observación enviada tiene el estado “pendiente”, **When** el distribuidor hace clic en el botón “Editar”, **Then** el sistema permite modificar el texto del motivo y actualizar o reemplazar la evidencia adjunta. **Escenario 2: Restricción si ya fue revisada Given** que la observación tiene estado “visto”, “rechazado” o “confirmado”, **When** el distribuidor intenta editarla, **Then** el sistema muestra un mensaje indicando: “No se puede editar una observación ya revisada” y bloquea la acción.  | EP03 |
+| US10 | Eliminar observación enviada (si no ha sido revisada aún) | Como distribuidor, Quiero eliminar una observación que aún no ha sido vista, Para retirarla del sistema si fue registrada por error. | **Escenario 1: Eliminación de observación pendiente Given** que la observación se encuentra en estado “pendiente”, **When** el distribuidor hace clic en la opción “Eliminar”, **Then** el sistema solicita una confirmación y, al confirmarse, elimina la observación de forma definitiva. **Escenario 2: Bloqueo de eliminación si ya fue revisada Given** que la observación ya ha sido vista, rechazada o confirmada, **When** el distribuidor intenta eliminarla, **Then** el sistema muestra un mensaje indicando: “Solo se pueden eliminar observaciones pendientes” y bloquea la acción.  | EP03 |
+| US11 | Marcar observaciones como vistas | Como empresario, Quiero marcar una observación como vista cuando la revise, Para llevar el control de qué observaciones ya fueron leídas. | **Escenario: Marcado como visto Given** que el empresario se encuentra autenticado y visualiza la sección de “Observaciones Recibidas”, **When** hace clic en la opción “Marcar como Visto” en una observación, **Then** el sistema cambia el estado de la observación a “Visto” y registra automáticamente la fecha y hora de lectura.  | EP03 |
+| US12 | Visualizar planes de suscripción disponibles | Como usuario, Quiero ver los planes de suscripción disponibles, Para comparar sus beneficios y elegir el que se ajuste a mis necesidades. | **Escenario 1: Acceso a la vista de planes Given** que el usuario está autenticado correctamente, **When** accede a la sección “Planes de suscripción”, **Then** el sistema muestra los planes disponibles (Básico y Corporativo) junto con sus beneficios y precios correspondientes. **Escenario 2: Detalles de cada plan Given** que el usuario está visualizando la sección de planes, **When** hace clic en la opción “Ver más” de uno de los planes, **Then** el sistema despliega la información detallada del plan seleccionado, incluyendo: número de lotes permitidos, acceso a estadísticas, cantidad de usuarios permitidos, y otros beneficios. | EP04 |
+| US13 | Cambiar de plan de suscripción | Como usuario, Quiero poder cambiar mi plan de suscripción, Para ajustar mi cuenta según el crecimiento de mi negocio. | **Escenario 1: Selección de nuevo plan Given** que el usuario está visualizando los planes de suscripción, **When** selecciona un plan diferente al actual y confirma el cambio, **Then** el sistema actualiza el plan activo del usuario y aplica los nuevos beneficios. **Escenario 2: Confirmación del cambio Given** que el usuario ya seleccionó un nuevo plan, **When** el sistema completa el proceso de actualización, **Then** muestra un mensaje de confirmación indicando que el cambio fue exitoso y especifica la fecha de vigencia del nuevo plan.  | EP04 |
+| US14 | Personalizar la vista de la plataforma | Como usuario, Quiero poder personalizar la vista de la plataforma (modo claro/oscuro, orden de elementos, tipo de visualización), Para sentirme más cómodo/a usando el sistema según mis preferencias. | **Escenario 1: Activar modo oscuro o claro Given** que el usuario accede a la sección de configuración de cuenta, **When** selecciona “Modo Oscuro” o “Modo Claro”, **Then** el sistema aplica de forma inmediata el modo de visualización elegido en toda la interfaz. **Escenario 2: Cambiar orden de visualización Given** que el usuario se encuentra en la sección de personalización, **When** selecciona un orden de visualización (por fecha, cliente o tipo de tela), **Then** el sistema reorganiza la información presentada en pantalla según la preferencia seleccionada.    | EP05 |
+| US15 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto de perfil o logo, Para mantener mi cuenta actualizada y personal. | **Escenario 1: Acceso al formulario de edición Given** que el usuario accede a la sección “Mi perfil” **When** hace clic en la opción “Editar”, **Then** el sistema muestra un formulario con los campos editables: nombre, correo electrónico y logo/foto. **Escenario 2: Guardado exitoso Given** que el usuario ha actualizado los datos del formulario, **When** hace clic en “Guardar cambios”, **Then** el sistema actualiza los datos correctamente y muestra el mensaje: “Perfil actualizado con éxito”.**Escenario 3: Validación de campos requeridos Given** que el usuario intenta guardar el formulario sin completar los campos obligatorios, **When** presiona “Guardar cambios”, **Then** el sistema muestra mensajes de error indicando qué campos faltan completar.  | EP05 |
+| US16 | Cerrar sesión de forma segura | Como usuario, Quiero cerrar sesión desde mi cuenta, Para asegurar mi privacidad cuando ya no esté usando la plataforma. | **Escenario: Cierre de sesión exitoso Given** que el usuario se encuentra autenticado, **When** hace clic en el botón “Cerrar sesión”, **Then** el sistema elimina la sesión activa del usuario y lo redirige a la pantalla de inicio de sesión.  | EP05 |
+| US17 | Cambiar modo de visualización (claro / oscuro) | Como usuario, Quiero cambiar entre modo claro y oscuro, Para personalizar la interfaz según mis preferencias visuales. | **Escenario: Activación de modo oscuro o claro Given** que el usuario se encuentra en la sección “Configuración de cuenta”, **When** selecciona una opción de visualización (modo claro u oscuro), **Then** el sistema aplica el modo seleccionado de forma inmediata en toda la  | EP05 |
+| US18 | Registrar lote por código automático o manual | Como distribuidor, Quiero registrar un nuevo lote utilizando un código generado automáticamente o ingresarlo manualmente, Para mantener orden en mis registros y adaptarme a mis necesidades de control. | **Escenario 1: Generación automática de código de lote Given** que el distribuidor se encuentra en el menú “Configuraciones”, **When** selecciona la opción “Generar código automáticamente”, **Then** el sistema genera un código único con el formato estándar (ej. LOT-20250421-001) y lo asigna automáticamente al nuevo lote. **Escenario 2: Ingreso manual de código de lote Given** que el distribuidor está en la misma sección, **When** selecciona la opción “Ingresar código manualmente”, **Then** el sistema habilita un campo editable para que el distribuidor escriba su propio código. **Escenario 3: Validación de unicidad del código Given** que el distribuidor ingresa manualmente un código de lote, **When** intenta guardar un código que ya está registrado en la base de datos, **Then** el sistema muestra un mensaje de error: “Este código ya ha sido registrado” y bloquea el registro.   | EP05 |
+| US19 | Editar datos del perfil | Como usuario, Quiero editar mi nombre, correo electrónico y foto/logo, Para mantener actualizada mi información de perfil. | **Escenario 1: Acceso al formulario de edición Given** que el usuario accede a la sección “Mi perfil”, **When** hace clic en la opción “Editar”, **Then** el sistema muestra un formulario con los campos editables: nombre, correo electrónico y logo/foto. **Escenario 2: Guardado exitoso Given** que el usuario ha actualizado los datos del formulario, **When** hace clic en “Guardar cambios”, **Then** el sistema actualiza los datos correctamente y muestra el mensaje: “Perfil actualizado con éxito”. **Escenario 3: Validación de campos requeridos Given** que el usuario intenta guardar el formulario sin completar los campos obligatorios, **When** presiona “Guardar cambios”, **Then** el sistema muestra mensajes de error indicando qué campos faltan completar.  | EP05 |
+| US20 | Cerrar sesión | Como usuario, Quiero cerrar sesión de forma segura, Para proteger mi información cuando dejo de usar la plataforma. | **Escenario: Cierre de sesión exitoso Given** que el usuario se encuentra autenticado, **When** hace clic en el botón “Cerrar sesión”, **Then** el sistema finaliza la sesión activa y redirige al usuario a la pantalla de inicio de sesión. . | EP05 |
 | US21 | Registro de usuario | Como nuevo usuario, quiero registrarme con mis datos personales para crear una cuenta en TextilFlow y poder ingresar a la plataforma. | **Escenario: Usuario se registra correctamente Given** el usuario se encuentra en la pantalla de registro **When** ingresa nombre, email y contraseña válidos y hace clic en "Iniciar sesión" **Then** el sistema registra la cuenta y redirige a la pantalla de selección de rol | EP01 |
-| US22 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña para ingresar a mi cuenta. | **Escenario1: Inicio de sesión exitoso Given** el usuario está en la pantalla de login **When** ingresa credenciales válidas y presiona “Entrar ahora” **Then** el sistema valida los datos y muestra la pantalla de selección de rol. <br> **Escenario2: Error en inicio de sesión Given** el usuario ingresa credenciales incorrectas **When** presiona “Entrar ahora” **Then** el sistema muestra un mensaje de error indicando que los datos no son válidos | EP01 |
+| US22 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña para ingresar a mi cuenta. | **Escenario1: Inicio de sesión exitoso Given** el usuario está en la pantalla de login **When** ingresa credenciales válidas y presiona “Entrar ahora” **Then** el sistema valida los datos y muestra la pantalla de selección de rol **Escenario2: Error en inicio de sesión Given** el usuario ingresa credenciales incorrectas **When** presiona “Entrar ahora” **Then** el sistema muestra un mensaje de error indicando que los datos no son válidos | EP01 |
 | US23 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla, para poder acceder nuevamente a la plataforma. | **Escenario: Solicitud de recuperación de contraseña Given** el usuario hace clic en "¿Olvidaste tu contraseña?" **When** ingresa su email registrado **Then** el sistema envía un enlace de recuperación al correo proporcionado | EP01 |
 | US24 | Selección de tipo de usuario | Como usuario, quiero seleccionar si soy empresa o distribuidor al iniciar sesión, para que el sistema me muestre las funciones correspondientes a mi perfil. | **Escenario: Usuario selecciona su tipo Given** el usuario ha iniciado sesión correctamente **When** se muestra la pantalla “Selecciona tu tipo de usuario” **Then** el usuario hace clic en “Empresa” o “Distribuidor” **And** el sistema lo redirige al panel correspondiente según su elección | EP01 |
 | US25 | Cierre de sesión | Como usuario, quiero poder cerrar sesión, para proteger mi cuenta y salir de la plataforma cuando termine de usarla. | **Escenario: Cierre exitoso de sesión Given** el usuario está dentro de su panel **When** hace clic en “Cerrar sesión” desde el menú **Then** el sistema termina la sesión y lo redirige al login | EP01 |
-| US26 | Visualizar información principal sobre la plataforma | Como visitante, Quiero acceder a una descripción clara de la funcionalidad y propósito de TextilFlow, Para comprender de inmediato cómo puede ayudarme. | **Escenario : Acceso al mensaje principal en el hero Given** que accedo a la landing page,**When** la página carga,**Then** debe mostrarse un encabezado con el mensaje: “Digitaliza el control de calidad textil con TextilFlow”, acompañado de un botón "Conoce más". | EP06 |
-| US27 | Conocer los beneficios de usar TextilFlow | Como visitante, Quiero ver de forma rápida los beneficios de usar la plataforma, Para entender su propuesta de valor. | **Escenario :  Sección de ¿Por qué elegirTextilFlow? Given** que me desplazo por la página,  **When** llego a la sección de beneficios,  **Then** debo ver tres bloques con texto e íconos que expliquen las ventajas: evitar errores, documentación visual, conexión colaborativa. | EP06 |
-| US28 | Consultar información sobre la empresa | Como visitante, Quiero conocer quiénes están detrás de TextilFlow, Para confiar en la plataforma y su visión. | **Escenario :Acceso a Quiénes somos Given** que estoy en la landing,  **When** bajo hasta la sección “Quiénes somos”,  **Then** veo una breve descripción, misión y visión de la startup. | EP06 |
-| US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades. | **Escenario: Visualización de los planes Given** que accedo a la sección “Planes”,  **When** comparo el Plan Básico y el Plan Corporativo,  **Then** veo claramente el precio, las características y las restricciones de cada plan. | EP06 |
-| US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí. | **Escenario: Sección de preguntas frecuentes (FAQs) Given** que estoy en la landing page, **When** hago clic en una pregunta,  **Then** se despliega la respuesta correspondiente en formato de acordeón. | EP06 |
-| US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo. | **Escenario: Envío de formulario de contacto Given** que completo los campos del formulario (nombre, email, mensaje),  **When** hago clic en “Enviar”,  **Then** el sistema debe validar los campos y mostrar un mensaje de confirmación si todo es correcto. | EP06 |
-| US32 | Acceder a la opción de iniciar sesión | Como visitante, Quiero ver un botón de "Iniciar sesión" en el encabezado, Para ingresar fácilmente a mi cuenta si ya estoy registrado. | Escenario: Acceso desde el encabezado Given que estoy en la landing page, When visualizo el encabezado, Then debe mostrarse un botón "Iniciar sesión" visible y funcional que redirige a la plataforma web.   | EP06 |
-| US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | **Escenario: Navegación principal Given que estoy en la parte superior de la landing, When veo el menú de navegación, Then debe mostrarse claramente cada sección del sitio y redirigirme correctamente al hacer clic.** | EP06 |
-| US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | **Escenario: Visualización del footer Given que llego al final de la landing, When visualizo el pie de página, Then debe mostrarse el texto “© 2024 TextilFlow. Todos los derechos reservados” u otra información de copyright.** | EP06 |
-| US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | **Escenario: Enlaces sociales desde el footer Given que estoy en el pie de página, When visualizo los íconos sociales, Then puedo hacer clic en ellos y se abrirán en una nueva pestaña las respectivas redes o páginas asociadas.** | EP06 |
+| US26 | Visualizar información principal sobre la plataforma | Como visitante, Quiero acceder a una descripción clara de la funcionalidad y propósito de TextilFlow, Para comprender de inmediato cómo puede ayudarme. | **Escenario: Acceso al mensaje principal en el hero Given** que el visitante accede a la landing page, **When** la página carga, **Then** el sistema muestra un encabezado con el mensaje: “Digitaliza el control de calidad textil con TextilFlow”, acompañado de un botón con el texto “Conoce más”.  | EP06 |
+| US27 | Conocer los beneficios de usar TextilFlow | Como visitante, Quiero ver de forma rápida los beneficios de usar la plataforma, Para entender su propuesta de valor. | **Escenario: Sección de “¿Por qué elegir TextilFlow?” Given** que el visitante se desplaza por la landing page, **When** llega a la sección de beneficios, **Then** el sistema muestra tres bloques con íconos y texto que presentan las ventajas: evitar errores de producción, documentación visual con evidencia y conexión colaborativa entre actores del proceso textil.  | EP06 |
+| US28 | Consultar información sobre la empresa | Como visitante, Quiero conocer quiénes están detrás de TextilFlow, Para confiar en la plataforma y su visión. | **Escenario: Acceso a “Quiénes somos” Given** que el visitante se encuentra navegando por la landing page, **When** se desplaza hasta la sección “Quiénes somos”, **Then** el sistema muestra una breve descripción de la startup, su misión y visión empresarial. | EP06 |
+| US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades. | **Escenario: Visualización de los planes Given** que el visitante accede a la sección “Planes” en la landing page, **When** compara el Plan Básico y el Plan Corporativo, **Then** el sistema muestra de forma clara el precio, las características y las restricciones asociadas a cada plan.  | EP06 |
+| US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí. | **Escenario: Sección de preguntas frecuentes (FAQs) Given** que el visitante se encuentra en la landing page, **When** hace clic en una pregunta dentro de la sección de FAQs, **Then** el sistema despliega la respuesta correspondiente utilizando un formato de acordeón (plegable).  | EP06 |
+| US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo. | **Escenario: Envío de formulario de contacto Given** que el visitante ha completado los campos del formulario (nombre, correo electrónico y mensaje), **When** hace clic en el botón “Enviar”, **Then** el sistema valida los campos obligatorios y muestra un mensaje de confirmación si la información es correcta. **Escenario adicional: Validación de campos vacíos o incorrectos Given** que el visitante deja campos vacíos o ingresa un correo inválido, **When** intenta enviar el formulario, **Then** el sistema muestra mensajes de error indicando los campos que deben corregirse. | EP06 |
+| US32 | Acceder a la opción de iniciar sesión | **Como visitante**, Quiero ver un botón de "Iniciar sesión" en el encabezado, **Para ingresar fácilmente a mi cuenta si ya estoy registrado**. | **Escenario: Acceso desde el encabezado Given** que el visitante se encuentra en la landing page, **When** visualiza el encabezado, **Then** el sistema debe mostrar un botón “Iniciar sesión” visible y funcional que redirige al usuario a la plataforma web (pantalla de login).   | EP06 |
+| US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | **Escenario: Navegación principal Given** que el visitante se encuentra en la parte superior de la landing page, **When** visualiza el menú de navegación, **Then** el sistema debe mostrar claramente cada sección del sitio (ej. Inicio, Beneficios, Planes, Quiénes somos, Contacto) y redirigir al visitante correctamente al hacer clic en cada una. | EP06 |
+| US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | **Escenario: Visualización del footer Given** que el visitante llega al final de la landing page, **When** visualiza el pie de página, **Then** el sistema debe mostrar el texto “© 2024 TextilFlow. Todos los derechos reservados” u otra información de copyright de forma clara y visible.  | EP06 |
+| US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | **Escenario: Enlaces sociales desde el footer Given** que el visitante se encuentra en el pie de página, **When** visualiza los íconos de redes sociales (ej. Instagram, LinkedIn, Facebook), **Then** puede hacer clic en cualquiera de ellos y se abre en una nueva pestaña la red o página correspondiente asociada.  | EP06 |
+| US36 | Visualizar distribuidores actuales | **Como empresario,** Quiero ver un listado de los distribuidores con los que ya tengo relación, Para poder hacer solicitudes de lote o calificarlos. | **Escenario: Visualización de distribuidores actuales Given** que el empresario ha iniciado sesión y navega a “Distribuidores”, **When** selecciona la opción “Distribuidores actuales”, **Then** el sistema muestra una lista con nombre del distribuidor, correo, calificación, foto de perfil, y un botón “Pedir lote”. | EP07 |
+| US37 | Solicitar lote a un distribuidor actual | **Como empresario,** Quiero solicitar un lote desde el listado de distribuidores actuales, Para enviar detalles como tipo de tela, cantidad, color, dirección y comentario. | **Escenario: Envío de solicitud Given** que el empresario está en la sección de “Distribuidores actuales”, **When** hace clic en “Pedir Lote” y completa el formulario, **Then** el sistema guarda la solicitud y la envía al distribuidor correspondiente. | EP07 |
+| US38 | Calificar a un distribuidor | **Como empresario,** Quiero asignar una calificación con estrellas y dejar un comentario, Para registrar mi experiencia con un distribuidor. | **Escenario: Registro de calificación Given** que el empresario visualiza un distribuidor actual, **When** hace clic en las estrellas y escribe un comentario, **Then** el sistema guarda la calificación y la asocia al distribuidor. | EP07 |
+| US39 | Añadir nuevo distribuidor | **Como empresario,** Quiero acceder a un listado ordenado por calificación de distribuidores disponibles, Para poder enviarles una solicitud de conexión. | **Escenario: Visualización de nuevos distribuidores** Given que el empresario selecciona “Añadir Distribuidor”, **When** se carga la vista, **Then** el sistema muestra los distribuidores disponibles ordenados por calificación promedio. | EP07 |
+| US40 | Enviar solicitud a nuevo distribuidor | **Como empresario,** Quiero enviar una solicitud con tipo de tela, color, cantidad, dirección y comentario, Para iniciar una relación con un nuevo distribuidor. | **Escenario: Envío de solicitud a nuevo distribuidor** Given que el empresario visualiza un nuevo distribuidor, **When** hace clic en “Mandar solicitud” y completa el formulario, **Then** el sistema guarda y envía la solicitud al distribuidor.  | EP07 |
+| US41 | Visualizar solicitudes de empresas actuales | **Como distribuidor,** Quiero ver la lista de empresas con las que ya tengo una relación y que me han enviado una solicitud, Para revisar sus detalles y decidir si acepto o no el pedido. | **Escenario: Visualización de empresas actuales** Given que el distribuidor ha iniciado sesión y accede a “Solicitudes”, **When** hace clic en la pestaña “Empresas Actuales”, **Then** el sistema muestra una lista con nombre, correo de empresa y un botón “Aceptar Solicitud”.  | EP07 |
+| US42 | Ver detalles de solicitud de lote | **Como distribuidor,** Quiero poder ver los detalles completos de una solicitud expandiendo el panel, Para conocer lo que solicita la empresa antes de aceptarlo. | **Escenario: Expansión de detalles** Given que el distribuidor visualiza la lista de solicitudes, **When** hace clic en el icono desplegable, **Then** el sistema muestra tipo de tela, color, cantidad, dirección y comentario de la empresa.  | EP07 |
+| US43 | Aceptar solicitud de lote | **Como distribuidor,** Quiero aceptar una solicitud enviada por una empresa, Para comenzar con el registro y envío del lote solicitado. | **Escenario: Aceptación de solicitud** Given que el distribuidor está viendo los detalles de la solicitud, **When** hace clic en “Aceptar Solicitud”, **Then** el sistema marca la solicitud como aceptada y la asocia al flujo de “Registrar Lote”. | EP07 |
+| US44 | Ver nuevas empresas interesadas | **Como distribuidor,** Quiero ver solicitudes provenientes de empresas con las que aún no tengo relación, Para decidir si deseo comenzar a trabajar con ellas. | **Escenario: Visualización de empresas nuevas** Given que el distribuidor accede a la pestaña “Empresas nuevas”, **When** se cargan los datos, **Then** el sistema muestra empresas desconocidas que han enviado una solicitud con botón “Aceptar Solicitud” y posibilidad de ver detalles. | EP07 |
 
+### Technical Stories
+
+| ID | Título Técnico | Descripción | Relacionado con |
+| :---- | :---- | :---- | :---- |
+| TS01 | Endpoint GET | Como developer, quiero implementar un endpoint para obtener los lotes registrados del empresario. | US01 |
+| TS02 | Endpoint GET | Como developer, quiero implementar un endpoint para obtener los lotes enviados por un distribuidor. | US02 |
+| TS03 | Middleware de validación de rol distribuidor | Como developer, quiero asegurarme de que solo los distribuidores puedan acceder a sus propios lotes. | US02 |
+| TS04 | Implementar endpoint con filtros  | Como developer, quiero implementar un endpoint que permita filtrar los lotes por estado, fecha o cliente. | US03 |
+| TS05 | Implementar endpoint de búsqueda  | Como developer, quiero permitir búsquedas por código o cliente desde el backend mediante query param. | US03 |
+| TS06 | Endpoint GET | Como developer, quiero crear un endpoint que devuelva los datos completos de un lote específico por su ID. | US04 |
+| TS07 | Endpoint POST | Como developer, quiero implementar un endpoint que registre una nueva observación asociada a un lote. | US05 |
+| TS08 | Endpoint POST | Como developer, quiero implementar un endpoint para registrar un nuevo lote con estado inicial “Por enviar”. | US06 |
+| TS9 | Validar campos obligatorios en el registro de lote | Como developer, quiero asegurar que todos los campos requeridos estén completos antes de guardar el lote. | US06 |
+| TS10 | Generar PDF con datos visibles de lotes | Como developer, quiero generar un archivo PDF con los datos mostrados en pantalla para permitir su descarga. | US07 |
+| TS11 | Aplicar filtros a los datos descargados | Como developer, quiero que el archivo descargado respete los filtros aplicados en la vista de lotes. | US07 |
+| TS12 | Endpoint GET | Como developer, quiero crear un endpoint que devuelva las observaciones enviadas por el distribuidor autenticado. | US08 |
+| TS13 | Endpoint PUT | Como developer, quiero permitir la edición de una observación si su estado es “pendiente”. | US09 |
+| TS14 | Endpoint DELETE | Como developer, quiero permitir la eliminación de observaciones con estado “pendiente”. | US10 |
+| TS15 | Endpoint PUT | Como developer, quiero crear un endpoint para actualizar el estado de una observación a “Visto”. | US11 |
+| TS16 | Endpoint GET | Como developer, quiero crear un endpoint que devuelva la lista de planes de suscripción disponibles. | US12 |
+| TS17 |  Endpoint GET  | Como developer, quiero permitir obtener el detalle completo de un plan seleccionado. | US12 |
+| TS18 | Endpoint PUT | Como developer, quiero permitir que el usuario actualice su plan de suscripción desde su cuenta. | US13 |
+| TS19 | Generar código automático único con formato estándar | Como developer, quiero implementar la lógica para generar un código único con el formato LOT-YYYYMMDD-XXX. | US18 |
+| TS20 | Habilitar campo para ingreso manual de código | Como developer, quiero permitir al usuario ingresar un código manual desde la configuración. | US18 |
+| TS21 |  Endpoint PUT /api/usuarios/{id} para actualizar perfil  | Como developer, quiero crear un endpoint que permita actualizar nombre, email y logo del usuario. | US19 |
+| TS22 |  Implementar funcionalidad de cierre de sesión en frontend  | Como developer, quiero implementar el cierre de sesión desde la interfaz y redirigir al login. | US20 |
+| TS23 |  Invalidar sesión en backend  | Como developer, quiero asegurarme de que el token o sesión activa se invalide correctamente en backend. | US20 |
+| TS24 | Implementar menú de navegación fijo en la landing page | Como developer, quiero crear un menú en el encabezado que muestre todas las secciones principales del sitio. | US33 |
+| TS25 | Configurar apertura de enlaces en nueva pestaña | Como developer, quiero asegurar que cada enlace social se abra en una nueva pestaña del navegador. | US35 |
+| TS26 | Endpoint GET distribuidores actuales | **Como** developer, **Quiero** implementar un endpoint que devuelva los distribuidores asociados al empresario autenticado, **Para** mostrarlos en la vista de “Distribuidores actuales”. | US36 |
+| TS27 | Endpoint POST solicitud de lote | **Como developer,** Quiero implementar un endpoint que permita registrar una solicitud de lote desde un empresario a un distribuidor, Para guardar tipo de tela, color, cantidad, dirección y comentario. | US37, US40 |
+| TS28 | Endpoint POST calificación de distribuidor | **Como developer,** Quiero permitir que el empresario califique a un distribuidor y deje un comentario, Para registrar esa interacción y calcular promedio de calificaciones. | US38 |
+| TS29 | Endpoint GET distribuidores disponibles | **Como developer,** Quiero obtener la lista de distribuidores no asociados al empresario, ordenados por calificación, Para mostrarla en la vista de “Añadir Distribuidor”. | US39 |
+| TS30 | Endpoint GET solicitudes por distribuidor | **Como** developer**, Quiero** crear un endpoint que devuelva las solicitudes de lote agrupadas por empresas actuales y nuevas, **Para** mostrar esta información al distribuidor. | US41, US44 |
+| TS31 | Endpoint GET detalles de solicitud | **Como developer, Quiero** implementar un endpoint que devuelva los detalles completos de la solicitud (tipo de tela, color, cantidad, etc.), **Para que** se puedan visualizar al expandir la tarjeta. | US42 |
+| TS32 |  Endpoint PUT aceptar solicitud | **Como developer, Quiero** crear una funcionalidad que permita al distribuidor aceptar una solicitud, **Para** cambiar su estado y asociarla al proceso de generación de lote. | US43 |
 
 
 
@@ -1002,10 +860,20 @@ Usuario distribuidor
 | 29 | US29 | Comparar planes de suscripción disponibles | Como visitante, Quiero visualizar los planes ofrecidos con sus precios y beneficios, Para elegir el más adecuado según mis necesidades.  | 2 |
 | 30 | US30 | Resolver dudas frecuentes sobre el uso de la plataforma | Como visitante, Quiero leer respuestas a preguntas frecuentes, Para entender mejor cómo funciona y si es adecuada para mí.  | 2 |
 | 31 | US31 | Contactar al equipo de TextilFlow | Como visitante, Quiero enviar un mensaje de contacto a través de un formulario, Para obtener más información, resolver dudas o solicitar una demo.  | 3 |
-| 32 | US32 | Acceder a la opción de iniciar sesión | Como visitante, Quiero ver un botón de "Iniciar sesión" en el encabezado, Para ingresar fácilmente a mi cuenta si ya estoy registrado. | 3 |
+| 32 | US32 | Acceder a la opción de iniciar sesión | **Como visitante**, Quiero ver un botón de "Iniciar sesión" en el encabezado, **Para ingresar fácilmente a mi cuenta si ya estoy registrado**. | 3 |
 | 33 | US33 | Conocer las secciones del sitio desde el menú | **Como visitante**, Quiero ver un menú de navegación en el encabezado con accesos a Producto,Nosotros, Planes y Registro, **Para explorar fácilmente el contenido de la web**. | 3 |
 | 34 | US34 | Visualizar información legal y de autor | **Como visitante**, Quiero ver información legal o de derechos de autor al final de la página, **Para conocer la propiedad y responsabilidad de la plataforma**. | 1 |
 | 35 | US35 | Acceder a redes sociales o enlaces adicionales | **Como visitante**, Quiero acceder a los íconos o enlaces del footer, **Para seguir a TextilFlow en redes o explorar más contenido**. | 1 |
+| 36 | US36 | Visualizar distribuidores actuales | **Como empresario,** Quiero ver un listado de los distribuidores con los que ya tengo relación, Para poder hacer solicitudes de lote o calificarlos. | 3 |
+| 37 | US37 | Solicitar lote a un distribuidor actual | **Como empresario,** Quiero solicitar un lote desde el listado de distribuidores actuales, Para enviar detalles como tipo de tela, cantidad, color, dirección y comentario. | 5 |
+| 38 | US38 | Calificar a un distribuidor | **Como empresario,** Quiero asignar una calificación con estrellas y dejar un comentario, Para registrar mi experiencia con un distribuidor. | 3 |
+| 39 | US39 | Añadir nuevo distribuidor | **Como empresario,** Quiero acceder a un listado ordenado por calificación de distribuidores disponibles, Para poder enviarles una solicitud de conexión. | 3 |
+| 40 | US40 | Enviar solicitud a nuevo distribuidor | **Como empresario,** Quiero enviar una solicitud con tipo de tela, color, cantidad, dirección y comentario, Para iniciar una relación con un nuevo distribuidor. | 5 |
+| 41 | US41 | Visualizar solicitudes de empresas actuales | **Como distribuidor,** Quiero ver la lista de empresas con las que ya tengo una relación y que me han enviado una solicitud, Para revisar sus detalles y decidir si acepto o no el pedido. | 3 |
+| 42 | US42 | Ver detalles de solicitud de lote | **Como distribuidor,** Quiero poder ver los detalles completos de una solicitud expandiendo el panel, Para conocer lo que solicita la empresa antes de aceptarlo. | 2 |
+| 43 | US43 | Aceptar solicitud de lote | **Como distribuidor,** Quiero aceptar una solicitud enviada por una empresa, Para comenzar con el registro y envío del lote solicitado. | 3 |
+| 44 | US44 | Ver nuevas empresas interesadas | **Como distribuidor,** Quiero ver solicitudes provenientes de empresas con las que aún no tengo relación, Para decidir si deseo comenzar a trabajar con ellas. | 3 |
+
 
 <hr>
 
@@ -1555,37 +1423,137 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.7.2. Class Dictionary**
 
+### Auth 
+
 #### Class User
 
 |  Atribute  | Type | Description| 
 | :---- | :---- | :---- | 
-| id | UUID | Unique code for a user | 
-| name | String | Name of a user | 
-| lastName | String | Last name of a user | 
-| email | String | Email related to the user account | 
-| password | String | Password of the user account | 
-| rol | UserType | Indicates what type of account the user will have | 
-| pay | CreditCard | Indicates the type of payment associated with the account | 
+| id | string | Unique code for a user | 
+| username | string | Username used to log into the platform | 
+| password | string | Encrypted password for user authentication | 
+| role | Enum(businessman,supplier,admin) | Role assigned to the user, determining their access level | 
+| createAt | Date | Date and time when the user account was created | 
+| updateAt | Date | Date and time when the user account was last updated | 
+
 
 ---
 
-#### Class CreditCard
+#### class AuthService <<Singleton>>
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| number | String | Credit card number |
-| cvv | String | Security code of the credit card |
-| expiration | String | Expiration date of the card |
+| instance | AuthService | Static instance of the singleton class, ensuring a single point of access to authentication logic |
 
 ---
 
-#### Class Record
+### Businessman
+
+#### Class Businessman
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| user | User | Reference to the user that creates the record |
-| batch | Batch | Reference to the batch involved in the record |
-| observation | Observation | Observations made by the user regarding the batch |
+| id | string | Unique identifier for the businessman |
+| userId | string | Foreign key linking to the associated user account |
+| companyName | string | Official name of the business entity |
+| contactName | string | Full name of the main contact person for the business |
+| phone | string | Contact phone number for the business |
+| address | string | Physical or mailing address of the business |
+| logoUrl | string | URL linking to the company’s logo image |
+| website | string | Official website of the business, if any |
+| createdAt | Date | Timestamp indicating when the businessman record was created |
+| updatedAt | Date | Timestamp of the last update made to the businessman record |
+
+
+---
+
+#### Class BusinessmanHomeComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| stats | Statistics | Contains various performance metrics and business-related data |
+| activeRequests | Request[] | List of requests that are currently active or in progress |
+
+---
+
+#### Class BusinessmanPlansComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| availablePlans | Plan[] | List of all plans that the businessman can subscribe to |
+| subscribedPlans | Subscription[] | List of plans the businessman is currently subscribed to |
+
+---
+
+#### Class BusinessmanRequestComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| pendingRequests | Request[] | List of requests that are currently pending or in progress |
+| completedRequests | Request[] | List of requests that have been completed or closed |
+| completedRequests | Request | Represents a new request being created by the user |
+
+---
+
+### Supplier 
+#### Class Supplier 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier for the supplier |
+| userId | string | Reference to the associated user account |
+| companyName | string | Reference to the associated user account |
+| serviceTypes | string[] | List of service types offered by the supplier |
+| contactName | string | Name of the primary contact person |
+| phone | string | Contact phone number |
+| address | string | Physical business address |
+| logoUrl | string | URL to the company's logo image |
+| website | string | Website URL of the supplier |
+| createdAt | Date | Timestamp of when the supplier was created |
+| updatedAt | Date | Timestamp of the last update made to the supplier data |
+
+
+---
+
+#### Class SupplierHomeComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| stats | Statistics | Statistical data related to the supplier's activity (e.g., completed services, ratings) |
+| pendingRequests | Request[] | List of current pending service requests assigned to the supplier |
+
+---
+
+#### Class SupplierPlansComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| registeredPlans | Plan[] | List of plans that the supplier has registered or subscribed to |
+
+---
+
+#### Class SupplierRequestComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| assignedRequests | Request[] | List of requests currently assigned to the supplier |
+| completedRequests | Request[] | List of requests the supplier has completed |
+
+---
+
+### Batch 
+
+#### Class BatchEntity
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the batch entity |
+| batchId | string | Identifier of the batch to which this entity belongs |
+| entityType | string | Type/category of the entity |
+| entityData | object | Data content of the entity |
+| processingStatus | string | Current processing status of the entity (e.g., pending, processed) |
+| createdAt | Date | Timestamp when the entity was created |
+| updatedAt | Date | Timestamp when the entity was last updated |
 
 ---
 
@@ -1593,23 +1561,118 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| id | UUID | Unique identifier of the fabric batch |
-| client | String | Name of the client who owns the batch |
-| typeFabric | String | Type of fabric in the batch |
-| batchColor | String | Color of the fabric batch |
-| quantity | int | Quantity of fabric units in the batch |
-| price | money | Total price of the fabric batch |
-| registrationDate | date | Date when the batch was registered |
+| id | string | Unique identifier of the batch |
+| requestId | string | Identifier of the request that triggered this batch |
+| status | string | Current status of the batch (e.g., processing, completed, cancelled) |
+| resultData | object | Result data or output generated from batch processing |
+| errorMessage | string | Error message if processing failed |
+| createdAt | Date | Timestamp when the batch was created |
+| updatedAt | Date | Timestamp when the batch was last updated |
 
 ---
-
-#### Class Observation
+#### Class BusinessmanBatchComponent
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| id | int | Unique identifier of the observation |
-| content | String | Text content of the observation |
-| author | User | Author of the observation |
+| batches | Batch[] | List of batches related to the businessman. |
+
+---
+
+#### Class SupplierBatchComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| batches | Batch[] | List of batches related to the businessman. |
+
+---
+
+#### Class SupplierBatchComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| newBatch | Batch | The batch being created or registered. |
+| entities | BatchEntity[] | List of entities included in the new batch |
+
+---
+
+#### Class SupplierRegisterBatchComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| newBatch | Batch | The batch being created or registered |
+| entities | BatchEntity[] | List of entities included in the new batch |
+---
+
+### Shared
+
+#### Class Request
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the request |
+| businessmanId | string | ID of the businessman who created the request |
+| supplierId | string | ID of the supplier assigned to the request |
+| title | string | Title or short summary of the request |
+| description | string | ID of the supplier assigned to the request |
+| requirements | string | Specific requirements needed to fulfill the request |
+| status | string | Current status of the request (e.g., pending, accepted) |
+| deadline | string | Deadline by which the request should be completed |
+| createdAt | Date | Deadline by which the request should be completed |
+| updatedAt | Date | Timestamp when the request was last updated |
+
+---
+
+#### Class Plan
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the plan |
+| name | string | Name of the plan |
+| description | string | Description of the plan’s features and benefits |
+| price | decimal | Price of the plan |
+| features | string[] | List of features included in the plan |
+| isActive | boolean | Indicates if the plan is currently active |
+| createdAt | Date | Timestamp when the plan was created |
+| updatedAt | Date | Timestamp when the plan was last updated |
+
+---
+
+#### Class Subscription
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the subscription |
+| businessmanId | string | ID of the businessman holding the subscription |
+| planId | string | ID of the subscribed plan |
+| startDate | Date | Subscription start date |
+| endDate | Date | Subscription end date |
+| status | string | Current status of the subscription (active, cancelled, expired) |
+| paymentInfo | object | Payment details related to the subscription |
+| createdAt | Date | Timestamp when the subscription was created |
+| updatedAt | Date | Timestamp when the subscription was last updated |
+
+---
+
+#### Class Comment
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the comment |
+| requestId | string | ID of the request to which the comment belongs |
+| userId | string | ID of the user who made the comment |
+| content | string | Text content of the comment |
+| attachmentUrl | string | URL of any attachment included with the comment |
+| createdAt | Date | Timestamp when the comment was created |
+| updatedAt | Date | Timestamp when the comment was last updated |
+
+---
+
+#### Class NotificationManager 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| instance | NotificationManager | Static instance of the singleton class |
+| observers | Observer[] | List of subscribed observers for notifications |
 
 ---
 
@@ -1617,43 +1680,26 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| id | int | Unique identifier of the notification |
-| issue | String | Title or brief of the issue |
-| content | String | Full content of the notification |
-| date | Date | Date when the notification was created |
+| id | string | Unique identifier of the notification |
+| userId | string	 | ID of the user who receives the notification |
+| type | string | Type of notification (e.g., info, warning, request_update) |
+| message | string | The message content of the notification |
+| isRead | boolean | Indicates whether the user has read the notification |
+| relatedId | string | ID of the related entity (e.g., request, plan, batch) the notification refers to |
+| createdAt | Date | Timestamp when the notification was created |
 
 ---
 
-#### Class NotificationManager
+#### Class Statistics
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| notification | Notification | Notification to be managed |
-| author | User | Author of the notification |
+| totalRequests | number | Total number of requests made or received |
+| completedRequests | number | Number of requests marked as completed |
+| pendingRequests | number | Number of requests that are still pending |
+| rejectedRequests | number | Number of requests that were rejected |
+| inProgressRequests | number | Number of requests that are currently in progress |
 
----
-
-#### Class Yape
-
-| Attribute | Type | Description |
-| :---- | :---- | :---- |
-| apiKey | String | API key for authenticating Yape transactions |
-
----
-
-#### Class PagoEfectivo
-
-| Attribute | Type | Description |
-| :---- | :---- | :---- |
-| apiKey | String | API key for authenticating PagoEfectivo transactions |
-
----
-
-#### Class Plin
-
-| Attribute | Type | Description |
-| :---- | :---- | :---- |
-| apiKey | String | API key for authenticating Plin transactions |
 
 ### **4.8. Database Design**
 #### **4.8.1. Database Diagram**
@@ -1835,7 +1881,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint n \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
 | **Sprint Goal & User Stories** |  |
 | Sprint n Goal | Nuestro objetivo es implementar todas las funcionalidades principales de la **landing page de TextilFlow** en este Sprint de 3 semanas, para ofrecer una experiencia clara, confiable y atractiva a los visitantes nuevos. Queremos que los usuarios: Comprendan de inmediato el propósito de la plataforma.<br> Conozcan sus beneficios, precios y el equipo detrás.<br> Tengan acceso directo al registro, login, redes sociales y navegación del sitio.  |
-| Sprint n Velocity | 3 |
+| Sprint 1 Velocity | 3 |
 | Sum of Story Points | 18 |
 
 ##### **5.2.1.2. Aspect Leaders and Collaborators**
@@ -1986,16 +2032,177 @@ Landing-Page-TextilFlow:
   <img src="images/insights1.2.png" alt="PB" width="850">
 </p>
 
+##### **5.2.2. Sprint 2**
+
+
+##### **5.2.2.1. Sprint Planning 2**
+
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 2 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este segundo Sprint, enfocándonos en el desarrollo iniciald del front-end de TextilFlow. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma.<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
+| Date | 2025-05-01 |
+| Time | 19:10 PM |
+| Location | Meeting by Discord |
+| Prepared By |  Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz <br>Maylhy Olinda Gutierrez Condo |
+| Sprint 2 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 2 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | Nuestro objetivo es implementar todas las funcionalidades principales para la **version inicial del front-end de TextilFlow** en este Sprint de 2 semanas, para mostrar la funcionalidad en esencia del producto. Queremos que los usuarios: Descubran lo esencial de nuestra aplicacion.<br> Tengan acceso directo al registro, login, registro de lotes, configuracion y personalizacion.  |
+| Sprint 2 Velocity | 3 |
+| Sum of Story Points | 18 |
+
+##### **5.2.2.2. Aspect Leaders and Collaborators**
+
+| Team Member (Last Name, First Name) | GitHub Username | Frontend Component Development Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Fake API Integration Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Steven Mathew Roca Tineo | matthewsrt29 | L | C | L |
+| Maylhy Olinda Gutierrez Condo | Ly009463 | C | C | C |
+| Mathias Eduardo Bueno Perales | MathiasBueno | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | L | C |
+
+
+
+##### **5.2.2.3. Sprint Backlog 2**
+
+Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de TextilFlow. Para llevarlo a cabo, definimmos tareas especificas para cada historia de usuario relacionada con la funcionalidad y las hemos asignado entre los integrantes del equipo. Para una mejor organizacion en el Backlog, usamos la herramienta Trello.
+
+*Sprint 2 de TextilFlow*
+<p align="center">
+  <img src="images/sprint2.png" alt="PB" width="850">
+</p>
+
+
+[Sprint Backlog en Trello](https://trello.com/invite/b/6826ee088086ab2cf36c5887/ATTIda93837814f8bd7a54a1d6a214528a46DFB98EAE/sprint-2)
+
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| 21 | Registro de usuario	 | T1 | Desarrollar registro de usuario |  Implementar registro de usuario en Angular | 2 | Mathew Roca | Done |
+| 22 | Inicio de Sesion	 | T1 | Desarrollar inicio de sesion | Implementar inicio de sesion en Angular | 2 | Mathew Roca | Done |
+| 24 | Seleccion de Tipo de Usuario | T1 | Desarrollar la seleccion segun el tipo de usuario | Implementar la seleccion de usuario en Angular | 1 | Mathew Roca | Done |
+| 01 | Visualizar listado de lotes recibidos | T1 | Ver todos los lotes recibidos	 | Implementar la visualizacion de lotes recibidos | 3 | Maylhy Gutiérrez | Done |
+| 04 | Ver detalles de un lote específico | T1 | Ver los detalles de los lotes | Desarrollar la muestra de detalles de los lotes | 4 | Maylhy Gutiérrez | Done |
+| 05 | Enviar observaciones sobre un lote recibido | T1 | Enviar observaciones de alertas en el lote | Desarrollar la logica de envio de observaciones | 3 | Maylhy Gutiérrez | Done |
+| 12 | 	Visualizar planes de suscripción disponibles | T1 | Mostrar los planes disponibles | Agregar la seccion de planes disponibles en Angular | 2 | Giancarlo Solis | Done |
+| 14 | Personalizar la vista de la plataforma | T1 | Personalizacion de la vista segun lo quiera el usuario | Desarrollar la personalizacion de la app en Angular | 3 | Mathias Bueno | Done |
+| 15 | Editar datos del perfil | T1 | Desarrollar la edicion de datos del perfil | Implementar la logica de personalizacion del perfil | 1 | Mathias Bueno | Done |
+| 18 | Registrar lote por código automático o manual | T1 | Desarrollar el registro de lote | Implementar logica de registro de lote en Angular | 4 | Maylhy Gutierrez | Done |
+| 08 | Visualizar observaciones enviadas | T1 | Ver todas las observaciones  | Desarrollar la visualizacion de observaciones enviadas | 3 | Giancarlo Solis | In process |
+
+
+##### **5.2.2.4. Development Evidence for Sprint Review**
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| TextilFlow-Curso-Open-Source/Front-end | feat/initial | e00df80 | feat: adding login,layouts and authentication |  | 13/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/config_and_profile | 07c7283 | feat: adding config models, services and businessman profile config |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/supplier_home | 84967af | feat:Adding funcionality to the Supplier-home part |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/business_home | 0ab56af | feat:Adding the bussinessmanHome into the code with funcionalities |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/sup_config_profile | 79f1bbc | feat:adding supplier configuration and profile |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 8b8ef6b | feat: batch registration with success, error and warning notifications |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 352212f | fix: ajustes finales antes de cerrar la feature  |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 78039b5 | fix: Add supplier batch |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 76786ef | fix:update styles,html and logic in Supplier-Home |  | 14/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/sup_config_profile | f20b934 | fix:updating supplier profile configuration |  | 15/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/request_section | a14bbf6 | feat: adding request section |  | 16/05/2025 |
+
+
+##### **5.2.2.5. Execution Evidence for Sprint Review**
+
+Para esta entrega, tanto el producto Landing Page como nuestra aplicacion web se encuentran en lanzamiento y con acceso abierto para todos los usuarios. 
+
+https://github.com/TextilFlow-Curso-Open-Source/Landing-Page-TextilFlow
+
+https://textilflow.web.app/login
+
+<p align="center">
+  <img src="images/EEvidence1.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/EEvidence_sprint2.png" alt="PB" width="850">
+</p>
+
+
+
+[TextilFlow Execution Evidence for Sprint Review](https://drive.google.com/drive/folders/1uNoO2d2ZfiTcSW7YRwtGYBqTgDddZON7?usp=sharing)
+
+
+##### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+Aqui se muestra la documentacion de los servicios empleados. En esta ocasion, hemos usado servicios de forma simulada, para aplicar los servicios finales del servicio.
+
+<p align="center">
+  <img src="images/api_endpoint.jpg" alt="PB" width="850">
+</p>
+
+
+Servicio de users:
+
+<p align="center">
+  <img src="images/Users_service.jpeg" alt="PB" width="850">
+</p>
+
+Servicio de businessman:
+
+<p align="center">
+  <img src="images/Businessman_service.jpeg" alt="PB" width="850">
+</p>
+
+Servicio de supplier:
+
+<p align="center">
+  <img src="images/Suppliers_Service.jpeg" alt="PB" width="850">
+</p>
+
+Servicio de batches:
+
+<p align="center">
+  <img src="images/Batches_service.jpeg" alt="PB" width="850">
+</p>
+
+
+##### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
+Para este segundo sprint, optamos por usar Firebase para desplegar el front-end. Iniciamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio, realizamos la configuracion con los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy " para implementar nuestra aplicación exclusivamente para el servicio.
+
+<p align="center">
+  <img src="images/deploy_evidence2.jpeg" alt="PB" width="850">
+</p>
+
+
+##### **5.2.2.8. Team Collaboration Insights during Sprint**
+
+Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. Aqui adjuntamos una imagen que muestra la cotribucion de todos los miembros del equipo con los commits durante este proceso de desarrollo.
+
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación del login, autenticacion, menus y seccion de pedidos |
+| Maylhy Olinda Gutierrez Condo | Implementación del registro de lotes e internacionalizacion|
+| Mathias Eduardo Bueno Perales | Implementación de la configuracion y de la edicion del perfil|
+| Giancarlo Rafael Solis Santa Cruz | Implementación la seccion de Home segun que usuario entre a la app |
+
+
+<p align="center">
+  <img src="images/Insights2.png" alt="PB" width="850">
+</p>
+
 
 ## **Conclusiones**
 
 
 * Nuestro startup Qualix que tiene como producto a TextilFlow tiene potencial para ser explotado en el rubro textil, y es que la gestión de lotes, su documentación y evidencia visual de cada uno previo a una venta/compra, así como la verificación de la calidad de esta, son cruciales al momento de producir prendas o algún producto confeccionado.
 
-* Luego de la delimitación de las funcionalidades a considerar en nuestro producto, hicimos el despliegue de nuestra Landing Page con HTML CSS y Javascript, partiendo de las delimitaciones anteriormente hechas en algunos wireframes o mock ups, dándole así uso a la plataforma de control de versiones, GitHub.
+* Luego de la delimitación de las funcionalidades a considerar en nuestro producto, hicimos el despliegue de nuestra Landing Page y web applications con HTML CSS y Javascript, partiendo de las delimitaciones anteriormente hechas en algunos wireframes o mock ups, dándole así uso a la plataforma de control de versiones, GitHub.
 
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
+* Los miembros del grupo en conjunto creemos que todo lo establecido en la rubrica para esta entrega del TP esta cumplido de forma satisfactoria. La buena planificación y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor cumplir con la entrega con mayor antelación y manejar mejor nuestros tiempos de trabajo.
 
 
 
