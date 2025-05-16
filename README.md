@@ -1397,37 +1397,137 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.7.2. Class Dictionary**
 
+### Auth 
+
 #### Class User
 
 |  Atribute  | Type | Description| 
 | :---- | :---- | :---- | 
-| id | UUID | Unique code for a user | 
-| name | String | Name of a user | 
-| lastName | String | Last name of a user | 
-| email | String | Email related to the user account | 
-| password | String | Password of the user account | 
-| rol | UserType | Indicates what type of account the user will have | 
-| pay | CreditCard | Indicates the type of payment associated with the account | 
+| id | string | Unique code for a user | 
+| username | string | Username used to log into the platform | 
+| password | string | Encrypted password for user authentication | 
+| role | Enum(businessman,supplier,admin) | Role assigned to the user, determining their access level | 
+| createAt | Date | Date and time when the user account was created | 
+| updateAt | Date | Date and time when the user account was last updated | 
+
 
 ---
 
-#### Class CreditCard
+#### class AuthService <<Singleton>>
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| number | String | Credit card number |
-| cvv | String | Security code of the credit card |
-| expiration | String | Expiration date of the card |
+| instance | AuthService | Static instance of the singleton class, ensuring a single point of access to authentication logic |
 
 ---
 
-#### Class Record
+### Businessman
+
+#### Class Businessman
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| user | User | Reference to the user that creates the record |
-| batch | Batch | Reference to the batch involved in the record |
-| observation | Observation | Observations made by the user regarding the batch |
+| id | string | Unique identifier for the businessman |
+| userId | string | Foreign key linking to the associated user account |
+| companyName | string | Official name of the business entity |
+| contactName | string | Full name of the main contact person for the business |
+| phone | string | Contact phone number for the business |
+| address | string | Physical or mailing address of the business |
+| logoUrl | string | URL linking to the company’s logo image |
+| website | string | Official website of the business, if any |
+| createdAt | Date | Timestamp indicating when the businessman record was created |
+| updatedAt | Date | Timestamp of the last update made to the businessman record |
+
+
+---
+
+#### Class BusinessmanHomeComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| stats | Statistics | Contains various performance metrics and business-related data |
+| activeRequests | Request[] | List of requests that are currently active or in progress |
+
+---
+
+#### Class BusinessmanPlansComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| availablePlans | Plan[] | List of all plans that the businessman can subscribe to |
+| subscribedPlans | Subscription[] | List of plans the businessman is currently subscribed to |
+
+---
+
+#### Class BusinessmanRequestComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| pendingRequests | Request[] | List of requests that are currently pending or in progress |
+| completedRequests | Request[] | List of requests that have been completed or closed |
+| completedRequests | Request | Represents a new request being created by the user |
+
+---
+
+### Supplier 
+#### Class Supplier 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier for the supplier |
+| userId | string | Reference to the associated user account |
+| companyName | string | Reference to the associated user account |
+| serviceTypes | string[] | List of service types offered by the supplier |
+| contactName | string | Name of the primary contact person |
+| phone | string | Contact phone number |
+| address | string | Physical business address |
+| logoUrl | string | URL to the company's logo image |
+| website | string | Website URL of the supplier |
+| createdAt | Date | Timestamp of when the supplier was created |
+| updatedAt | Date | Timestamp of the last update made to the supplier data |
+
+
+---
+
+#### Class SupplierHomeComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| stats | Statistics | Statistical data related to the supplier's activity (e.g., completed services, ratings) |
+| pendingRequests | Request[] | List of current pending service requests assigned to the supplier |
+
+---
+
+#### Class SupplierPlansComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| registeredPlans | Plan[] | List of plans that the supplier has registered or subscribed to |
+
+---
+
+#### Class SupplierRequestComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| assignedRequests | Request[] | List of requests currently assigned to the supplier |
+| completedRequests | Request[] | List of requests the supplier has completed |
+
+---
+
+### Batch 
+
+#### Class BatchEntity
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the batch entity |
+| batchId | string | Identifier of the batch to which this entity belongs |
+| entityType | string | Type/category of the entity |
+| entityData | object | Data content of the entity |
+| processingStatus | string | Current processing status of the entity (e.g., pending, processed) |
+| createdAt | Date | Timestamp when the entity was created |
+| updatedAt | Date | Timestamp when the entity was last updated |
 
 ---
 
@@ -1435,23 +1535,118 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| id | UUID | Unique identifier of the fabric batch |
-| client | String | Name of the client who owns the batch |
-| typeFabric | String | Type of fabric in the batch |
-| batchColor | String | Color of the fabric batch |
-| quantity | int | Quantity of fabric units in the batch |
-| price | money | Total price of the fabric batch |
-| registrationDate | date | Date when the batch was registered |
+| id | string | Unique identifier of the batch |
+| requestId | string | Identifier of the request that triggered this batch |
+| status | string | Current status of the batch (e.g., processing, completed, cancelled) |
+| resultData | object | Result data or output generated from batch processing |
+| errorMessage | string | Error message if processing failed |
+| createdAt | Date | Timestamp when the batch was created |
+| updatedAt | Date | Timestamp when the batch was last updated |
 
 ---
-
-#### Class Observation
+#### Class BusinessmanBatchComponent
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| id | int | Unique identifier of the observation |
-| content | String | Text content of the observation |
-| author | User | Author of the observation |
+| batches | Batch[] | List of batches related to the businessman. |
+
+---
+
+#### Class SupplierBatchComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| batches | Batch[] | List of batches related to the businessman. |
+
+---
+
+#### Class SupplierBatchComponent
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| newBatch | Batch | The batch being created or registered. |
+| entities | BatchEntity[] | List of entities included in the new batch |
+
+---
+
+#### Class SupplierRegisterBatchComponent 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| newBatch | Batch | The batch being created or registered |
+| entities | BatchEntity[] | List of entities included in the new batch |
+---
+
+### Shared
+
+#### Class Request
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the request |
+| businessmanId | string | ID of the businessman who created the request |
+| supplierId | string | ID of the supplier assigned to the request |
+| title | string | Title or short summary of the request |
+| description | string | ID of the supplier assigned to the request |
+| requirements | string | Specific requirements needed to fulfill the request |
+| status | string | Current status of the request (e.g., pending, accepted) |
+| deadline | string | Deadline by which the request should be completed |
+| createdAt | Date | Deadline by which the request should be completed |
+| updatedAt | Date | Timestamp when the request was last updated |
+
+---
+
+#### Class Plan
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the plan |
+| name | string | Name of the plan |
+| description | string | Description of the plan’s features and benefits |
+| price | decimal | Price of the plan |
+| features | string[] | List of features included in the plan |
+| isActive | boolean | Indicates if the plan is currently active |
+| createdAt | Date | Timestamp when the plan was created |
+| updatedAt | Date | Timestamp when the plan was last updated |
+
+---
+
+#### Class Subscription
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the subscription |
+| businessmanId | string | ID of the businessman holding the subscription |
+| planId | string | ID of the subscribed plan |
+| startDate | Date | Subscription start date |
+| endDate | Date | Subscription end date |
+| status | string | Current status of the subscription (active, cancelled, expired) |
+| paymentInfo | object | Payment details related to the subscription |
+| createdAt | Date | Timestamp when the subscription was created |
+| updatedAt | Date | Timestamp when the subscription was last updated |
+
+---
+
+#### Class Comment
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| id | string | Unique identifier of the comment |
+| requestId | string | ID of the request to which the comment belongs |
+| userId | string | ID of the user who made the comment |
+| content | string | Text content of the comment |
+| attachmentUrl | string | URL of any attachment included with the comment |
+| createdAt | Date | Timestamp when the comment was created |
+| updatedAt | Date | Timestamp when the comment was last updated |
+
+---
+
+#### Class NotificationManager 
+
+| Attribute | Type | Description |
+| :---- | :---- | :---- |
+| instance | NotificationManager | Static instance of the singleton class |
+| observers | Observer[] | List of subscribed observers for notifications |
 
 ---
 
@@ -1459,43 +1654,26 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| id | int | Unique identifier of the notification |
-| issue | String | Title or brief of the issue |
-| content | String | Full content of the notification |
-| date | Date | Date when the notification was created |
+| id | string | Unique identifier of the notification |
+| userId | string	 | ID of the user who receives the notification |
+| type | string | Type of notification (e.g., info, warning, request_update) |
+| message | string | The message content of the notification |
+| isRead | boolean | Indicates whether the user has read the notification |
+| relatedId | string | ID of the related entity (e.g., request, plan, batch) the notification refers to |
+| createdAt | Date | Timestamp when the notification was created |
 
 ---
 
-#### Class NotificationManager
+#### Class Statistics
 
 | Attribute | Type | Description |
 | :---- | :---- | :---- |
-| notification | Notification | Notification to be managed |
-| author | User | Author of the notification |
+| totalRequests | number | Total number of requests made or received |
+| completedRequests | number | Number of requests marked as completed |
+| pendingRequests | number | Number of requests that are still pending |
+| rejectedRequests | number | Number of requests that were rejected |
+| inProgressRequests | number | Number of requests that are currently in progress |
 
----
-
-#### Class Yape
-
-| Attribute | Type | Description |
-| :---- | :---- | :---- |
-| apiKey | String | API key for authenticating Yape transactions |
-
----
-
-#### Class PagoEfectivo
-
-| Attribute | Type | Description |
-| :---- | :---- | :---- |
-| apiKey | String | API key for authenticating PagoEfectivo transactions |
-
----
-
-#### Class Plin
-
-| Attribute | Type | Description |
-| :---- | :---- | :---- |
-| apiKey | String | API key for authenticating Plin transactions |
 
 ### **4.8. Database Design**
 #### **4.8.1. Database Diagram**
