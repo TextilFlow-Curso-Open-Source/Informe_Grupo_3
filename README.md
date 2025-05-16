@@ -48,7 +48,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
-| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrea pacial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
+| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga parcial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
 
 <hr>
 
@@ -184,8 +184,8 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
 
 | Criterio específico | Acciones realizadas  | Conclusiones  |
 | :---- | :---- | :---- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase.  |
-| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. | <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> <br>**Roca Tineo, Steven Mathew**<br> <br>**Mathias Eduardo Bueno Perales**<br> <br> **Giancarlo Rafael Solis Santa Cruz** <br> | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase. <br>**TP:**<br> Todos los integrantes mostraron una comunicación oral clara y efectiva en la exposición. Adaptamos el lenguaje según el público (profesores y compañeros), asegurando comprensión en cada fase.|
+| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> <br>**Roca Tineo, Steven Mathew**<br> <br>**Mathias Eduardo Bueno Perales**<br> <br> **Giancarlo Rafael Solis Santa Cruz** <br>  | <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. <br>**TP:**<br> Durante esta parte del trabajo, la documentacion agregada al documento fue clara y adecuada para distintos publicos. Nuestra redaccion ordenada permite la comprension de los nuevos puntos avanzados del proyecto. Cada uno realizo aporte para llenar por completo la documentacion.  |
 
 
 <hr>
@@ -2085,6 +2085,8 @@ Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de 
 | TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 78039b5 | fix: Add supplier batch |  | 14/05/2025 |
 | TextilFlow-Curso-Open-Source/Front-end | feat/batch_registration | 76786ef | fix:update styles,html and logic in Supplier-Home |  | 14/05/2025 |
 | TextilFlow-Curso-Open-Source/Front-end | feat/sup_config_profile | f20b934 | fix:updating supplier profile configuration |  | 15/05/2025 |
+| TextilFlow-Curso-Open-Source/Front-end | feat/request_section | a14bbf6 | feat: adding request section |  | 16/05/2025 |
+
 
 ##### **5.2.2.5. Execution Evidence for Sprint Review**
 
@@ -2135,6 +2137,14 @@ Servicio de batches:
 
 Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. Aqui adjuntamos una imagen que muestra la cotribucion de todos los miembros del equipo con los commits durante este proceso de desarrollo.
 
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación del login, autenticacion, menus y seccion de pedidos |
+| Maylhy Olinda Gutierrez Condo | Implementación del registro de lotes e internacionalizacion|
+| Mathias Eduardo Bueno Perales | Implementación de la configuracion y de la edicion del perfil|
+| Giancarlo Rafael Solis Santa Cruz | Implementación la seccion de Home segun que usuario entre a la app |
+
+
 <p align="center">
   <img src="images/Insights2.png" alt="PB" width="850">
 </p>
@@ -2149,6 +2159,7 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
+* Los miembros del grupo en conjunto creemos que todo lo establecido en la rubrica para esta entrega del TP esta cumplido de forma satisfactoria. La buena planificación y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor cumplir con la entrega con mayor antelación y manejar mejor nuestros tiempos de trabajo.
 
 
 
