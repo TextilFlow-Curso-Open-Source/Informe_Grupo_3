@@ -1852,6 +1852,15 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 ##### **5.2.2.2. Aspect Leaders and Collaborators**
 
+| Team Member (Last Name, First Name) | GitHub Username | Frontend Component Development Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Fake API Integration Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Steven Mathew Roca Tineo | matthewsrt29 | L | C | L |
+| Maylhy Olinda Gutierrez Condo | Ly009463 | C | C | C |
+| Mathias Eduardo Bueno Perales | MathiasBueno | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | L | C |
+
+
+
 ##### **5.2.2.3. Sprint Backlog 2**
 
 ##### **5.2.2.4. Development Evidence for Sprint Review**
