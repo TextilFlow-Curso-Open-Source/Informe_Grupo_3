@@ -48,18 +48,20 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
-
+| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrea pacial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
 
 <hr>
 
 ## Project Report Collaboration Insights  
 
 
-**Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
+Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Informe_Grupo_3" dentro de nuestra organización "TextilFlow-Curso-Open-Source", ya que allí implementaremos los diferentes componentes de nuestra aplicación web del mismo nombre. 
 
 #### Enlace del repositorio "Informe_Grupo_3": **https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3**
 
 **TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+
+**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
 **Figura 1**  
 *Insights de Informe_Grupo_3*
@@ -1835,7 +1837,7 @@ Landing-Page-TextilFlow:
 
 Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
 
-| Sprint \# | Sprint 1 |
+| Sprint \# | Sprint 2 |
 | :---- | :---- |
 | **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este segundo Sprint, enfocándonos en el desarrollo iniciald del front-end de TextilFlow. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma.<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
 | Date | 2025-05-01 |
@@ -1862,6 +1864,17 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 
 ##### **5.2.2.3. Sprint Backlog 2**
+
+Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de TextilFlow. Para llevarlo a cabo, definimmos tareas especificas para cada historia de usuario relacionada con la funcionalidad y las hemos asignado entre los integrantes del equipo. Para una mejor organizacion en el Backlog, usamos la herramienta Trello.
+
+*Sprint 2 de TextilFlow*
+<p align="center">
+  <img src="images/sprint2.png" alt="PB" width="850">
+</p>
+
+
+[Sprint Backlog en Trello](https://trello.com/invite/b/6826ee088086ab2cf36c5887/ATTIda93837814f8bd7a54a1d6a214528a46DFB98EAE/sprint-2)
+
 
 | Sprint \# | Sprint 1 |  |  |  |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
