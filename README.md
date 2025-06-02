@@ -2050,7 +2050,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint 2 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
 | Sprint 2 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
 | **Sprint Goal & User Stories** |  |
-| Sprint 2 Goal | Nuestro objetivo es implementar todas las funcionalidades principales para la **version inicial del front-end de TextilFlow** en este Sprint de 2 semanas, para mostrar la funcionalidad en esencia del producto. Queremos que los usuarios: Descubran lo esencial de nuestra aplicacion.<br> Tengan acceso directo al registro, login, registro de lotes, configuracion y personalizacion.  |
+| Sprint 2 Goal | Nuestro objetivo es obtener un producto funcional de forma que cumpla los requerimientos que nos hemos propuesto, que se pueda acceder a los lotes y el registro de cada uno, acerca de su estado y/o observaciones. Queremos que los usuarios: Descubran lo esencial de nuestra aplicacion.<br> Tengan acceso directo al registro, login, registro de lotes, configuracion y personalizacion.  |
 | Sprint 2 Velocity | 3 |
 | Sum of Story Points | 18 |
 
@@ -2075,10 +2075,11 @@ Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de 
 </p>
 
 
-[Sprint Backlog en Trello](https://trello.com/invite/b/6826ee088086ab2cf36c5887/ATTIda93837814f8bd7a54a1d6a214528a46DFB98EAE/sprint-2)
+[Sprint Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
 
 
-| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work Item/Task |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
