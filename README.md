@@ -175,6 +175,21 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
     <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
     <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
     <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#523-sprint 3">5.2.3. Sprint 3</a></li>
+    <li><a href="#5231-sprint planning-3">5.2.3.1. Sprint Planning 3</a></li>
+    <li><a href="#5232-aspect-leaders-and=collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
+    <li><a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a></li>
+    <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
+    <li><a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a></li>
+    <li><a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
+    <li><a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a></li>
+    <li><a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#53-validation-interviews">5.3. Validation Intervews</a></li>
+    <li><a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas</a></li>
+    <li><a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas</a></li>
+    <li><a href="#533-evaluaciones-segun-heuristicas">5.3.3. Evaluaciones según heurísticas</a></li>
+    <li><a href="#54-video-about-the-product">5.4. Video About-the-Product</a></li>
+
     
   </ul>        
 
@@ -2192,6 +2207,122 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 <p align="center">
   <img src="images/Insights2.png" alt="PB" width="850">
 </p>
+
+
+
+#### **5.2.3. Sprint 3**
+
+##### 5.2.3.1. Sprint Planning 3.
+
+En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 3 se centrará en el desarrollo inicial del backend y en la entrega de una versión actualizada y pulida del frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
+
+| **Sprint #**                   | Sprint 3                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 08/06/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Steven Matthew Roca Tineo                                                                                                                                                  |
+| **Sprint 3 Review Summary**    |   Se logro gran progreso en el desarrollo del backend, asi como actualizaciones y ajustes a nivel del frontend.                                                                                                                                                                                               |
+| **Sprint 3 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en puntos especificos del informe, sobre todo ciertos puntos con la orientacion erronea.                                                                                                                                                                                         |
+| **Sprint 3 Goal**              | Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra regularizar el traslado seguro de lotes entre usuarios |
+| **Sprint 3 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
+| **Sum of Story Points**        |  20 |
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se centró prioritariamente en el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos. Paralelamente, se dedicó a la optimización del frontend, buscando alinear su interfaz con los diseños de vista previamente definidos y aplicar patrones de diseño robustos. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
+
+
+| Team Member (Last Name, First Name) | GitHub Username | **Design Patterns Implementation** Leader (L) / Collaborator (C) | **Data** Leader (L) / Collaborator (C) | **Backend Endpoints** Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Steven Mathew Roca Tineo | matthewsrt29 | L | C | L |
+| Maylhy Olinda Gutierrez Condo | Ly009463 | C | C | C |
+| Mathias Eduardo Bueno Perales | MathiasBueno | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | L | C |
+
+
+
+##### 5.2.3.3. Sprint Backlog 3.
+
+El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 3 en Trello:
+##### 5.2.3.4. Development Evidence for Sprint Review.
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| TextilFlow-Curso-Open-Source/BackEnd |develop    |                       |      |-    | 17/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                        |      | -    | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                 |          | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                   |            | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                   |            | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd| develop    |               |           | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |           | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                  |        | -                              | /06/2025               |
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+*Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### 5.3.2. Registro de Entrevistas.
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.4. Video About-the-Product
+
+**Reemplazar**
+En esta sección el equipo introduce y describe el contenido del Video About-the-
+Product, el cual tiene como público objetivo los visitantes al Landing Page, quienes
+desean conocer sobre el modelo de negocio y las características principales de los
+productos de software, al igual que los usuarios de las Aplicaciones, quienes desean
+realizar tareas relacionadas con los procesos soportados por la solución. El tono que
+utilice en la comunicación debe ser consistente con el tono adoptado para el
+producto y debe incluirse al menos un testimonio positivo de un usuario que haya
+participado en las entrevistas de validación. Debe incluirse también en esta sección
+un screenshot del Video, el URL de la versión publicada en Microsoft Stream (y
+además, el URL de la versión publicada en YouTube utilizada para incrustarse en el
+Landing Page), así como el timing (duración) del mismo. Ver otras indicaciones
+importantes en el Anexo C. Indicaciones para secciones que incluyen Videos.
+
+URL del video: []
+
+### Video About-The-Team 
+
+**Reemplazar**
+En esta sección el equipo elabora un resumen de los aspectos más relevantes del
+video About-The-Team, la pauta de secuencias de contenido (secciones con el timing
+de inicio de cada una, es decir hh:mm:ss de cada sección dentro del video)
+incluyendo además un cuadro de video representativo del mismo, junto con el URL
+de la versión publicada en Microsoft Stream (y además, el URL de la versión
+publicada en YouTube utilizada para incrustarse en el Landing Page).
+Este video resume el proceso de trabajo realizado, incluyendo escenas con imágenes
+o video de sesiones de trabajo real del equipo, complementando con narración (voz
+en off) del proceso. Incluye además el testimonio ante cámara de cada participante
+describiendo actividades realizadas, logro de outcomes y desarrollo de competencias
+alcanzados. Ver otras indicaciones importantes en el Anexo C. Indicaciones para
+secciones que incluyen Videos.
+
+<hr>
 
 
 ## **Conclusiones**
