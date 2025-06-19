@@ -1459,6 +1459,7 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 <p align="center">
   <img src="images/SupplierBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
 ### **4.7. Software Object-Oriented Design**
 
 #### **4.7.1. Class Diagrams**
