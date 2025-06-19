@@ -49,6 +49,7 @@
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
 | TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga parcial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
+| TB2 | 22/06/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga  del informe de nuestro proyecto, hemos realizado el sprint 3 del informe y también entregamos una primera version desplegada de nuestro backend |
 
 <hr>
 
@@ -59,9 +60,13 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
 
 #### Enlace del repositorio "Informe_Grupo_3": **https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3**
 
-**TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+**TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. 
 
-**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. 
+
+**TB2:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. 
+
+A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
 **Figura 1**  
 *Insights de Informe_Grupo_3*
@@ -142,7 +147,7 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
     <li><a href="#462-Software-Architecture-Container-Diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
     <li><a href="#463-Software-Architecture-Components-Diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
     <li><a href="#47-Software-Object-Oriented-Design">4.7. Software Object-Oriented Design</a></li>
-    <li><a href="#471-Class-Diagrams">4.7.1. Class Diagrams</a></li>
+    <li><a href="#471-class-diagrams">4.7.1. Class Diagrams</a></li>
     <li><a href="#472-Class-Dictionary">4.7.2. Class Dictionary</a></li>
     <li><a href="#48-Database-Design">4.8. Database Design</a></li>
     <li><a href="#481-Database-Diagram">4.8.1. Database Diagram</a></li>
@@ -175,8 +180,8 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
     <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
     <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
     <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
-    <li><a href="#523-sprint 3">5.2.3. Sprint 3</a></li>
-    <li><a href="#5231-sprint planning-3">5.2.3.1. Sprint Planning 3</a></li>
+    <li><a href="#523-sprint-3">5.2.3. Sprint 3</a></li>
+    <li><a href="#5231-sprint-planning-3">5.2.3.1. Sprint Planning 3</a></li>
     <li><a href="#5232-aspect-leaders-and=collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
     <li><a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a></li>
     <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
@@ -1429,6 +1434,7 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
   <img src="images/SAComponentsDiagram.png" alt="PB" width="1000">
 </p>
 
+
 <p align="center">
   <img src="images/AuthBoundedContextDetail.png" alt="PB" width="1000">
 </p>
@@ -1453,7 +1459,6 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 <p align="center">
   <img src="images/SupplierBoundedContextDetail.png" alt="PB" width="1000">
 </p>
-
 
 ### **4.7. Software Object-Oriented Design**
 
@@ -2243,23 +2248,28 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 
 
 
-#### **5.2.3. Sprint 3**
+##### **5.2.3. Sprint 3**
 
 ##### 5.2.3.1. Sprint Planning 3.
 
 En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 3 se centrará en el desarrollo inicial del backend y en la entrega de una versión actualizada y pulida del frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
 
-| **Sprint #**                   | Sprint 3                                                                                                                                                                                                                                          |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
-| **Date**                       | 08/06/2025                                                                                                                                                                                                                                        |
-| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
-| **Prepared By**                | Steven Matthew Roca Tineo                                                                                                                                                  |
-| **Sprint 3 Review Summary**    |   Se logro gran progreso en el desarrollo del backend, asi como actualizaciones y ajustes a nivel del frontend.                                                                                                                                                                                               |
-| **Sprint 3 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en puntos especificos del informe, sobre todo ciertos puntos con la orientacion erronea.                                                                                                                                                                                         |
-| **Sprint 3 Goal**              | Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra regularizar el traslado seguro de lotes entre usuarios |
-| **Sprint 3 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
-| **Sum of Story Points**        |  20 |
+| Sprint \# | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este tercer Sprint, enfocándonos en el desarrollo del back-end de TextilFlow. Durante la reunión: Definimos los bounded context a tener en cuenta para crear la base de datos<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
+| Date | 2025-06-08 |
+| Time | 16:30 PM |
+| Location | Meeting by Discord |
+| Prepared By |  Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz <br>Maylhy Olinda Gutierrez Condo |
+| Sprint 3 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 3 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal |  Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra regularizar el traslado seguro de lotes entre usuarios  |
+| Sprint 3 Velocity | 4 |
+| Sum of Story Points | 20 |
+
+                                                                                                                                                                  
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators
 
@@ -2277,16 +2287,36 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
-El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos, acceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
 
 Sprint Backlog 3 en Trello:
+
+| Sprint \# | Sprint 3 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+|  |  | T1 | | | 2 | Mathew Roca | Done |
+|  |  | T1 | | | 2 | Mathew Roca | Done |
+|  |  | T1 | | | 1 | Mathew Roca | Done |
+|  |  | T1 | | | 3 | Maylhy Gutiérrez | Done |
+|  |  | T1 | | | 4 | Maylhy Gutiérrez | Done |
+|  |  | T1 | | | 3 | Maylhy Gutiérrez | Done |
+|  | 	| T1 | | | 2 | Giancarlo Solis | Done |
+|  |  | T1 | | | 3 | Mathias Bueno | Done |
+|  |  | T1 | | | 1 | Mathias Bueno | Done |
+|  |  | T1 | | | 4 | Maylhy Gutierrez | Done |
+|  |  | T1 | | | 3 | Giancarlo Solis | In process |
+
+
 ##### 5.2.3.4. Development Evidence for Sprint Review.
+ 
+
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| TextilFlow-Curso-Open-Source/BackEnd |develop    |                       |      |-    | 17/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd |develop    |   6bee8b7   |  feat:auth and profiles endpoints    |-    | 17/06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                        |      | -    | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                     |          | -        | /06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                 |          | -                              | /06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                   |            | -                              | /06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /06/2025               |
@@ -2413,6 +2443,15 @@ https://github.com/TextilFlow-Curso-Open-Source/Landing-Page-TextilFlow
 Imforme_Grupo_3-TextiFlow
 
 https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3
+
+FrontEnd - TextilFlow
+
+https://github.com/TextilFlow-Curso-Open-Source/FrontEnd
+
+BackEnd - TextilFlow
+
+https://github.com/TextilFlow-Curso-Open-Source/BackEnd
+
 
 Trello
 
