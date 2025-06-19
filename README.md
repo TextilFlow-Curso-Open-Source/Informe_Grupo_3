@@ -1473,6 +1473,7 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 <p align="center">
   <img src="images/classDiagram.png" alt="PB" width="1000">
 </p>
+
 #### **4.7.2. Class Dictionary**
 
 ### Auth 
