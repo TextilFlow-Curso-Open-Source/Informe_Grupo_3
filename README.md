@@ -1428,19 +1428,51 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.6.3. Software Architecture Components Diagrams**
 
-## **Usuarios bounded context**
+**Diagrama de Componentes FrontEnd**
 
 <p align="center">
   <img src="images/SAComponentsDiagram.png" alt="PB" width="1000">
 </p>
 
+
+<p align="center">
+  <img src="images/AuthBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/BatchBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/BusinessmanBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/ConfigurationBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/ObservationBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/RequestBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/SharedBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/SupplierBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+
 ### **4.7. Software Object-Oriented Design**
 
 #### **4.7.1. Class Diagrams**
+**Diagrama de Clases FrontEnd**
+<p align="center">
+  <img src="images/classDiagramFrontEnd.png" alt="PB" width="1000">
+</p>
+
+**Diagrama de Clases BackEnd**
+
 <p align="center">
   <img src="images/classDiagram.png" alt="PB" width="1000">
 </p>
-
 #### **4.7.2. Class Dictionary**
 
 ### Auth 
