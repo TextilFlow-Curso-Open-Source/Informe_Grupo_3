@@ -2337,6 +2337,25 @@ Sprint Backlog 3 en Trello:
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+<p align="center">
+  <img src="images/BackendDeployEvidence1.jpeg" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackendDeployEvidence2.jpeg" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackendDeployEvidence3.jpeg" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackendDeployEvidence4.jpeg" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackendDeployEvidence5.jpeg" alt="PB" width="850">
+</p>
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -2344,6 +2363,8 @@ Sprint Backlog 3 en Trello:
 Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
 
 ### 5.3. Validation Interviews
+
+Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful de TextilFLow, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
 
 #### 5.3.1. Diseño de Entrevistas
 
