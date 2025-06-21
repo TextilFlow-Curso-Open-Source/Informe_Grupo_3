@@ -2297,15 +2297,14 @@ Sprint Backlog 3 en Trello:
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
 | US-22 | Inicio de Sesion | T1 | Obtener listado de usuarios| Recuperar todos los datos de usuarios por medio de un endpoint | 2 | Mathew Roca | Done |
 | US-22 | Inicio de Sesion | T1 | Obtener datos de usuarios por id| Recuperar datos de usuario por id por medio de un endpoint | 2 | Mathew Roca | Done |
-|  |  | T1 | | | 1 | Mathew Roca | Done |
-|  |  | T1 | | | 3 | Maylhy Gutiérrez | Done |
-|  |  | T1 | | | 4 | Maylhy Gutiérrez | Done |
-|  |  | T1 | | | 3 | Maylhy Gutiérrez | Done |
-|  | 	| T1 | | | 2 | Giancarlo Solis | Done |
+|  US-05 |Enviar observaciones de un lote reibido  | T1 | Obtener listado de observaciones | Recuperar todos los datos de observaciones por medio de un endpoint | 3 | Maylhy Gutiérrez | Done |
+| US-05 | Enviar observaciones de un lote reibido | T1 |Crear nueva observacion | Crear observaciones por medio de un endpoint | 4 | Maylhy Gutiérrez | Done |
+| US-21 | Registro de Usuario | T1 | Crear nuevo usuario| Crear usuarios por medio de un endpoint | 3 | Mathew Roca | Done |
 | US-04 | Ver detalles de un lote en especifico | T1 | Obtener listado de lotes| Recuperar todos los datos de los lotes por medio de un endpoint | 3 | Mathias Bueno | Done |
 | US-03 | Filtrar y buscar lotes por distintos criterios | T1 | Obtener datos de lotes por id| Recuperar datos de lotes por id por medio de un endpoint | 2 | Mathias Bueno | Done |
-|  |  | T1 | | | 4 | Maylhy Gutierrez | Done |
+| US-06 | Registrar y enviar lote | T1 | Crear nuevo lote | Crear lotes por medio de un endpoint | 2 | Mathias Bueno | Done |
 |  |  | T1 | | | 3 | Giancarlo Solis | In process |
+|  | 	| T1 | | | 2 | Giancarlo Solis | Done |
 
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
@@ -2319,12 +2318,12 @@ Sprint Backlog 3 en Trello:
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |        8e3d004             |   feat:deploy configuration      | -        | 20/06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |         ec249e7        |   feat: creating tables of batches bounded context, queries and commands       | -                              | 20/06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |         93bf9db          |     feat: updating batches table, queries and commands       | -                              | 20/06/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /06/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                   |            | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |       8c5664a             |     feat:Create reviews       | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |           0ce3cc1        |   feat:add class-diagram         | -                              | 21/06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd| develop    |               |           | -                              | /06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |           | -                              | /06/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                  |        | -                              | /06/2025               |
+|
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
@@ -2367,6 +2366,19 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful de TextilFLow, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
 
 #### 5.3.1. Diseño de Entrevistas
+
+Segmento Objetivo: Empresas textiles y distribuidores de telas
+
+##### 1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En que distrito vive actualmente?
+
+##### 2. ¿Que opina del diseño de nuestra landing page? ¿Le sirve de incentivo para entrar a la aplicación y registrarse?
+
+##### 3. ¿Considera que nuestra aplicación tiene una interfaz fácil y sencilla de usar? en caso que si, que funcionalidades le agradan más? y en lo contrario, que funcionalidad piensa que sobra o falta para aumentar su interés en usarla?
+
+##### 4. ¿Que dispositivo utilizo para probar la pagina y aplicación web?
+
+##### 5. ¿Hubo algún aspecto visual que no le agrado?
+
 
 #### 5.3.2. Registro de Entrevistas.
 
