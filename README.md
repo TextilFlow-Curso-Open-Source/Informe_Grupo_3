@@ -2358,7 +2358,18 @@ Sprint Backlog 3 en Trello:
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
+Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. Aqui adjuntamos una imagen que muestra la cotribucion de todos los miembros del equipo con los commits durante este proceso de desarrollo.
+
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de Autenticacion y Profiles Context |
+| Maylhy Olinda Gutierrez Condo | Implementación de Review Context|
+| Mathias Eduardo Bueno Perales | Implementación de los Bacthes Context|
+| Giancarlo Rafael Solis Santa Cruz | Implementación de Observation Context |
+
+<p align="center">
+  <img src="images/Insigths-Sprint3.png" alt="PB" width="850">
+</p>
 
 ### 5.3. Validation Interviews
 
