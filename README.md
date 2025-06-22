@@ -2781,13 +2781,15 @@ Incorporar fotos reales de telas, usuarios en acción o capturas de pantalla del
 
 ### 5.4. Video About-the-Product
 
+[About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ER3q_vy2uAlHmDe8pHrCessB2yufJAwynzripjUj4EV5HQ?e=7VkqvW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ER3q_vy2uAlHmDe8pHrCessB2yufJAwynzripjUj4EV5HQ?e=7VkqvW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ### Video About-The-Team 
 
-URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/Ec-_4DvuzBpErmcqn9t-PhABFJCIvE4mGGWhkSJu_CFYsg?e=ZVeIRP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+
+[About-The-Team ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/Ec-_4DvuzBpErmcqn9t-PhABFJCIvE4mGGWhkSJu_CFYsg?e=ZVeIRP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 <hr>
