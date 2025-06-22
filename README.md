@@ -2601,6 +2601,108 @@ Segmento Objetivo: Empresas textiles y distribuidores de telas
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
+##### SITE o APP A EVALUAR: TextilFlow
+
+##### TAREAS A EVALUAR:
+
+- Registro y visualización de lotes (enviados, pendientes, aceptados).
+
+- Registro y consulta de observaciones con imágenes.
+
+- Visualización de planes y suscripciones.
+
+- Interacción con solicitudes de empresarios/distribuidores.
+
+- Registro de perfiles y datos empresariales.
+
+- Subida de imágenes de productos/telas.
+
+- Interacción desde dispositivos móviles.
+
+- Cambio de idioma y tema (modo oscuro).
+
+- Exploración de la landing page.
+
+- Uso de formularios de envío/registro.
+
+- Registro de históricos y flujos.
+
+- Clasificación y edición de categorías.
+
+- Alertas y notificaciones automáticas.
+
+- Visualización y seguimiento de entregas.
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: fácilmente superado o poco frecuente. No requiere corrección inmediata. |
+| 2     | Problema menor: puede dificultar algo la experiencia. Se recomienda corregir pronto.          |
+| 3     | Problema mayor: frecuente o difícil de superar. Debe corregirse con prioridad.                |
+| 4     | Problema muy grave: impide el uso normal. Requiere solución inmediata.                        |
+
+#### TABLA RESUMEN DE HALLAZGOS HEURISTICOS
+
+| #  | Problema                                                                         | Severidad | Heurística violada                                            |
+| -- | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------- |
+| 1 | Botones pequeños y textos con poco contraste en modo oscuro.                     | 3         | Estándares de accesibilidad (Nielsen #4)                      |
+| 2  | Campos de fecha no editables al registrar lotes.                                 | 2         | Flexibilidad y eficiencia de uso (Nielsen #7)                 |
+| 3  | Formularios no permiten duplicar registros previos (ej.: tela similar).          | 2         | Reconocimiento antes que recuerdo (Nielsen #6)                |
+| 4  | Algunos íconos no son claros al primer vistazo.                                  | 2         | Consistencia y estándares (Nielsen #4)                        |
+| 5  | En móviles, algunos elementos visuales se muestran demasiado pequeños.           | 3         | Diseño responsivo y usabilidad móvil                          |
+| 6  | Landing page carece de imágenes reales de telas o ejemplos de uso.               | 2         | Correspondencia entre el sistema y el mundo real (Nielsen #2) |
+| 7 | No se menciona explícitamente cómo gestionar cambios o rechazos de lotes.        | 2         | Prevención de errores (Nielsen #5)                            |
+
+<br>
+
+
+#### PROBLEMA #1: Contraste bajo en modo oscuro <br>
+- Severidad: 3 <br>
+- Heurística violada: Estándares de accesibilidad / Diseño estético y minimalista (Nielsen #4) <br>
+- Descripción:
+Daniela indicó que en modo oscuro algunas letras eran poco legibles. Esto afecta la lectura fluida y puede ser un obstáculo para quienes trabajan en ambientes con baja iluminación. Además, compromete la accesibilidad, especialmente para personas con dificultades visuales.
+
+#### PROBLEMA #2: Campos de fecha no editables al registrar lotes <br>
+- Severidad: 2 <br>
+- Heurística violada: Flexibilidad y eficiencia de uso (Nielsen #7) <br>
+- Descripción:
+Un proveedor sugirió que los campos de fecha deberían poder modificarse al registrar lotes. Actualmente están fijos, lo que impide ajustes necesarios ante imprevistos logísticos. Esto reduce la capacidad de adaptación y puede llevar a errores o registros incorrectos.
+
+#### PROBLEMA #3: Formularios no permiten duplicar datos anteriores <br>
+- Severidad: 2 <br>
+- Heurística violada: Reconocimiento antes que recuerdo (Nielsen #6) <br>
+- Descripción:
+Un entrevistado mencionó que sería útil poder duplicar productos ya registrados para evitar ingresar todos los datos desde cero. La falta de esta función incrementa la carga cognitiva y el tiempo requerido, especialmente en tareas repetitivas.
+
+#### PROBLEMA #4: Íconos poco claros en ciertas secciones <br>
+- Severidad: 2 <br>
+- Heurística violada: Consistencia y estándares (Nielsen #4) <br>
+- Descripción:
+Daniela señaló que algunos íconos no son intuitivos y requieren exploración para entender su función. Esto genera fricción en la navegación y puede llevar a errores por mala interpretación.
+
+
+#### PROBLEMA #5: Tamaño reducido de botones y elementos en móvil <br>
+- Severidad: 3 <br>
+- Heurística violada: Usabilidad móvil / Control y libertad del usuario (Nielsen #3) <br>
+- Descripción:
+Varios usuarios mencionaron que algunos botones se ven demasiado pequeños desde el celular, dificultando su interacción. Esto perjudica la usabilidad y puede provocar errores al intentar presionar el elemento correcto.
+
+#### PROBLEMA #6: Landing Page carece de imágenes reales o ejemplos de uso <br>
+- Severidad: 2 <br>
+- Heurística violada: Correspondencia entre el sistema y el mundo real (Nielsen #2) <br>
+- Descripción:
+Un proveedor sugirió mostrar imágenes reales de telas o casos de uso reales entre proveedor y cliente. Esto ayudaría a transmitir mejor la utilidad de la plataforma y generar mayor conexión con el público objetivo.
+
+#### PROBLEMA #7: Flujo poco claro para rechazar o modificar un lote recibido <br>
+- Severidad: 2 <br>
+- Heurística violada: Prevención de errores (Nielsen #5) <br>
+- Descripción:
+Aunque se pueden hacer observaciones, no queda claro cómo proceder si un lote debe ser rechazado o modificado formalmente. Esto puede generar confusión, malentendidos o la falta de registro oficial de estas incidencias.
+
+
+
+
 ### 5.4. Video About-the-Product
 
 **Reemplazar**
