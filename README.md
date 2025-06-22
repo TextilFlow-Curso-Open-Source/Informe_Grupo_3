@@ -1459,6 +1459,32 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
   <img src="images/SupplierBoundedContextDetail.png" alt="PB" width="1000">
 </p>
 
+**Diagrama de Contenedores BackEnd**
+<p align="center">
+  <img src="images/structurizr-1.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr2.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr3.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr4.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr5.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr6.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr7.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr8.png" alt="PB" width="1000">
+</p>
+
 ### **4.7. Software Object-Oriented Design**
 
 #### **4.7.1. Class Diagrams**
@@ -1470,7 +1496,19 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 **Diagrama de Clases BackEnd**
 
 <p align="center">
-  <img src="images/classDiagram.png" alt="PB" width="1000">
+  <img src="images/class-diagram1.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram2.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram3.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram4.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram5.png" alt="PB" width="1000">
 </p>
 
 #### **4.7.2. Class Dictionary**
@@ -2335,6 +2373,8 @@ Sprint Backlog 3 en Trello:
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
+[TextilFlow Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 <p align="center">
   <img src="images/evidence2Sprint3.png" alt="PB" width="850">
 </p>
@@ -2848,3 +2888,7 @@ https://textilflow.web.app/login
 Frontend Web TextilFlow Application Deployed
 
 http://3.135.127.195:5001/swagger-ui/index.html#/
+
+TextilFlow Execution Evidence for Sprint Review 3
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
