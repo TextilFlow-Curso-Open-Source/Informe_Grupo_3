@@ -2322,10 +2322,15 @@ Sprint Backlog 3 en Trello:
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |         93bf9db          |     feat: updating batches table, queries and commands       | -                              | 20/06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |       8c5664a             |     feat:Create reviews       | -                              | 21/06/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |           0ce3cc1        |   feat:add class-diagram         | -                              | 21/06/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd| develop    |               |           | -                              | /06/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /06/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |           | -                              | /06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd| develop    |a16ea42               | feat:adding first version of Observation in Application          | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   5f95c85                 |  feat:adding a first version of Observation in Domain          | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   e690d9a                 | feat:adding a first version of Observation in Infrastructure          | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   b00e2fd                 | feat:adding a first version of Observation in Interface          | -                              | 21/06/2025               |
 |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   e4a0f64                 | update:fix a code part in application.properties to make it more efficent          | -                              | 21/06/2025               |
+|
+
+
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
@@ -2551,6 +2556,49 @@ Segmento Objetivo: Empresas textiles y distribuidores de telas
 
 #### 5.3.2. Registro de Entrevistas.
 
+### Segmento 1: Empresarios
+
+| Entrevistado 1 |  Eduardo Andy Bueno Muro |
+| :---- | :---- |
+| Edad | 46 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista1-Validacion.png" alt="PB" width="800"> | utilizó su computadora personal para probar la plataforma. Considera que tanto la landing page como la aplicación son interesantes, intuitivas y productivas. Valora que la aplicación le permite mantener el orden en sus stocks, proveedores y flujos operativos, lo que incentiva su registro. No identificó aspectos visuales negativos, y destacó que recomendaría su uso, principalmente por su utilidad y simplicidad. |
+
+| Timing:00:02 – 08:45 min | [Entrevista1 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  |
+
+| Entrevistado 2 |  Óscar Aldeir Zúñiga |
+| :---- | :---- |
+| Edad | 19 años |
+| Distrito/Ciudad | Comas |
+|  <img src="images/entrevista2-Validacion.png" alt="PB" width="800">  | Óscar trabaja en una empresa de venta de ropa. Accedió desde laptop y smartphone, y destacó el diseño de la landing page como profesional, limpio y confiable, lo que motivó su registro. Encontró la interfaz intuitiva, resaltando la visualización de precios mayoristas y stock en tiempo real como funcionalidades clave. Aunque la experiencia fue positiva, sugirió mejorar la carga de imágenes desde móviles para facilitar decisiones rápidas. |
+| Timing:08:45 – 14:21 min | [Entrevista 2 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+| Entrevistado 3 |  Daniela Araceli Gómez Flores |
+| :---- | :---- |
+| Edad | 28 años |
+|  <img src="images/entrevista3-Validacion.png" alt="PB" width="800"> | Probó la plataforma desde su PC con Windows y también desde celular. Calificó la landing page como visualmente atractiva, con colores cálidos y buen contraste. Destacó la claridad y orden en la interfaz, y valoró funcionalidades como la gestión de lotes, observaciones y solicitudes empresariales. Recomendó mejorar el tamaño de algunos botones en móvil y el contraste del texto en modo oscuro para mejorar la legibilidad.
+
+ |
+| Timing:14:22 – 24:36 min | [Entrevista 3 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+
+### Segmento 2: Distribuidores de Telas 
+
+| Entrevistado 4 |  Antonio Encizo |
+| :---- | :---- |
+| Edad | 23 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista4-calidacion.png" alt="PB" width="800">| Probó la plataforma desde PC, pero considera el celular como su medio ideal de uso. Opina que la landing page es clara e intuitiva, cumpliendo estándares comunes. Valora funcionalidades como el historial de envíos y la sección de observaciones por el feedback que aportan. A nivel visual, elogió el uso de colores y no reportó fallas. Sugiere seguir fortaleciendo el registro de envíos como funcionalidad destacada. |
+| Timing:24:40 – 29:22 min | [Entrevista 4 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+| Entrevistado 5 |  Luis Garcia |
+| :---- | :---- |
+| Edad | 20 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista5-validacion.png" alt="PB" width="800">| Tiene una tienda física en Gamarra y vende también por redes. Distribuye algodón licrado, denim y telas deportivas. Verifica calidad de forma visual, usando a veces lámparas para ver imperfecciones. A veces envía fotos por WhatsApp, pero no tiene respaldo formal. Ha tenido reclamos por diferencias de tono sin tener pruebas. Lleva registros en cuadernos o Excel de manera intermitente. Le parece excelente una plataforma donde pueda registrar evidencia, tener orden y compartir información con el cliente. |
+| Timing:29:23 – 35:10 min | [Entrevista 5 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+
 #### 5.3.3. Evaluaciones según heurísticas.
 
 ### 5.4. Video About-the-Product
@@ -2678,6 +2726,10 @@ https://overflow.io/s/DU68QJ8F/?node=653a4856
 Video-TextilFlow
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ET_gNINUrVFHoukgUU5dBOUBP3_veo3PhM6RDabN9D5Q-A?e=dIa4eC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video-Entrevistas de Validacion
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Canvas-TextiFlow
 
