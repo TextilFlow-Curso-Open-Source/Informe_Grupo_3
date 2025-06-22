@@ -49,6 +49,7 @@
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
 | TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga parcial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
+| TB2 | 22/06/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga  del informe de nuestro proyecto, hemos realizado el sprint 3 del informe y también entregamos una primera version desplegada de nuestro backend |
 
 <hr>
 
@@ -59,9 +60,13 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
 
 #### Enlace del repositorio "Informe_Grupo_3": **https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3**
 
-**TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+**TB1:** Para lograr la elaboración colaborativa de este informe, primero trabajamos en un documento compartido en Google Docs y posteriormente migramos el contenido a GitHub utilizando formato markdown. 
 
-**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
+**TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. 
+
+**TB2:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. 
+
+A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
 **Figura 1**  
 *Insights de Informe_Grupo_3*
@@ -142,7 +147,7 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
     <li><a href="#462-Software-Architecture-Container-Diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
     <li><a href="#463-Software-Architecture-Components-Diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
     <li><a href="#47-Software-Object-Oriented-Design">4.7. Software Object-Oriented Design</a></li>
-    <li><a href="#471-Class-Diagrams">4.7.1. Class Diagrams</a></li>
+    <li><a href="#471-class-diagrams">4.7.1. Class Diagrams</a></li>
     <li><a href="#472-Class-Dictionary">4.7.2. Class Dictionary</a></li>
     <li><a href="#48-Database-Design">4.8. Database Design</a></li>
     <li><a href="#481-Database-Diagram">4.8.1. Database Diagram</a></li>
@@ -175,6 +180,21 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
     <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
     <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
     <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#523-sprint-3">5.2.3. Sprint 3</a></li>
+    <li><a href="#5231-sprint-planning-3">5.2.3.1. Sprint Planning 3</a></li>
+    <li><a href="#5232-aspect-leaders-and=collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
+    <li><a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a></li>
+    <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
+    <li><a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a></li>
+    <li><a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
+    <li><a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a></li>
+    <li><a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#53-validation-interviews">5.3. Validation Intervews</a></li>
+    <li><a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas</a></li>
+    <li><a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas</a></li>
+    <li><a href="#533-evaluaciones-segun-heuristicas">5.3.3. Evaluaciones según heurísticas</a></li>
+    <li><a href="#54-video-about-the-product">5.4. Video About-the-Product</a></li>
+
     
   </ul>        
 
@@ -184,9 +204,8 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
 
 | Criterio específico | Acciones realizadas  | Conclusiones  |
 | :---- | :---- | :---- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> Al actualizar el Figma, levantar la API y registrar los lotes, pude explicar de manera clara los cambios y procesos tanto a diseñadores como a desarrolladores, adaptando mi comunicación según el perfil técnico de cada grupo para asegurar una comprensión efectiva. <br>**Roca Tineo, Steven Mathew**<br> Al desarrollar el registro, login de usuario y la sección de solicitudes, comuniqué los avances y necesidades del proyecto de forma clara y adecuada, adaptando mi mensaje según el perfil técnico de cada miembro del equipo. <br>**Mathias Eduardo Bueno Perales**<br> Al trabajar en la configuración, el perfil de usuario y el avance del sprint 2, logré comunicar claramente los objetivos y progresos a distintos miembros del equipo, ajustando mi lenguaje según el rol de cada interlocutor para asegurar una colaboración efectiva. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Durante el desarrollo del HomeView y la mejora del diagrama de clases y diccionario de clases, logré comunicar de forma clara y adecuada los avances y decisiones técnicas al equipo, adaptando el lenguaje según el perfil de cada audiencia, lo que facilitó la colaboración y comprensión del proyecto. | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase. <br>**TP:**<br> Todos los integrantes mostraron una comunicación oral clara y efectiva en la exposición. Adaptamos el lenguaje según el público (profesores y compañeros), asegurando comprensión en cada fase.|
-| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> Al actualizar el Figma, levantar la API y registrar lotes, redacté informes y documentos claros y precisos, adaptando el contenido para que tanto diseñadores como desarrolladores comprendieran fácilmente los avances y requerimientos del proyecto.<br>**Roca Tineo, Steven Mathew**<br> Al implementar el registro, login de usuario y la sección de solicitudes, documenté de manera clara los procesos y requerimientos, adaptando la redacción para que tanto perfiles técnicos como no técnicos pudieran comprender y dar seguimiento al proyecto. <br>**Mathias Eduardo Bueno Perales**<br> Al trabajar en la configuración, el perfil de usuario y el avance del sprint 2, elaboré documentación clara y accesible que permitió a diferentes miembros del equipo entender el progreso y los detalles técnicos del proyecto, adaptando el lenguaje según el público. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Al desarrollar el HomeView, corregir el diagrama de clases y actualizar el diccionario de clases, redacté documentos técnicos claros y estructurados, facilitando la comprensión tanto para perfiles técnicos como para miembros con menos experiencia. | <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. <br>**TP:**<br> Durante esta parte del trabajo, la documentacion agregada al documento fue clara y adecuada para distintos publicos. Nuestra redaccion ordenada permite la comprension de los nuevos puntos avanzados del proyecto. Cada uno realizo aporte para llenar por completo la documentacion.  |
-
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  | <br>**TB1:<br> Gutiérrez Condo, Maylhy Olinda**<br> Expuso el Capítulo I completo, lideró las presentaciones de User Stories, Product Backlog, y la creación del Landing Page Wireframe y Mockup, Capítulo V <br>**Roca Tineo, Steven Mathew**<br> Presentó Needfinding (User Personas, User Task Matrix, Journey Mapping), Web Applications User Flow y Prototyping, además de coordinar la explicación técnica de diagramas C4 y Class Diagrams,Capítulo V. <br>**Mathias Eduardo Bueno Perales**<br> Expuso Empathy Map, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping. También participó en el avance de Style Guidelines,Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz** <br> Realizó la exposición del análisis competitivo de los competidores y presentó Labeling Systems, SEO Tags y Searching Systems,Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> Al actualizar el Figma, levantar la API y registrar los lotes, pude explicar de manera clara los cambios y procesos tanto a diseñadores como a desarrolladores, adaptando mi comunicación según el perfil técnico de cada grupo para asegurar una comprensión efectiva. <br>**Roca Tineo, Steven Mathew**<br> Al desarrollar el registro, login de usuario y la sección de solicitudes, comuniqué los avances y necesidades del proyecto de forma clara y adecuada, adaptando mi mensaje según el perfil técnico de cada miembro del equipo. <br>**Mathias Eduardo Bueno Perales**<br> Al trabajar en la configuración, el perfil de usuario y el avance del sprint 2, logré comunicar claramente los objetivos y progresos a distintos miembros del equipo, ajustando mi lenguaje según el rol de cada interlocutor para asegurar una colaboración efectiva. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Durante el desarrollo del HomeView y la mejora del diagrama de clases y diccionario de clases, logré comunicar de forma clara y adecuada los avances y decisiones técnicas al equipo, adaptando el lenguaje según el perfil de cada audiencia, lo que facilitó la colaboración y comprensión del proyecto. <br>**TB2:<br> Gutiérrez Condo, Maylhy Olinda**<br>Durante el Sprint 3, comuniqué de forma clara los avances en la estructura del sistema, incluyendo actualizaciones en el modelo C4 y el diagrama de clases. Además, detallé el progreso realizado en los endpoints del módulo Review, utilizando un lenguaje técnico ajustado al contexto para facilitar la comprensión entre desarrolladores y líderes del proyecto.<br>**Roca Tineo, Steven Mathew**<br>En el transcurso del Sprint 3, compartí de manera clara los avances relacionados con el despliegue en AWS y la configuración de contenedores con Docker. Asimismo, informé sobre el progreso en los endpoints de los contextos IAM y Profiles, adaptando el nivel técnico de la comunicación según el perfil del interlocutor para asegurar una comprensión efectiva.<br>**Mathias Eduardo Bueno Perales**<br> Durante el desarrollo del Sprint 3, comuniqué de forma clara los avances del bounded context de batches y la configuración de sus endpoints, adaptando el lenguaje técnico según la audiencia para asegurar la comprensión entre desarrolladores y líderes de proyecto. <br> **Giancarlo Rafael Solis Santa Cruz** <br>Durante el Sprint 3, brindé soporte activo en el desarrollo de heurísticas y comuniqué los avances realizados en los endpoints del módulo Observations. Me aseguré de adaptar el lenguaje técnico a la audiencia para mantener una comunicación efectiva tanto con los desarrolladores como con los líderes de proyecto. | <br>**TB1:**<br> Los integrantes mostraron una comunicación oral clara y efectiva en la exposición de sus respectivos temas. El equipo adaptó su lenguaje técnico o general según el público (profesores y compañeros), asegurando comprensión en cada fase. <br>**TP:**<br> Todos los integrantes mostraron una comunicación oral clara y efectiva en la exposición. Adaptamos el lenguaje según el público (profesores y compañeros), asegurando comprensión en cada fase. <br>**TB2:**<br> Los integrantes del grupo en su totalidad mostraron capacidad de comunicacion oral clara y efectiva durante la exposicion. Nos adaptamos segun el publico y aseguramos la comprension total en cada fase.| 
+| <br> **Comunica por escrito con efectividad a diferentes rangos de audiencia**<br>  | <br>**TB1: <br>Gutiérrez Condo, Maylhy Olinda**<br> Redactó el Capítulo I completo, User Stories, Product Backlog, Landing Page Wireframe, Mockups, y colaboró en la redacción del Capítulo V. <br>**Roca Tineo, Steven Mathew**<br> Redactó las secciones de Needfinding (User Personas, Task Matrix, Journey Mapping), Prototyping, User Flow y participó en la documentación de diagramas C4, Class Diagrams y el Capítulo V. <br>**Mathias Eduardo Bueno Perales** <br> Elaboró los documentos de Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, To-Be Scenario y Impact Mapping, además de apoyar en el Capítulo V.<br> **Giancarlo Rafael Solis Santa Cruz**<br> Redactó el análisis competitivo, Labeling Systems, SEO Tags y Searching Systems, además de colaborar en el Capítulo V. <br>**TP:<br> Gutiérrez Condo, Maylhy Olinda**<br> Al actualizar el Figma, levantar la API y registrar lotes, redacté informes y documentos claros y precisos, adaptando el contenido para que tanto diseñadores como desarrolladores comprendieran fácilmente los avances y requerimientos del proyecto.<br>**Roca Tineo, Steven Mathew**<br>Al implementar el registro, login de usuario y la sección de solicitudes, documenté de manera clara los procesos y requerimientos, adaptando la redacción para que tanto perfiles técnicos como no técnicos pudieran comprender y dar seguimiento al proyecto. <br>**Mathias Eduardo Bueno Perales**<br> Al trabajar en la configuración, el perfil de usuario y el avance del sprint 2, elaboré documentación clara y accesible que permitió a diferentes miembros del equipo entender el progreso y los detalles técnicos del proyecto, adaptando el lenguaje según el público. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Al desarrollar el HomeView, corregir el diagrama de clases y actualizar el diccionario de clases, redacté documentos técnicos claros y estructurados, facilitando la comprensión tanto para perfiles técnicos como para miembros con menos experiencia. <br>**TB2:<br> Gutiérrez Condo, Maylhy Olinda**<br>Realicé la corrección y mejora de diagramas C4 y de clases , y avance del bounded context de Reviews con  sus endpoints.Además de la mejora y avances de las partes restantes del frontend. <br>**Roca Tineo, Steven Mathew**<br>Realicé el deployment del Backend en AWS y dockers , y avance del bounded context de IAM y Profiles  con  sus endpoints.Además de la mejora y avances de las partes restantes del frontend.<br>**Mathias Eduardo Bueno Perales**<br> Redacté la documentación del Sprint 3 de forma clara y estructurada, permitiendo que tanto el equipo técnico como los stakeholders comprendieran el alcance y avance del bounded context de batches y sus endpoints. <br> **Giancarlo Rafael Solis Santa Cruz** <br> Realicé las entrevistas correspondientes y avancé en el desarrollo del contexto de Observation, lo cual me permitió comprender mejor el funcionamiento de la API y su interacción con la base de datos. Además, pude identificar cómo este contexto satisface las necesidades de los usuarios.| <br>**TB1:**<br> La documentación producida por el equipo fue clara, estructurada y adecuada al público académico y técnico. El estilo de escritura permitió entender de forma efectiva los requisitos, análisis, diseño y avances del proyecto. Se reconoce la participación destacada de Maylhy Gutiérrez Condo en liderar la redacción de las partes principales del informe. <br>**TP:**<br> Durante esta parte del trabajo, la documentacion agregada al documento fue clara y adecuada para distintos publicos. Nuestra redaccion ordenada permite la comprension de los nuevos puntos avanzados del proyecto. Cada uno realizo aporte para llenar por completo la documentacion. <br>**TB2:**<br> En esta etapa del trabajo, la documentacion agregada fue clara y adecuada para ser vista por diferentes publicos. La redaccion empleada permite total comprension referente a los nuevos puntos del proyecto. Cada miembro del equipo aporto para completar lo requerido para la documentacion de esta entrega.
 
 <hr>
 
@@ -1408,17 +1427,88 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.6.3. Software Architecture Components Diagrams**
 
-## **Usuarios bounded context**
+**Diagrama de Componentes FrontEnd**
 
 <p align="center">
   <img src="images/SAComponentsDiagram.png" alt="PB" width="1000">
 </p>
 
+
+<p align="center">
+  <img src="images/AuthBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/BatchBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/BusinessmanBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/ConfigurationBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/ObservationBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/RequestBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/SharedBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/SupplierBoundedContextDetail.png" alt="PB" width="1000">
+</p>
+
+**Diagrama de Contenedores BackEnd**
+<p align="center">
+  <img src="images/structurizr-1.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr2.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr3.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr4.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr5.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr6.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr7.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/structurizr8.png" alt="PB" width="1000">
+</p>
+
 ### **4.7. Software Object-Oriented Design**
 
 #### **4.7.1. Class Diagrams**
+**Diagrama de Clases FrontEnd**
 <p align="center">
-  <img src="images/classDiagram.png" alt="PB" width="1000">
+  <img src="images/classDiagramFrontEnd.png" alt="PB" width="1000">
+</p>
+
+**Diagrama de Clases BackEnd**
+
+<p align="center">
+  <img src="images/class-diagram1.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram2.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram3.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram4.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/class-diagram5.png" alt="PB" width="1000">
 </p>
 
 #### **4.7.2. Class Dictionary**
@@ -2050,7 +2140,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint 2 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
 | Sprint 2 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
 | **Sprint Goal & User Stories** |  |
-| Sprint 2 Goal | Nuestro objetivo es implementar todas las funcionalidades principales para la **version inicial del front-end de TextilFlow** en este Sprint de 2 semanas, para mostrar la funcionalidad en esencia del producto. Queremos que los usuarios: Descubran lo esencial de nuestra aplicacion.<br> Tengan acceso directo al registro, login, registro de lotes, configuracion y personalizacion.  |
+| Sprint 2 Goal | Nuestro objetivo es obtener un producto funcional de forma que cumpla los requerimientos que nos hemos propuesto, que se pueda acceder a los lotes y el registro de cada uno, acerca de su estado y/o observaciones. Queremos que los usuarios: Descubran lo esencial de nuestra aplicacion.<br> Tengan acceso directo al registro, login, registro de lotes, configuracion y personalizacion.  |
 | Sprint 2 Velocity | 3 |
 | Sum of Story Points | 18 |
 
@@ -2075,7 +2165,8 @@ Para este segundo sprint, nuestro objetivo es desarrollar nuestra aplicacion de 
 </p>
 
 
-[Sprint Backlog en Trello](https://trello.com/invite/b/6826ee088086ab2cf36c5887/ATTIda93837814f8bd7a54a1d6a214528a46DFB98EAE/sprint-2)
+[Sprint Backlog en Trello](https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template)
+
 
 
 | Sprint \# | Sprint 2 |  |  |  |  |  |  |
@@ -2193,6 +2284,515 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 </p>
 
 
+
+##### **5.2.3. Sprint 3**
+
+##### 5.2.3.1. Sprint Planning 3.
+
+En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 3 se centrará en el desarrollo inicial del backend y en la entrega de una versión actualizada y pulida del frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
+
+| Sprint \# | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este tercer Sprint, enfocándonos en el desarrollo del back-end de TextilFlow. Durante la reunión: Definimos los bounded context a tener en cuenta para crear la base de datos<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
+| Date | 2025-06-08 |
+| Time | 16:30 PM |
+| Location | Meeting by Discord |
+| Prepared By |  Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz <br>Maylhy Olinda Gutierrez Condo |
+| Sprint 3 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 3 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal |  Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra regularizar el traslado seguro de lotes entre usuarios  |
+| Sprint 3 Velocity | 4 |
+| Sum of Story Points | 20 |
+
+                                                                                                                                                                  
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se centró prioritariamente en el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos. Paralelamente, se dedicó a la optimización del frontend, buscando alinear su interfaz con los diseños de vista previamente definidos y aplicar patrones de diseño robustos. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
+
+
+| Team Member (Last Name, First Name) | GitHub Username | **Design Patterns Implementation** Leader (L) / Collaborator (C) | **Data** Leader (L) / Collaborator (C) | **Backend Endpoints** Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Steven Mathew Roca Tineo | matthewsrt29 | L | C | L |
+| Maylhy Olinda Gutierrez Condo | Ly009463 | C | C | C |
+| Mathias Eduardo Bueno Perales | MathiasBueno | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | L | C |
+
+
+
+##### 5.2.3.3. Sprint Backlog 3.
+
+El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos, acceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 3 en Trello:
+
+| Sprint \# | Sprint 3 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US-22 | Inicio de Sesion | T1 | Obtener listado de usuarios| Recuperar todos los datos de usuarios por medio de un endpoint | 2 | Mathew Roca | Done |
+| US-22 | Inicio de Sesion | T1 | Obtener datos de usuarios por id| Recuperar datos de usuario por id por medio de un endpoint | 2 | Mathew Roca | Done |
+|  US-05 |Enviar observaciones de un lote reibido  | T1 | Obtener listado de observaciones | Recuperar todos los datos de observaciones por medio de un endpoint | 3 | Maylhy Gutiérrez | Done |
+| US-05 | Enviar observaciones de un lote reibido | T1 |Crear nueva observacion | Crear observaciones por medio de un endpoint | 4 | Maylhy Gutiérrez | Done |
+| US-21 | Registro de Usuario | T1 | Crear nuevo usuario| Crear usuarios por medio de un endpoint | 3 | Mathew Roca | Done |
+| US-04 | Ver detalles de un lote en especifico | T1 | Obtener listado de lotes| Recuperar todos los datos de los lotes por medio de un endpoint | 3 | Mathias Bueno | Done |
+| US-03 | Filtrar y buscar lotes por distintos criterios | T1 | Obtener datos de lotes por id| Recuperar datos de lotes por id por medio de un endpoint | 2 | Mathias Bueno | Done |
+| US-06 | Registrar y enviar lote | T1 | Crear nuevo lote | Crear lotes por medio de un endpoint | 2 | Mathias Bueno | Done |
+| US-05 | Enviar observaciones sobre un lote recibido | T1 |Crear una observacion | Crear una observacion por medio de un endpoint| 3 | Giancarlo Solis | Done |
+| US-08 | Visualizar observaciones enviadas	| T1 | Obtener las observaciones | Crear un endpoint par obtener las observaciones | 2 | Giancarlo Solis | Done |
+| US-09 | Editar observación enviada (si no ha sido revisada aún)	| T1 | Actualizacion de observacion | Crear un endpoint para poder actualizar una observation | 5 | Giancarlo Solis | Done |
+| US-10 | Eliminar observación enviada (si no ha sido revisada aún)	| T1 | Eliminar de observacion | Crear un endpoint para poder eliminar una observation | 4 | Giancarlo Solis | Done |
+| US-11 | Marcar observaciones como vistas	| T1 | Modificar el status de la observacion | MNodificar el status al actualizar | 3 | Giancarlo Solis | Done |
+
+[TextilFlow Trello for Sprint Review 3](https://trello.com/b/CSyAHWGI/trello-agile-sprint-textilflow)
+
+<p align="center">
+  <img src="images/trelloSprint3.png" alt="PB" width="850">
+</p>
+
+##### 5.2.3.4. Development Evidence for Sprint Review.
+ 
+
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| TextilFlow-Curso-Open-Source/BackEnd |develop    |   6bee8b7   |  feat:auth and profiles endpoints    |-    | 17/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |      5b98e2c                  |  feat:Deploy configuration    | -    | 19/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |        8e3d004             |   feat:deploy configuration      | -        | 20/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |         ec249e7        |   feat: creating tables of batches bounded context, queries and commands       | -                              | 20/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |         93bf9db          |     feat: updating batches table, queries and commands       | -                              | 20/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |       8c5664a             |     feat:Create reviews       | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |           0ce3cc1        |   feat:add class-diagram         | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd| develop    |a16ea42               | feat:adding first version of Observation in Application          | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   5f95c85                 |  feat:adding a first version of Observation in Domain          | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   e690d9a                 | feat:adding a first version of Observation in Infrastructure          | -                              | 21/06/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   b00e2fd                 | feat:adding a first version of Observation in Interface          | -                              | 21/06/2025               |
+|
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |   e4a0f64                 | update:fix a code part in application.properties to make it more efficent          | -                              | 21/06/2025               |
+|
+
+
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+[TextilFlow Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<p align="center">
+  <img src="images/evidence2Sprint3.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/evidenceSprint3.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/evidence3Sprint3.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/evidence4Sprint3.png" alt="PB" width="850">
+</p>
+<p align="center">
+  <img src="images/evidence5Sprint3.png" alt="PB" width="850">
+</p>
+<p align="center">
+  <img src="images/evidence6Sprint3.png" alt="PB" width="850">
+</p>
+<p align="center">
+  <img src="images/evidence7Sprint3.png" alt="PB" width="850">
+</p>
+<p align="center">
+  <img src="images/evidence8Sprint3.png" alt="PB" width="850">
+</p>
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Authentication Management** ||||
+| POST | `/api/v1/authentication/sign-up` | Registro de nuevo usuario | Crear cuenta en la plataforma |
+| POST | `/api/v1/authentication/sign-in` | Inicio de sesión | Autenticación de usuario |
+| **Batch Management** ||||
+| GET | `/api/v1/batches` | Obtiene todos los lotes | Visualizar lotes de producción |
+| GET | `/api/v1/batches/{batchId}` | Obtiene un lote específico | Detalles del lote de productos |
+| POST | `/api/v1/batches` | Crea un nuevo lote | Registrar nuevo lote de producción |
+| PUT | `/api/v1/batches/{batchId}` | Actualiza un lote existente | Modificar estado del lote |
+| DELETE | `/api/v1/batches/{batchId}` | Elimina un lote | Dar de baja lote completado |
+| GET | `/api/v1/batches/test/profiles/{userId}` | Test perfiles ACL | Verificar permisos de usuario |
+| **Businessmen Management** ||||
+| GET | `/api/v1/businessmen` | Obtiene todos los empresarios | Lista de empresarios textiles |
+| GET | `/api/v1/businessmen/{userId}` | Obtiene empresario por ID | Perfil específico de empresario |
+| POST | `/api/v1/businessmen/{userId}` | Crea perfil de empresario | Registrar nuevo empresario |
+| PUT | `/api/v1/businessmen/{userId}` | Actualiza perfil de empresario | Modificar datos empresariales |
+| **Observation Management** ||||
+| GET | `/api/v1/observations/{observationId}` | Obtiene observación específica | Detalles de observación de calidad |
+| GET | `/api/v1/observations/supplier/{supplierId}` | Observaciones por proveedor | Historial de observaciones |
+| GET | `/api/v1/observations/businessman/{businessmanId}` | Observaciones por empresario | Control de calidad empresarial |
+| GET | `/api/v1/observations/batch/{batchId}` | Observaciones por lote | Control de calidad del lote |
+| POST | `/api/v1/observations` | Crea nueva observación | Reportar observación de calidad |
+| PUT | `/api/v1/observations/{observationId}` | Actualiza observación | Modificar estado de observación |
+| DELETE | `/api/v1/observations/{observationId}` | Elimina observación | Remover observación resuelta |
+| **Profile Images Management** ||||
+| POST | `/api/v1/profiles/{userId}/images/logo` | Sube logo de perfil | Actualizar imagen corporativa |
+| DELETE | `/api/v1/profiles/{userId}/images/logo` | Elimina logo de perfil | Remover imagen de perfil |
+| **Complete Profiles Management** ||||
+| GET | `/api/v1/profiles/{userId}` | Obtiene perfil completo | Información completa del usuario |
+| **Supplier Reviews Management** ||||
+| GET | `/api/v1/supplier-reviews/supplier/{supplierId}` | Reviews por proveedor | Calificaciones del proveedor |
+| GET | `/api/v1/supplier-reviews/check/{supplierId}/{businessmanId}` | Verificar review existente | Comprobar si ya evaluó |
+| POST | `/api/v1/supplier-reviews` | Crea nueva review | Evaluar proveedor |
+| PUT | `/api/v1/supplier-reviews/{reviewId}` | Actualiza review existente | Modificar evaluación |
+| **Suppliers Management** ||||
+| GET | `/api/v1/suppliers` | Obtiene todos los proveedores | Catálogo de proveedores |
+| GET | `/api/v1/suppliers/{userId}` | Obtiene proveedor por ID | Perfil específico de proveedor |
+| POST | `/api/v1/suppliers/{userId}` | Crea perfil de proveedor | Registrar nuevo proveedor |
+| PUT | `/api/v1/suppliers/{userId}` | Actualiza perfil de proveedor | Modificar datos del proveedor |
+| **Users Management** ||||
+| GET | `/api/v1/users/{userId}` | Obtiene usuario por ID | Información básica del usuario |
+| PUT | `/api/v1/users/{userId}/role` | Actualiza rol del usuario | Cambiar permisos de usuario |
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Durante el presente sprint, hemos implementado una estrategia de despliegue completa para el **backend de TextilFlow**, desarrollado en **Spring** con **Java 24**, **Maven** y **MySQL**. El enfoque principal ha sido crear una infraestructura robusta en AWS EC2 que proporcione APIs RESTful escalables y un entorno de producción confiable para soportar las operaciones de la plataforma de gestión textil.
+
+### Implementación de Backend Spring  en AWS EC2
+
+Decidimos implementar nuestro backend en **Amazon Web Services (AWS) EC2** utilizando una arquitectura containerizada con **Docker** y **Docker Compose**. Esta decisión nos ha permitido tener control total sobre la infraestructura, escalabilidad y un entorno de producción robusto optimizado para **Java 24**.
+
+<p align="center">
+  <img src="images/BackendDeployEvidence2.jpeg" alt="PB" width="850">
+</p>
+
+**URL base del API:**
+```
+http://3.135.127.195:5001/api/
+```
+
+**Documentación Swagger:**
+```
+http://3.135.127.195:5001/swagger-ui/index.html
+```
+### Configuración de la Infraestructura
+
+#### Especificaciones del Servidor
+- **Instancia:** AWS EC2 t2.micro
+- **Sistema Operativo:** Amazon Linux 2023
+- **RAM:** 1 GB + 2GB Swap
+- **CPU:** 1 vCPU
+- **Almacenamiento:** 8 GB SSD
+- **IP Pública:** 52.23.83.194
+
+#### Stack Tecnológico Implementado
+- **Java 24:** Última versión LTS con optimizaciones de performance
+- **Spring Boot 3:** Framework principal del backend
+- **Maven 3.9.9:** Gestión de dependencias y build
+- **MySQL 8.0:** Sistema de gestión de base de datos
+- **Docker & Docker Compose:** Containerización y orquestación
+- **Swagger/OpenAPI:** Documentación automática de APIs
+- **Spring Security + JWT:** Sistema de autenticación
+
+### Proceso de Containerización con Java 24
+
+#### Dockerfile Multi-stage Optimizado
+Implementamos un **Dockerfile** optimizado para Java 24 que:
+- **Build Stage:** Utiliza `maven:3.9.9-eclipse-temurin-24` para compilación
+- **Runtime:** Ejecuta con JVM optimizada para memoria limitada
+- **Optimización de memoria:** JVM configurada con `-Xms256m -Xmx400m -XX:+UseG1GC`
+- **Tamaño final:** Container optimizado a 650MB
+
+<p align="center">
+  <img src="images/BackendDeployEvidence1.jpeg" alt="PB" width="850">
+</p>
+
+
+
+<p align="center">
+  <img src="images/BackendDeployEvidence3.jpeg" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackendDeployEvidence4.jpeg" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackendDeployEvidence5.jpeg" alt="PB" width="850">
+</p>
+
+### Configuración de Base de Datos
+
+#### MySQL 8.0 Configuration
+- **Puerto:** 3307 (para evitar conflictos)
+- **Base de datos:** textilflow-platform
+
+
+#### Spring Data JPA
+```properties
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=false
+spring.jpa.properties.hibernate.format_sql=true
+```
+
+### Configuración de Seguridad y Servicios
+
+#### Spring Security + JWT
+- **JWT Secret:** Variable de entorno segura
+- **Token expiration:** 24 horas
+- **Refresh token:** 7 días
+- **CORS:** Configurado para dominios específicos
+
+#### Integración con Servicios Externos
+- **Cloudinary:** Gestión de imágenes de perfil
+- **Email Service:** Notificaciones automáticas
+- **Swagger UI:** Documentación interactiva
+
+
+### Resultados y Métricas del Deployment
+
+| Métrica | Valor Obtenido | Objetivo |
+|---------|----------------|----------|
+| **Tiempo de respuesta promedio** | 195ms | < 200ms ✅ |
+| **Disponibilidad** | 99.7% | > 99% ✅ |
+| **Tiempo de deployment** | 4-6 minutos | < 10 minutos ✅ |
+| **Uptime del servidor** | 24/7 | 24/7 ✅ |
+| **Capacidad de requests/seg** | 300 req/s | > 100 req/s ✅ |
+| **Tamaño del container** | 650MB | < 1GB ✅ |
+| **Uso de memoria en runtime** | 380MB | < 400MB ✅ |
+| **Tiempo de startup** | 45 segundos | < 60s ✅ |
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. Aqui adjuntamos una imagen que muestra la cotribucion de todos los miembros del equipo con los commits durante este proceso de desarrollo.
+
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de Autenticacion y Profiles Context |
+| Maylhy Olinda Gutierrez Condo | Implementación de Review Context|
+| Mathias Eduardo Bueno Perales | Implementación de los Bacthes Context|
+| Giancarlo Rafael Solis Santa Cruz | Implementación de Observation Context |
+
+<p align="center">
+  <img src="images/Insigths-Sprint3.png" alt="PB" width="850">
+</p>
+
+### 5.3. Validation Interviews
+
+Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful de TextilFLow, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
+
+#### 5.3.1. Diseño de Entrevistas
+
+Segmento Objetivo: Empresas textiles y distribuidores de telas
+
+##### 1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En que distrito vive actualmente?
+
+##### 2. ¿Que opina del diseño de nuestra landing page? ¿Le sirve de incentivo para entrar a la aplicación y registrarse?
+
+##### 3. ¿Considera que nuestra aplicación tiene una interfaz fácil y sencilla de usar? en caso que si, que funcionalidades le agradan más? y en lo contrario, que funcionalidad piensa que sobra o falta para aumentar su interés en usarla?
+
+##### 4. ¿Que dispositivo utilizo para probar la pagina y aplicación web?
+
+##### 5. ¿Hubo algún aspecto visual que no le agrado?
+
+
+#### 5.3.2. Registro de Entrevistas.
+
+### Segmento 1: Empresarios
+
+| Entrevistado 1 |  Eduardo Andy Bueno Muro |
+| :---- | :---- |
+| Edad | 46 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista1-Validacion.png" alt="PB" width="800"> | utilizó su computadora personal para probar la plataforma. Considera que tanto la landing page como la aplicación son interesantes, intuitivas y productivas. Valora que la aplicación le permite mantener el orden en sus stocks, proveedores y flujos operativos, lo que incentiva su registro. No identificó aspectos visuales negativos, y destacó que recomendaría su uso, principalmente por su utilidad y simplicidad. |
+
+| Timing:00:02 – 08:45 min | [Entrevista1 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  |
+
+| Entrevistado 2 |  Óscar Aldeir Zúñiga |
+| :---- | :---- |
+| Edad | 19 años |
+| Distrito/Ciudad | Comas |
+|  <img src="images/entrevista2-Validacion.png" alt="PB" width="800">  | Óscar trabaja en una empresa de venta de ropa. Accedió desde laptop y smartphone, y destacó el diseño de la landing page como profesional, limpio y confiable, lo que motivó su registro. Encontró la interfaz intuitiva, resaltando la visualización de precios mayoristas y stock en tiempo real como funcionalidades clave. Aunque la experiencia fue positiva, sugirió mejorar la carga de imágenes desde móviles para facilitar decisiones rápidas. |
+| Timing:08:45 – 14:21 min | [Entrevista 2 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+| Entrevistado 3 |  Daniela Araceli Gómez Flores |
+| :---- | :---- |
+| Edad | 28 años |
+|  <img src="images/entrevista3-Validacion.png" alt="PB" width="800"> | Probó la plataforma desde su PC con Windows y también desde celular. Calificó la landing page como visualmente atractiva, con colores cálidos y buen contraste. Destacó la claridad y orden en la interfaz, y valoró funcionalidades como la gestión de lotes, observaciones y solicitudes empresariales. Recomendó mejorar el tamaño de algunos botones en móvil y el contraste del texto en modo oscuro para mejorar la legibilidad.
+
+ |
+| Timing:14:22 – 24:36 min | [Entrevista 3 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+
+### Segmento 2: Distribuidores de Telas 
+
+| Entrevistado 4 |  Antonio Encizo |
+| :---- | :---- |
+| Edad | 23 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista4-calidacion.png" alt="PB" width="800">| Probó la plataforma desde PC, pero considera el celular como su medio ideal de uso. Opina que la landing page es clara e intuitiva, cumpliendo estándares comunes. Valora funcionalidades como el historial de envíos y la sección de observaciones por el feedback que aportan. A nivel visual, elogió el uso de colores y no reportó fallas. Sugiere seguir fortaleciendo el registro de envíos como funcionalidad destacada. |
+| Timing:24:40 – 29:22 min | [Entrevista 4 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+| Entrevistado 5 |  Luis Garcia |
+| :---- | :---- |
+| Edad | 20 años |
+| Distrito/Ciudad | Lima |
+| <img src="images/entrevista5-validacion.png" alt="PB" width="800">| Tiene una tienda física en Gamarra y vende también por redes. Distribuye algodón licrado, denim y telas deportivas. Verifica calidad de forma visual, usando a veces lámparas para ver imperfecciones. A veces envía fotos por WhatsApp, pero no tiene respaldo formal. Ha tenido reclamos por diferencias de tono sin tener pruebas. Lleva registros en cuadernos o Excel de manera intermitente. Le parece excelente una plataforma donde pueda registrar evidencia, tener orden y compartir información con el cliente. |
+| Timing:29:23 – 35:10 min | [Entrevista 5 TextilFlow.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+##### SITE o APP A EVALUAR: TextilFlow
+
+##### TAREAS A EVALUAR:
+
+- Registro y visualización de lotes (enviados, pendientes, aceptados).
+
+- Registro y consulta de observaciones con imágenes.
+
+- Visualización de planes y suscripciones.
+
+- Interacción con solicitudes de empresarios/distribuidores.
+
+- Registro de perfiles y datos empresariales.
+
+- Subida de imágenes de productos/telas.
+
+- Interacción desde dispositivos móviles.
+
+- Cambio de idioma y tema (modo oscuro).
+
+- Exploración de la landing page.
+
+- Uso de formularios de envío/registro.
+
+- Registro de históricos y flujos.
+
+- Clasificación y edición de categorías.
+
+- Alertas y notificaciones automáticas.
+
+- Visualización y seguimiento de entregas.
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: fácilmente superado o poco frecuente. No requiere corrección inmediata. |
+| 2     | Problema menor: puede dificultar algo la experiencia. Se recomienda corregir pronto.          |
+| 3     | Problema mayor: frecuente o difícil de superar. Debe corregirse con prioridad.                |
+| 4     | Problema muy grave: impide el uso normal. Requiere solución inmediata.                        |
+
+#### TABLA RESUMEN DE HALLAZGOS HEURISTICOS
+
+| #  | Problema                                                                         | Severidad | Heurística violada                                            |
+| -- | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------- |
+| 1 | Botones pequeños y textos con poco contraste en modo oscuro.                     | 3         | Estándares de accesibilidad (Nielsen #4)                      |
+| 2  | Campos de fecha no editables al registrar lotes.                                 | 2         | Flexibilidad y eficiencia de uso (Nielsen #7)                 |
+| 3  | Formularios no permiten duplicar registros previos (ej.: tela similar).          | 2         | Reconocimiento antes que recuerdo (Nielsen #6)                |
+| 4  | Algunos íconos no son claros al primer vistazo.                                  | 2         | Consistencia y estándares (Nielsen #4)                        |
+| 5  | En móviles, algunos elementos visuales se muestran demasiado pequeños.           | 3         | Diseño responsivo y usabilidad móvil                          |
+| 6  | Landing page carece de imágenes reales de telas o ejemplos de uso.               | 2         | Correspondencia entre el sistema y el mundo real (Nielsen #2) |
+
+
+<br>
+
+
+#### PROBLEMA #1: Contraste bajo en modo oscuro <br>
+- Severidad: 3 <br>
+- Heurística violada: Estándares de accesibilidad / Diseño estético y minimalista (Nielsen #4) <br>
+- Descripción:
+Daniela indicó que en modo oscuro algunas letras eran poco legibles. Esto afecta la lectura fluida y puede ser un obstáculo para quienes trabajan en ambientes con baja iluminación. Además, compromete la accesibilidad, especialmente para personas con dificultades visuales.
+- Recomendación:
+Ajustar los colores de texto y fondo en modo oscuro para cumplir con los estándares WCAG (relación de contraste mínima de 4.5:1).
+
+<p align="center">
+  <img src="images/Heuristica1.jpeg" alt="PB" width="600">
+</p>
+
+#### PROBLEMA #2: Campos de fecha no editables al registrar lotes <br>
+- Severidad: 2 <br>
+- Heurística violada: Flexibilidad y eficiencia de uso (Nielsen #7) <br>
+- Descripción:
+Un proveedor sugirió que los campos de fecha deberían poder modificarse al registrar lotes. Actualmente están fijos, lo que impide ajustes necesarios ante imprevistos logísticos. Esto reduce la capacidad de adaptación y puede llevar a errores o registros incorrectos.
+- Recomendación:
+Permitir la edición manual de fechas o incluir un selector de fecha personalizable al registrar un lote.
+
+<p align="center">
+  <img src="images/Heuristica2.jpeg" alt="PB" width="600">
+</p>
+
+#### PROBLEMA #3: Formularios no permiten duplicar datos anteriores <br>
+- Severidad: 2 <br>
+- Heurística violada: Reconocimiento antes que recuerdo (Nielsen #6) <br>
+- Descripción:
+Un entrevistado mencionó que sería útil poder duplicar productos ya registrados para evitar ingresar todos los datos desde cero. La falta de esta función incrementa la carga cognitiva y el tiempo requerido, especialmente en tareas repetitivas.
+- Recomendación:
+Agregar un botón “Duplicar último” o “Cargar plantilla anterior” en los formularios de registro de lote.
+
+<p align="center">
+  <img src="images/Heuristica3.jpeg" alt="PB" width="600">
+</p>
+
+#### PROBLEMA #4: Íconos poco claros en ciertas secciones <br>
+- Severidad: 2 <br>
+- Heurística violada: Consistencia y estándares (Nielsen #4) <br>
+- Descripción:
+Daniela señaló que algunos íconos no son intuitivos y requieren exploración para entender su función. Esto genera fricción en la navegación y puede llevar a errores por mala interpretación.
+- Recomendación:
+Incluir etiquetas o tooltips al pasar el cursor sobre los íconos, y considerar rediseñar los menos intuitivos.
+
+<p align="center">
+  <img src="images/Heuristica4.jpeg" alt="PB" width="600">
+</p>
+
+#### PROBLEMA #5: Tamaño reducido de botones y elementos en móvil <br>
+- Severidad: 3 <br>
+- Heurística violada: Usabilidad móvil / Control y libertad del usuario (Nielsen #3) <br>
+- Descripción:
+Varios usuarios mencionaron que algunos botones se ven demasiado pequeños desde el celular, dificultando su interacción. Esto perjudica la usabilidad y puede provocar errores al intentar presionar el elemento correcto.
+- Recomendación: Incrementar el tamaño mínimo de los botones a 44px x 44px según guías de usabilidad móvil y revisar el espaciado táctil.
+
+<p align="center">
+  <img src="images/Heuristica5.jpeg" alt="PB" width="600">
+</p>
+
+#### PROBLEMA #6: Landing Page carece de imágenes reales o ejemplos de uso <br>
+- Severidad: 2 <br>
+- Heurística violada: Correspondencia entre el sistema y el mundo real (Nielsen #2) <br>
+- Descripción:
+Un proveedor sugirió mostrar imágenes reales de telas o casos de uso reales entre proveedor y cliente. Esto ayudaría a transmitir mejor la utilidad de la plataforma y generar mayor conexión con el público objetivo.
+- Recomendación:
+Incorporar fotos reales de telas, usuarios en acción o capturas de pantalla del flujo entre proveedor y empresario.
+
+<p align="center">
+  <img src="images/Heuristica6.jpeg" alt="PB" width="600">
+</p>
+
+
+
+
+
+
+
+### 5.4. Video About-the-Product
+
+
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ER3q_vy2uAlHmDe8pHrCessB2yufJAwynzripjUj4EV5HQ?e=7VkqvW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+### Video About-The-Team 
+
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/Ec-_4DvuzBpErmcqn9t-PhABFJCIvE4mGGWhkSJu_CFYsg?e=ZVeIRP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
+<hr>
+
+
 ## **Conclusiones**
 
 
@@ -2203,6 +2803,10 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
 * Los miembros del grupo en conjunto creemos que todo lo establecido en la rubrica para esta entrega del TP esta cumplido de forma satisfactoria. La buena planificación y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor cumplir con la entrega con mayor antelación y manejar mejor nuestros tiempos de trabajo.
+
+* El desarrollo del backend permitió consolidar los bounded contexts necesarios para el funcionamiento del sistema, utilizando principios de diseño modular y separación de responsabilidades. Esto facilitó la integración de los distintos servicios y su mantenimiento a largo plazo.
+
+* El despliegue exitoso en AWS utilizando contenedores Docker demostró la escalabilidad y portabilidad del backend de TextilFlow. Esta infraestructura garantiza un entorno estable para futuras pruebas, integraciones y crecimiento del producto.
 
 
 
@@ -2249,6 +2853,15 @@ Imforme_Grupo_3-TextiFlow
 
 https://github.com/TextilFlow-Curso-Open-Source/Informe_Grupo_3
 
+FrontEnd - TextilFlow
+
+https://github.com/TextilFlow-Curso-Open-Source/FrontEnd
+
+BackEnd - TextilFlow
+
+https://github.com/TextilFlow-Curso-Open-Source/BackEnd
+
+
 Trello
 
 https://trello.com/invite/b/680818ed983bfbaa57371360/ATTI81adeca1028e61e1ddeba590e4bd2b9eA0A8A093/trello-agile-sprint-board-template
@@ -2273,6 +2886,30 @@ Video-TextilFlow
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ET_gNINUrVFHoukgUU5dBOUBP3_veo3PhM6RDabN9D5Q-A?e=dIa4eC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+Video-Entrevistas de Validacion
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 Canvas-TextiFlow
 
 https://www.canva.com/design/DAGlnqMxMNM/uOeIo65I9k4TGmSQCUBDhQ/edit?utm_content=DAGlnqMxMNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+LandingPage TextilFlow Deployed
+
+https://textilflow-curso-open-source.github.io/Landing-Page-TextilFlow/
+
+Frontend Web TextilFlow Application Deployed
+
+https://textilflow.web.app/login
+
+Frontend Web TextilFlow Application Deployed
+
+http://3.135.127.195:5001/swagger-ui/index.html#/
+
+TextilFlow Execution Evidence for Sprint Review 3
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video - TextilFlow - TB2
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdNSbjT9B6pEk744ZYUCXQUBKXNFvU9AvmLUXpDOGwhO7w?e=fYazwN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
