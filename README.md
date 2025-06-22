@@ -2346,6 +2346,11 @@ Sprint Backlog 3 en Trello:
 | US-10 | Eliminar observación enviada (si no ha sido revisada aún)	| T1 | Eliminar de observacion | Crear un endpoint para poder eliminar una observation | 4 | Giancarlo Solis | Done |
 | US-11 | Marcar observaciones como vistas	| T1 | Modificar el status de la observacion | MNodificar el status al actualizar | 3 | Giancarlo Solis | Done |
 
+[TextilFlow Trello for Sprint Review 3](https://trello.com/b/CSyAHWGI/trello-agile-sprint-textilflow)
+
+<p align="center">
+  <img src="images/trelloSprint3.png" alt="PB" width="850">
+</p>
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
  
