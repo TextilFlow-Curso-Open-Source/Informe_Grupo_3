@@ -2909,3 +2909,7 @@ http://3.135.127.195:5001/swagger-ui/index.html#/
 TextilFlow Execution Evidence for Sprint Review 3
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video - TextilFlow - TB2
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdNSbjT9B6pEk744ZYUCXQUBKXNFvU9AvmLUXpDOGwhO7w?e=fYazwN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
