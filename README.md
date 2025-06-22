@@ -2526,3 +2526,15 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ET_gNINU
 Canvas-TextiFlow
 
 https://www.canva.com/design/DAGlnqMxMNM/uOeIo65I9k4TGmSQCUBDhQ/edit?utm_content=DAGlnqMxMNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+LandingPage TextilFlow Deployed
+
+https://textilflow-curso-open-source.github.io/Landing-Page-TextilFlow/
+
+Frontend Web TextilFlow Application Deployed
+
+https://textilflow.web.app/login
+
+Frontend Web TextilFlow Application Deployed
+
+http://3.135.127.195:5001/swagger-ui/index.html#/
