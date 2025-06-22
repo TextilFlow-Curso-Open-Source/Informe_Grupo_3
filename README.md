@@ -2302,8 +2302,11 @@ Sprint Backlog 3 en Trello:
 | US-04 | Ver detalles de un lote en especifico | T1 | Obtener listado de lotes| Recuperar todos los datos de los lotes por medio de un endpoint | 3 | Mathias Bueno | Done |
 | US-03 | Filtrar y buscar lotes por distintos criterios | T1 | Obtener datos de lotes por id| Recuperar datos de lotes por id por medio de un endpoint | 2 | Mathias Bueno | Done |
 | US-06 | Registrar y enviar lote | T1 | Crear nuevo lote | Crear lotes por medio de un endpoint | 2 | Mathias Bueno | Done |
-|  |  | T1 | | | 3 | Giancarlo Solis | In process |
-|  | 	| T1 | | | 2 | Giancarlo Solis | Done |
+| US-05 | Enviar observaciones sobre un lote recibido | T1 |Crear una observacion | Crear una observacion por medio de un endpoint| 3 | Giancarlo Solis | Done |
+| US-08 | Visualizar observaciones enviadas	| T1 | Obtener las observaciones | Crear un endpoint par obtener las observaciones | 2 | Giancarlo Solis | Done |
+| US-09 | Editar observación enviada (si no ha sido revisada aún)	| T1 | Actualizacion de observacion | Crear un endpoint para poder actualizar una observation | 5 | Giancarlo Solis | Done |
+| US-10 | Eliminar observación enviada (si no ha sido revisada aún)	| T1 | Eliminar de observacion | Crear un endpoint para poder eliminar una observation | 4 | Giancarlo Solis | Done |
+| US-11 | Marcar observaciones como vistas	| T1 | Modificar el status de la observacion | MNodificar el status al actualizar | 3 | Giancarlo Solis | Done |
 
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
