@@ -191,6 +191,15 @@ A continuación, presentamos una imagen que muestra los insights de las contribu
     <li><a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
     <li><a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a></li>
     <li><a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a></li>
+    <li><a href="#524-sprint-4">5.2.4. Sprint 4</a></li>
+    <li><a href="#5241-sprint-planning-4">5.2.4.1. Sprint Planning 4</a></li>
+    <li><a href="#5242-aspect-leaders-and=collaborators">5.2.4.2. Aspect Leaders and Collaborators</a></li>
+    <li><a href="#5243-sprint-backlog-4">5.2.4.3. Sprint Backlog 4</a></li>
+    <li><a href="#5244-development-evidence-for-sprint-review">5.2.4.4. Development Evidence for Sprint Review</a></li>
+    <li><a href="#5245-execution-evidence-for-sprint-review">5.2.4.5. Execution Evidence for Sprint Review</a></li>
+    <li><a href="#5246-services-documentation-evidence-for-sprint-review">5.2.4.6. Services Documentation Evidence for Sprint Review</a></li>
+    <li><a href="#5247-software-deployment-evidence-for-sprint-review">5.2.4.7. Software Deployment Evidence for Sprint Review</a></li>
+    <li><a href="#5248-team-collaboration-insights-during-sprint">5.2.4.8. Team Collaboration Insights during Sprint</a></li>
     <li><a href="#53-validation-interviews">5.3. Validation Intervews</a></li>
     <li><a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas</a></li>
     <li><a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas</a></li>
@@ -2580,6 +2589,104 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 <p align="center">
   <img src="images/Insigths-Sprint3.png" alt="PB" width="850">
 </p>
+
+
+##### **5.2.4. Sprint 4**
+
+##### 5.2.4.1. Sprint Planning 4.
+
+En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. En este sprint 4, nuestro objetivo sera terminar el backend y unirlo con la aplicacion. El objetivo principal es establecer una base técnica sólida y desplegar la aplicación totalmente funcional, asegurando que el producto sea accesible y ofrezca una experiencia de usuario significativa y grata.
+
+| Sprint \# | Sprint 4 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este cuarto sprint, enfocándonos en terminar el desarrollo del back-end de TextilFlow y unirlo junto con nuestra aplicacion web. Durante la reunión: Definimos los bounded context a tener en cuenta para crear la base de datos<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
+| Date | 2025-07-02 |
+| Time | 10:30 AM |
+| Location | Meeting by Discord |
+| Prepared By |  Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz <br>Maylhy Olinda Gutierrez Condo |
+| Sprint 3 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 3 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint 4 Goal |  **Nuestro enfoque está en**   **Creemos que**  **Esto se confirmará cuando**  |
+| Sprint 4 Velocity | 3 |
+| Sum of Story Points | 12 |
+
+                                                                                                                                                                  
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se centró prioritariamente a culminar el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos. Paralelamente, trabajamos en como juntar de forma funcional el backend y el frontend. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
+
+
+| Team Member (Last Name, First Name) | GitHub Username | **Design Patterns Implementation** Leader (L) / Collaborator (C) | **Web Application Adapter** Leader (L) / Collaborator (C) | **Backend Endpoints** Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Steven Mathew Roca Tineo | matthewsrt29 | L | C | L |
+| Maylhy Olinda Gutierrez Condo | Ly009463 | C | C | C |
+| Mathias Eduardo Bueno Perales | MathiasBueno | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | L | C |
+
+
+
+##### 5.2.4.3. Sprint Backlog 4.
+
+El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro backend y completar los bounded context faltantes. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+
+| Sprint \# | Sprint 4 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+|  |  | T1 |  |  | 2 | Mathew Roca | Done |
+|  |  | T1 |  |  | 2 | Mathew Roca | Done |
+|  |  | T1 |  |  | 3 | Mathew Roca | Done |
+|  |  | T1 |  |  | 3 | Maylhy Gutiérrez | Done |
+|  |  | T1 |  |  | 4 | Maylhy Gutiérrez | Done |
+|  |  | T1 |  |  | 3 | Mathew Roca | Done |
+|  |  | T1 |  |  | 3 | Mathias Bueno | Done |
+|  |  | T1 |  |  | 2 | Mathias Bueno | Done |
+|  |  | T1 |  |  | 2 | Mathias Bueno | Done |
+|  |  | T1 |  |  | 3 | Giancarlo Solis | Done |
+|  | 	| T1 |  |  | 4 | Giancarlo Solis | Done |
+|  | 	| T1 |  |  | 3 | Giancarlo Solis | Done |
+
+[TextilFlow Trello for Sprint Review 4](https://trello.com/b/CSyAHWGI/trello-agile-sprint-textilflow)
+
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+ 
+
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| TextilFlow-Curso-Open-Source/BackEnd |develop    |     |     |-    | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                        |     | -    | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                     |         | -        | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |               |          | -                              | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                |          | -                              | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                  |           | -                              | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                   |          | -                              | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd| develop    |                |           | -                              | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |                    |            | -                              | /07/2025               |
+
+
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
+
 
 ### 5.3. Validation Interviews
 
