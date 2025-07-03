@@ -6,10 +6,12 @@
 </div>
 
 <h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
-<h4 style="text-align: center;"><strong>Desarrollo de Aplicaciones Open Source - 4289</strong></h4>
+<h4 style="text-align: center;"><strong>1ASI0729 - Desarrollo de Aplicaciones Open Source</strong></h4>
 <h4 style="text-align: center;"><strong>Docente: Efraín Ricardo Bautista Ubillús</strong></h4>
 <h4 style="text-align: center;"><strong>Startup: Qualix</strong></h4>
 <h4 style="text-align: center;"><strong>Producto: TextilFlow</strong></h4>
+<h4 style="text-align: center;"><strong>NRC: 4289</strong></h4>
+<h4 style="text-align: center;"><strong>Fecha: 08/07/2025</strong></h4>
 
 ### **Team members:**
 
@@ -2299,10 +2301,11 @@ En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reun
 | Location | Meeting by Discord |
 | Prepared By |  Mathew Steven Roca Tineo |
 | Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz <br>Maylhy Olinda Gutierrez Condo |
-| Sprint 3 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
-| Sprint 3 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
+| Sprint 2 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 2 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
 | **Sprint Goal & User Stories** |  |
-| Sprint 3 Goal |  Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra regularizar el traslado seguro de lotes entre usuarios  |
+| Sprint 3 Goal |  **Nuestro enfoque está en**  iniciar y avanzar de forma sólida en el desarrollo del backend de nuestro proyecto, así como actualizar el frontend para que se aproxime lo más posible al diseño concebido. **Creemos que** esto ofrece una aplicación funcional que permite el traslado seguro y regulado de lotes entre usuarios a los usuarios del sistema involucrados en el proceso de traslado y monitoreo. **Esto se confirmará cuando** los usuarios puedan completar y hacer seguimiento del traslado de lotes a través de la plataforma sin intervención manual.
+  |
 | Sprint 3 Velocity | 4 |
 | Sum of Story Points | 20 |
 
@@ -2326,25 +2329,23 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos, acceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
 
-Sprint Backlog 3 en Trello:
 
 | Sprint \# | Sprint 3 |  |  |  |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work Item/Task |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
-| US-22 | Inicio de Sesion | T1 | Obtener listado de usuarios| Recuperar todos los datos de usuarios por medio de un endpoint | 2 | Mathew Roca | Done |
-| US-22 | Inicio de Sesion | T1 | Obtener datos de usuarios por id| Recuperar datos de usuario por id por medio de un endpoint | 2 | Mathew Roca | Done |
-|  US-05 |Enviar observaciones de un lote reibido  | T1 | Obtener listado de observaciones | Recuperar todos los datos de observaciones por medio de un endpoint | 3 | Maylhy Gutiérrez | Done |
-| US-05 | Enviar observaciones de un lote reibido | T1 |Crear nueva observacion | Crear observaciones por medio de un endpoint | 4 | Maylhy Gutiérrez | Done |
-| US-21 | Registro de Usuario | T1 | Crear nuevo usuario| Crear usuarios por medio de un endpoint | 3 | Mathew Roca | Done |
-| US-04 | Ver detalles de un lote en especifico | T1 | Obtener listado de lotes| Recuperar todos los datos de los lotes por medio de un endpoint | 3 | Mathias Bueno | Done |
-| US-03 | Filtrar y buscar lotes por distintos criterios | T1 | Obtener datos de lotes por id| Recuperar datos de lotes por id por medio de un endpoint | 2 | Mathias Bueno | Done |
-| US-06 | Registrar y enviar lote | T1 | Crear nuevo lote | Crear lotes por medio de un endpoint | 2 | Mathias Bueno | Done |
-| US-05 | Enviar observaciones sobre un lote recibido | T1 |Crear una observacion | Crear una observacion por medio de un endpoint| 3 | Giancarlo Solis | Done |
-| US-08 | Visualizar observaciones enviadas	| T1 | Obtener las observaciones | Crear un endpoint par obtener las observaciones | 2 | Giancarlo Solis | Done |
-| US-09 | Editar observación enviada (si no ha sido revisada aún)	| T1 | Actualizacion de observacion | Crear un endpoint para poder actualizar una observation | 5 | Giancarlo Solis | Done |
-| US-10 | Eliminar observación enviada (si no ha sido revisada aún)	| T1 | Eliminar de observacion | Crear un endpoint para poder eliminar una observation | 4 | Giancarlo Solis | Done |
-| US-11 | Marcar observaciones como vistas	| T1 | Modificar el status de la observacion | MNodificar el status al actualizar | 3 | Giancarlo Solis | Done |
+| US-22 | Inicio de Sesion | T1 | Obtener listado de usuarios| Recuperar todos los datos de usuarios por medio de un endpoint POST | 2 | Mathew Roca | Done |
+| TS26 | Distribuidores Actuales | T1 | Obtener datos de los distribuidores por id | Recuperar datos de distribuidores por id por medio de un endpoint GET | 2 | Mathew Roca | Done |
+| TS29 | Distribuidores Disponibles | T1 | Obtener datos de los distribuidores por id | Recuperar datos de distribuidores disponibles por id por medio de un endpoint GET | 3 | Mathew Roca | Done |
+|  TS07 |Enviar observaciones de un lote reibido  | T1 | Obtener listado de observaciones | Recuperar todos los datos de observaciones por medio de un endpoint | 3 | Maylhy Gutiérrez | Done |
+| TS07 | Enviar observaciones de un lote reibido | T1 |Crear nueva observacion | Crear observaciones por medio de un endpoint POST | 4 | Maylhy Gutiérrez | Done |
+| TS21 | Registro de Usuario | T1 | Crear nuevo usuario| Crear usuarios por medio de un endpoint | 3 | Mathew Roca | Done |
+| TS01 | Ver detalles de un lote en especifico | T1 | Obtener listado de lotes| Recuperar todos los datos de los lotes por medio de un endpoint GET | 3 | Mathias Bueno | Done |
+| TS04 | Filtrar y buscar lotes por distintos criterios | T1 | Obtener datos de lotes por id| Recuperar datos de lotes por id por medio de un endpoint GET | 2 | Mathias Bueno | Done |
+| TS09 | Registrar y enviar lote | T1 | Crear nuevo lote | Crear lotes por medio de un endpoint | 2 | Mathias Bueno | Done |
+| TS07 | Enviar observaciones sobre un lote recibido | T1 |Crear una observacion | Crear una observacion por medio de un endpoint POST | 3 | Giancarlo Solis | Done |
+| TS41 | Eliminar observación enviada (si no ha sido revisada aún)	| T1 | Eliminar de observacion | Crear un endpoint para poder eliminar una observation | 4 | Giancarlo Solis | Done |
+| TS15 | Marcar observaciones como vistas	| T1 | Modificar el status de la observacion | Modificar el status al actualizar | 3 | Giancarlo Solis | Done |
 
 [TextilFlow Trello for Sprint Review 3](https://trello.com/b/CSyAHWGI/trello-agile-sprint-textilflow)
 
@@ -2781,13 +2782,15 @@ Incorporar fotos reales de telas, usuarios en acción o capturas de pantalla del
 
 ### 5.4. Video About-the-Product
 
+[About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ER3q_vy2uAlHmDe8pHrCessB2yufJAwynzripjUj4EV5HQ?e=7VkqvW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ER3q_vy2uAlHmDe8pHrCessB2yufJAwynzripjUj4EV5HQ?e=7VkqvW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ### Video About-The-Team 
 
-URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/Ec-_4DvuzBpErmcqn9t-PhABFJCIvE4mGGWhkSJu_CFYsg?e=ZVeIRP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+
+[About-The-Team ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/Ec-_4DvuzBpErmcqn9t-PhABFJCIvE4mGGWhkSJu_CFYsg?e=ZVeIRP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 <hr>
@@ -2836,14 +2839,15 @@ https://google.github.io/styleguide/javaguide.html
 Google TypeScript Style Guide
 https://google.github.io/styleguide/tsguide.html
 
-TextilFlow Execution Evidence for Sprint Review
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQR3YmuCQ91IkCD5Q_j4y2cB-z-QLCLoL_pRz_AEyQHWMA?e=gKD9qC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[TextilFlow Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQR3YmuCQ91IkCD5Q_j4y2cB-z-QLCLoL_pRz_AEyQHWMA?e=gKD9qC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-Web Applications Prototyping TextilFlow
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EdB5RunylOtGm678FwW-g64BL0zuNxqupqxVu4GRNtXRmg?e=zuOuBR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Web Applications Prototyping TextilFlow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EdB5RunylOtGm678FwW-g64BL0zuNxqupqxVu4GRNtXRmg?e=zuOuBR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+
+
+
 
 Landing-Page-TextilFlow
 
@@ -2870,9 +2874,11 @@ Figma-Textiflow
 
 https://www.figma.com/design/zoAlRMYgINLrqksRRdVMiO/TextilFlow?node-id=0-1&t=tOTwl9oY4Kgnbl0f-1
 
-Entrevistas-TextiFlow
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EWcSisjze8xGsdF3Mvh79Y4BvDdoGIq_Nw9mIRqa4f08zw?e=tPsaOt
+[Entrevistas-TextiFlow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EWcSisjze8xGsdF3Mvh79Y4BvDdoGIq_Nw9mIRqa4f08zw?e=tPsaOt)
+
+
+
 
 Wireflows-TextilFlow
 
@@ -2882,13 +2888,14 @@ UserFlowsDiagrams-TextiFlow
 
 https://overflow.io/s/DU68QJ8F/?node=653a4856
 
-Video-TextilFlow
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ET_gNINUrVFHoukgUU5dBOUBP3_veo3PhM6RDabN9D5Q-A?e=dIa4eC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Video-TextilFlow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ET_gNINUrVFHoukgUU5dBOUBP3_veo3PhM6RDabN9D5Q-A?e=dIa4eC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Video-Entrevistas de Validacion
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+[Video-Entrevistas de Validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/ESy6k56K6z5DiDoWFb9fmgQBUcnfMbva_C08-hH36jJWfw?e=QVvdff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 
 Canvas-TextiFlow
 
@@ -2906,10 +2913,15 @@ Frontend Web TextilFlow Application Deployed
 
 http://3.135.127.195:5001/swagger-ui/index.html#/
 
-TextilFlow Execution Evidence for Sprint Review 3
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[TextilFlow Execution Evidence for Sprint Review 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EQy4zxojVAJBn5JHbPe4NVMBrUmOJWVhEroHMnEPaP9_eg?e=itdgJG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Video - TextilFlow - TB2
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdNSbjT9B6pEk744ZYUCXQUBKXNFvU9AvmLUXpDOGwhO7w?e=fYazwN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+[Video - TextilFlow - TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdNSbjT9B6pEk744ZYUCXQUBKXNFvU9AvmLUXpDOGwhO7w?e=fYazwN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
+
+
+
