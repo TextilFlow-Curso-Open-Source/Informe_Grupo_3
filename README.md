@@ -50,8 +50,9 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de TextilFlow. |
-| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga parcial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
-| TB2 | 22/06/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrga  del informe de nuestro proyecto, hemos realizado el sprint 3 del informe y también entregamos una primera version desplegada de nuestro backend |
+| TP | 16/05/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrega parcial del informe de nuestro proyecto, hemos realizado el sprint 2 del informe y también entregamos nuestra landing page junto con la aplicacion. |
+| TB2 | 22/06/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrega  del informe de nuestro proyecto, hemos realizado el sprint 3 del informe y también entregamos una primera version desplegada de nuestro backend |
+| TF  | 08/07/2025 | Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew Mathias Eduardo Bueno Perales Giancarlo Rafael Solis Santa Cruz | En esta entrega final del informe de nuestro proyecto, hemos realizado el sprint 4 del informe y completamos el desarrollo backend y lo unimos a nuestra aplicacion web del frontend |
 
 <hr>
 
@@ -67,6 +68,8 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
 **TP:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. 
 
 **TB2:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown. 
+
+**TF:** Para lograr la elaboración colaborativa de este informe, primero dividimos cada parte del trabajo y trabajamos cada uno en su rama para posteriormente subir todo a GitHub utilizando formato markdown.
 
 A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
@@ -2599,7 +2602,7 @@ En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reun
 
 | Sprint \# | Sprint 4 |
 | :---- | :---- |
-| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este cuarto sprint, enfocándonos en terminar el desarrollo del back-end de TextilFlow y unirlo junto con nuestra aplicacion web. Durante la reunión: Definimos los bounded context a tener en cuenta para crear la base de datos<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar este cuarto sprint, enfocándonos en terminar el desarrollo del back-end de TextilFlow y unirlo junto con nuestra aplicacion web. Durante la reunión: Definimos los bounded context a completar para terminar la base de datos<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje<br> Definimos los objetivos y formas de colaboración.  |  |
 | Date | 2025-07-02 |
 | Time | 10:30 AM |
 | Location | Meeting by Discord |
@@ -2608,7 +2611,7 @@ En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reun
 | Sprint 3 \- Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (2 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
 | Sprint 3 \- Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances.  |
 | **Sprint Goal & User Stories** |  |
-| Sprint 4 Goal |  **Nuestro enfoque está en**   **Creemos que**  **Esto se confirmará cuando**  |
+| Sprint 4 Goal |  **Nuestro enfoque está en** culminar el desarrollo de nuestro backend y hacerlo funcionar junto con la aplicacion web  **Creemos que** nuestra aplicacion estara ya preparada para ser funcional y proporcionar todo lo prometido a los usuarios **Esto se confirmará cuando** los usuarios prueben las funcionalidades de nuestro producto.  |
 | Sprint 4 Velocity | 3 |
 | Sum of Story Points | 12 |
 
@@ -2659,8 +2662,8 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| TextilFlow-Curso-Open-Source/BackEnd |develop    |     |     |-    | /07/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                        |     | -    | /07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd |develop    |  edd40fb   |  feat:cors   |-    | 03/07/2025               |
+| TextilFlow-Curso-Open-Source/BackEnd | develop    |      5959d43              |   fix: security  | -    | 03/07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                     |         | -        | /07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |               |          | -                              | /07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                |          | -                              | /07/2025               |
