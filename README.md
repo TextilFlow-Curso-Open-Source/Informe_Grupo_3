@@ -74,12 +74,32 @@ Desarrollamos el informe de nuestro proyecto en un repositorio denominado "Infor
 A continuación, presentamos una imagen que muestra los insights de las contribuciones (commits) realizadas por cada integrante del equipo en este repositorio.
 
 **Figura 1**  
-*Insights de Informe_Grupo_3*
+*Insights de Informe_Grupo_3 - TB1*
 
 <p align="center">
   <img src="images/insights1.4.png" alt="PB" width="850">
 </p>
 
+**Figura 2**  
+*Insights de Informe_Grupo_3 - TP*
+
+<p align="center">
+  <img src="images/insights1.4.png" alt="PB" width="850">
+</p>
+
+**Figura 1**  
+*Insights de Informe_Grupo_3 - TB2*
+
+<p align="center">
+  <img src="images/Insights-tb2.png" alt="PB" width="850">
+</p>
+
+**Figura 1**  
+*Insights de Informe_Grupo_3 - TF*
+
+<p align="center">
+  <img src="" alt="PB" width="850">
+</p>
 
 
 ## Tabla de Contenidos
@@ -2640,16 +2660,16 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work Item/Task |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
-|  |  | T1 |  |  | 2 | Mathew Roca | Done |
-|  |  | T1 |  |  | 2 | Mathew Roca | Done |
+| TS26 | Distribuidores asociados a empresario autenticado | T1 | Devolver todos los distribuidores  | Recuperar datos de distribuidores asociados por medio de un endpoint GET | 2 | Mathew Roca | Done |
+| TS05 |  Busquedas por codigo y cliente desde el backend | T1 | Devolver datos relacionados a la busqueda segun el parametro | Recuperar los datos asociados a esos parametros mediante un endpoint GET | 2 | Mathew Roca | Done |
 |  |  | T1 |  |  | 3 | Mathew Roca | Done |
-|  |  | T1 |  |  | 3 | Maylhy Gutiérrez | Done |
+| TS12 | Observaciones enviadas | T1 | Devolver observaciones enviadas por id | Recuperar datos de observaciones por medio de un endpoint GET| 3 | Maylhy Gutiérrez | Done |
 |  |  | T1 |  |  | 4 | Maylhy Gutiérrez | Done |
-|  |  | T1 |  |  | 3 | Mathew Roca | Done |
+|  |  | T1 |  |  | 3 | Maylhy Gutiérrez | Done |
 |  |  | T1 |  |  | 3 | Mathias Bueno | Done |
 |  |  | T1 |  |  | 2 | Mathias Bueno | Done |
 |  |  | T1 |  |  | 2 | Mathias Bueno | Done |
-|  |  | T1 |  |  | 3 | Giancarlo Solis | Done |
+| TS14 | Eliminar observaciones | T1 | Permitir eliminar observaciones en estado pendiente | Eliminar observaciones segun su estado por medio de un endpoint DELETE | 3 | Giancarlo Solis | Done |
 |  | 	| T1 |  |  | 4 | Giancarlo Solis | Done |
 |  | 	| T1 |  |  | 3 | Giancarlo Solis | Done |
 
@@ -2664,7 +2684,7 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
 | TextilFlow-Curso-Open-Source/BackEnd |develop    |  edd40fb   |  feat:cors   |-    | 03/07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |      5959d43              |   fix: security  | -    | 03/07/2025               |
-| TextilFlow-Curso-Open-Source/BackEnd | develop    |                     |         | -        | /07/2025               |
+| TextilFlow-Curso-Open-Source/FrontEnd | develop    |        9ff93a9             |    feat:connection with backend for auth and profiles     | -        | 04/07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |               |          | -                              | /07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                |          | -                              | /07/2025               |
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |                  |           | -                              | /07/2025               |
@@ -2915,11 +2935,13 @@ Incorporar fotos reales de telas, usuarios en acción o capturas de pantalla del
 
 * Los miembros del grupo en conjunto creemos que se han cumplido de forma adecuada todos los establecido en la rubrica para esta entrega del TB1. La planificación sobre el trabajo fue fructífera y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor realizar un mejor control de los tiempos y cumplir con la entrega con mayor antelación.
 
-* Los miembros del grupo en conjunto creemos que todo lo establecido en la rubrica para esta entrega del TP esta cumplido de forma satisfactoria. La buena planificación y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor cumplir con la entrega con mayor antelación y manejar mejor nuestros tiempos de trabajo.
+* Los miembros del grupo en conjunto creemos que hemos cumplido  todo lo establecido en la rubrica para esta entrega del TP esta cumplido de forma satisfactoria. La buena planificación y la comunicación fue vital para realizar nuestro trabajo de forma exitosa. A futuro, seria mejor cumplir con la entrega con mayor antelación y manejar mejor nuestros tiempos de trabajo.
 
 * El desarrollo del backend permitió consolidar los bounded contexts necesarios para el funcionamiento del sistema, utilizando principios de diseño modular y separación de responsabilidades. Esto facilitó la integración de los distintos servicios y su mantenimiento a largo plazo.
 
 * El despliegue exitoso en AWS utilizando contenedores Docker demostró la escalabilidad y portabilidad del backend de TextilFlow. Esta infraestructura garantiza un entorno estable para futuras pruebas, integraciones y crecimiento del producto.
+
+* Los miembros del grupo creemos que hemos podido culminar el desarrollo backend, asi como vincularlo con nuestra aplicacion web segun todo lo establecido en la rubrica. Nuestra buena disposicion para el trabajo y la buena comunicacion fue vital para terminar de forma exitosa. 
 
 
 
