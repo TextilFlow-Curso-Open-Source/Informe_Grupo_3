@@ -1529,20 +1529,58 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 **Diagrama de Clases BackEnd**
 
+* IAM
+
 <p align="center">
-  <img src="images/class-diagram1.png" alt="PB" width="1000">
+  <img src="images/IAM.b.png" alt="PB" width="1000">
 </p>
+
+* Request
+
 <p align="center">
-  <img src="images/class-diagram2.png" alt="PB" width="1000">
+  <img src="images/request.b.png" alt="PB" width="1000">
 </p>
+
+* Payment
+
 <p align="center">
-  <img src="images/class-diagram3.png" alt="PB" width="1000">
+  <img src="images/payment.b.png" alt="PB" width="1000">
 </p>
+
+* Configuration
+
 <p align="center">
-  <img src="images/class-diagram4.png" alt="PB" width="1000">
+  <img src="images/configuration.b.png" alt="PB" width="1000">
 </p>
+
+* Shared
+
 <p align="center">
-  <img src="images/class-diagram5.png" alt="PB" width="1000">
+  <img src="images/shared.b.png" alt="PB" width="1000">
+</p>
+
+* Observation
+
+<p align="center">
+  <img src="images/observation.b.png" alt="PB" width="1000">
+</p>
+
+* Reviews
+
+<p align="center">
+  <img src="images/reviews.b.png" alt="PB" width="1000">
+</p>
+
+* Profiles
+
+<p align="center">
+  <img src="images/profiles.b.png" alt="PB" width="1000">
+</p>
+
+* Batches
+
+<p align="center">
+  <img src="images/batches.b.png" alt="PB" width="1000">
 </p>
 
 #### **4.7.2. Class Dictionary**
