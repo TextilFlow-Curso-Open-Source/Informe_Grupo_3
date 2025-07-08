@@ -2847,6 +2847,8 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
 <p align="center">
   <img src="images/image.png" alt="PB" width="850">
 </p>
@@ -2865,6 +2867,22 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 
 <p align="center">
   <img src="images/image4.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/image5.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/image6.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/image7.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/image8.png" alt="PB" width="850">
 </p>
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
