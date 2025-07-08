@@ -2887,7 +2887,51 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+### Servicios API Implementados
 
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Authentication Management** ||||
+| POST | `/api/v1/authentication/reset-password` | Resetear contrasena | Crear cuenta en la plataforma |
+| POST | `/api/v1/authentication/sign-in` | Inicio de sesión | Autenticación de usuario |
+| **Batch Management** ||||
+| GET | `/api/v1/batches` | Obtiene todos los lotes | Visualizar lotes de producción |
+| GET | `/api/v1/batches/{batchId}` | Obtiene un lote específico | Detalles del lote de productos |
+| POST | `/api/v1/batches` | Crea un nuevo lote | Registrar nuevo lote de producción |
+| PUT | `/api/v1/batches/{batchId}` | Actualiza un lote existente | Modificar estado del lote |
+| DELETE | `/api/v1/batches/{batchId}` | Elimina un lote | Dar de baja lote completado |
+| GET | `/api/v1/batches/test/profiles/{userId}` | Test perfiles ACL | Verificar permisos de usuario |
+| **Businessmen Management** ||||
+| GET | `/api/v1/businessmen` | Obtiene todos los empresarios | Lista de empresarios textiles |
+| GET | `/api/v1/businessmen/{userId}` | Obtiene empresario por ID | Perfil específico de empresario |
+| POST | `/api/v1/businessmen/{userId}` | Crea perfil de empresario | Registrar nuevo empresario |
+| PUT | `/api/v1/businessmen/{userId}` | Actualiza perfil de empresario | Modificar datos empresariales |
+| **Observation Management** ||||
+| GET | `/api/v1/observations/{observationId}` | Obtiene observación específica | Detalles de observación de calidad |
+| GET | `/api/v1/observations/supplier/{supplierId}` | Observaciones por proveedor | Historial de observaciones |
+| GET | `/api/v1/observations/businessman/{businessmanId}` | Observaciones por empresario | Control de calidad empresarial |
+| GET | `/api/v1/observations/batch/{batchId}` | Observaciones por lote | Control de calidad del lote |
+| POST | `/api/v1/observations` | Crea nueva observación | Reportar observación de calidad |
+| PUT | `/api/v1/observations/{observationId}` | Actualiza observación | Modificar estado de observación |
+| DELETE | `/api/v1/observations/{observationId}` | Elimina observación | Remover observación resuelta |
+| **Profile Images Management** ||||
+| POST | `/api/v1/profiles/{userId}/images/logo` | Sube logo de perfil | Actualizar imagen corporativa |
+| DELETE | `/api/v1/profiles/{userId}/images/logo` | Elimina logo de perfil | Remover imagen de perfil |
+| **Complete Profiles Management** ||||
+| GET | `/api/v1/profiles/{userId}` | Obtiene perfil completo | Información completa del usuario |
+| **Supplier Reviews Management** ||||
+| GET | `/api/v1/supplier-reviews/supplier/{supplierId}` | Reviews por proveedor | Calificaciones del proveedor |
+| GET | `/api/v1/supplier-reviews/check/{supplierId}/{businessmanId}` | Verificar review existente | Comprobar si ya evaluó |
+| POST | `/api/v1/supplier-reviews` | Crea nueva review | Evaluar proveedor |
+| PUT | `/api/v1/supplier-reviews/{reviewId}` | Actualiza review existente | Modificar evaluación |
+| **Suppliers Management** ||||
+| GET | `/api/v1/suppliers` | Obtiene todos los proveedores | Catálogo de proveedores |
+| GET | `/api/v1/suppliers/{userId}` | Obtiene proveedor por ID | Perfil específico de proveedor |
+| POST | `/api/v1/suppliers/{userId}` | Crea perfil de proveedor | Registrar nuevo proveedor |
+| PUT | `/api/v1/suppliers/{userId}` | Actualiza perfil de proveedor | Modificar datos del proveedor |
+| **Users Management** ||||
+| GET | `/api/v1/users/{userId}` | Obtiene usuario por ID | Información básica del usuario |
+| PUT | `/api/v1/users/{userId}/role` | Actualiza rol del usuario | Cambiar permisos de usuario |
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
