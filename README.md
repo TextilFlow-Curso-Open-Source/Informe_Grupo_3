@@ -3291,7 +3291,4 @@ http://3.135.127.195:5001/swagger-ui/index.html#/
 [Video - TextilFlow - TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdNSbjT9B6pEk744ZYUCXQUBKXNFvU9AvmLUXpDOGwhO7w?e=fYazwN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-
-
-
-
+[Video - TextilFlow - TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ESuv_stW3fRBlGjxBxRU4jsBTZ2WfMrn3aXCwjrml-QJuQ?e=PQwyn7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
