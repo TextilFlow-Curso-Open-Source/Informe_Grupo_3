@@ -1523,9 +1523,58 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 
 #### **4.7.1. Class Diagrams**
 **Diagrama de Clases FrontEnd**
+
+* Auth
+
 <p align="center">
-  <img src="images/classDiagramFrontEnd.png" alt="PB" width="1000">
+  <img src="images/auth.f.png" alt="PB" width="1000">
 </p>
+
+* Businessman
+
+<p align="center">
+  <img src="images/businessman.f.png" alt="PB" width="1000">
+</p>
+
+* Supplier
+
+<p align="center">
+  <img src="images/supplier.f.png" alt="PB" width="1000">
+</p>
+
+
+* Request
+
+<p align="center">
+  <img src="images/request.f.png" alt="PB" width="1000">
+</p>
+
+
+* Configuration
+
+<p align="center">
+  <img src="images/configuration.f.png" alt="PB" width="1000">
+</p>
+
+* Shared
+
+<p align="center">
+  <img src="images/shared.f.png" alt="PB" width="1000">
+</p>
+
+* Observation
+
+<p align="center">
+  <img src="images/observation.f.png" alt="PB" width="1000">
+</p>
+
+
+* Batches
+
+<p align="center">
+  <img src="images/batches.b.png" alt="PB" width="1000">
+</p>
+
 
 **Diagrama de Clases BackEnd**
 
