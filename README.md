@@ -98,7 +98,7 @@ A continuación, presentamos una imagen que muestra los insights de las contribu
 *Insights de Informe_Grupo_3 - TF*
 
 <p align="center">
-  <img src="" alt="PB" width="850">
+  <img src="images/FrontEnd_Insights.png" alt="PB" width="850">
 </p>
 
 
