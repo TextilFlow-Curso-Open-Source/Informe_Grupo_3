@@ -1450,13 +1450,13 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
 #### **4.6.1. Software Architecture Context Diagrams**
 
 <p align="center">
-  <img src="images/SAContextDiagram.png" alt="PB" width="1000">
+  <img src="images/contexto.png" alt="PB" width="1000">
 </p>
 
 #### **4.6.2. Software Architecture Container Diagrams**
 
 <p align="center">
-  <img src="images/SAContainersDiagram.png" alt="PB" width="1000">
+  <img src="images/Containers.png" alt="PB" width="1000">
 </p>
 
 #### **4.6.3. Software Architecture Components Diagrams**
@@ -1467,56 +1467,112 @@ Los encabezados y labels presentes en las pantallas informan claramente sobre el
   <img src="images/SAComponentsDiagram.png" alt="PB" width="1000">
 </p>
 
+* AuthService
 
 <p align="center">
   <img src="images/AuthBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
+* BatchService
+
 <p align="center">
   <img src="images/BatchBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
+* Businessman
+
 <p align="center">
   <img src="images/BusinessmanBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
+* Configuration
+
 <p align="center">
   <img src="images/ConfigurationBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
+* Observation
+
 <p align="center">
   <img src="images/ObservationBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+* Request
 <p align="center">
   <img src="images/RequestBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
+* Shared
+
 <p align="center">
   <img src="images/SharedBoundedContextDetail.png" alt="PB" width="1000">
 </p>
+
+* Supplier
+
 <p align="center">
   <img src="images/SupplierBoundedContextDetail.png" alt="PB" width="1000">
 </p>
 
-**Diagrama de Contenedores BackEnd**
+**Diagrama de Componente BackEnd**
+
 <p align="center">
-  <img src="images/structurizr-1.png" alt="PB" width="1000">
+  <img src="images/api.png" alt="PB" width="1000">
 </p>
-<p align="center">
-  <img src="images/structurizr2.png" alt="PB" width="1000">
-</p>
+
+* Batch
+
 <p align="center">
   <img src="images/structurizr3.png" alt="PB" width="1000">
 </p>
+
+* User
+
 <p align="center">
   <img src="images/structurizr4.png" alt="PB" width="1000">
 </p>
+
+* Observation
+
 <p align="center">
   <img src="images/structurizr5.png" alt="PB" width="1000">
 </p>
+
+
+* Supplier
+
 <p align="center">
   <img src="images/structurizr6.png" alt="PB" width="1000">
 </p>
+
+* Review
+
 <p align="center">
   <img src="images/structurizr7.png" alt="PB" width="1000">
 </p>
+
+* Shared
+
 <p align="center">
   <img src="images/structurizr8.png" alt="PB" width="1000">
+</p>
+
+* Request
+
+<p align="center">
+  <img src="images/request.png" alt="PB" width="1000">
+</p>
+
+
+* Payment
+
+<p align="center">
+  <img src="images/payment.png" alt="PB" width="1000">
+</p>
+
+* Configurations
+
+<p align="center">
+  <img src="images/configurations.png" alt="PB" width="1000">
 </p>
 
 ### **4.7. Software Object-Oriented Design**
@@ -3014,7 +3070,7 @@ Incorporar fotos reales de telas, usuarios en acción o capturas de pantalla del
 
 
 
-[About-The-Team ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/Ec-_4DvuzBpErmcqn9t-PhABFJCIvE4mGGWhkSJu_CFYsg?e=ZVeIRP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[About-The-Team ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EbG5wNSCGy9Pi8e-YrOxJIIBCOZ88maFdTEU-QCXD-Xr1w?e=hVZPIZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 <hr>
