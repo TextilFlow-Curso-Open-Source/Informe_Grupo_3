@@ -2841,12 +2841,16 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 | TextilFlow-Curso-Open-Source/BackEnd | develop    |      532f4d0           |    feat: creating queries for batches and image batch cofig       | -                              | 06/07/2025               |
 | TextilFlow-Curso-Open-Source/FrontEnd | develop    |     63642d3            |       fix:fixing problems with the id on the request and update of it,now solve    | -                              | 07/07/2025               |
 | TextilFlow-Curso-Open-Source/FrontEnd | develop    |       3a65d40          |    feat:connecting batches with the backend       | -                              | 07/07/2025               |
-| TextilFlow-Curso-Open-Source/FrontEnd | develop    |                 |           | -                              | 07/07/2025               |
-| TextilFlow-Curso-Open-Source/FrontEnd | develop    |                |         | -                              | /07/2025               |
 
 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+[Execution Evidence - TF](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EcMsBp6q6ddKgcPK8qGo7x0BNlX5g-qPRkQAMimOBVosEw?e=K1ibJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
 
 
 <p align="center">
@@ -2893,27 +2897,17 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 |-------------|----------|-------------|----------------|
 | **Authentication Management** ||||
 | POST | `/api/v1/authentication/reset-password` | Resetear contrasena | Crear cuenta en la plataforma |
-| POST | `/api/v1/authentication/sign-in` | Inicio de sesión | Autenticación de usuario |
-| **Batch Management** ||||
-| GET | `/api/v1/batches` | Obtiene todos los lotes | Visualizar lotes de producción |
-| GET | `/api/v1/batches/{batchId}` | Obtiene un lote específico | Detalles del lote de productos |
-| POST | `/api/v1/batches` | Crea un nuevo lote | Registrar nuevo lote de producción |
-| PUT | `/api/v1/batches/{batchId}` | Actualiza un lote existente | Modificar estado del lote |
-| DELETE | `/api/v1/batches/{batchId}` | Elimina un lote | Dar de baja lote completado |
-| GET | `/api/v1/batches/test/profiles/{userId}` | Test perfiles ACL | Verificar permisos de usuario |
-| **Businessmen Management** ||||
-| GET | `/api/v1/businessmen` | Obtiene todos los empresarios | Lista de empresarios textiles |
-| GET | `/api/v1/businessmen/{userId}` | Obtiene empresario por ID | Perfil específico de empresario |
-| POST | `/api/v1/businessmen/{userId}` | Crea perfil de empresario | Registrar nuevo empresario |
-| PUT | `/api/v1/businessmen/{userId}` | Actualiza perfil de empresario | Modificar datos empresariales |
-| **Observation Management** ||||
-| GET | `/api/v1/observations/{observationId}` | Obtiene observación específica | Detalles de observación de calidad |
-| GET | `/api/v1/observations/supplier/{supplierId}` | Observaciones por proveedor | Historial de observaciones |
-| GET | `/api/v1/observations/businessman/{businessmanId}` | Observaciones por empresario | Control de calidad empresarial |
-| GET | `/api/v1/observations/batch/{batchId}` | Observaciones por lote | Control de calidad del lote |
-| POST | `/api/v1/observations` | Crea nueva observación | Reportar observación de calidad |
-| PUT | `/api/v1/observations/{observationId}` | Actualiza observación | Modificar estado de observación |
-| DELETE | `/api/v1/observations/{observationId}` | Elimina observación | Remover observación resuelta |
+| POST | `/api/v1/authentication/forgot-password` | Inicio de sesión | Autenticación de usuario |
+| **Business Supplier Request** ||||
+| DELETE | `/api/v1/business-supplier-request` | Delete request | Borra solicitudes |
+| GET | `/api/v1/business-supplier-requests` | Obtiene todos las solicitudes | Lista de solicitudes |
+| GET | `/api/v1/business-supplier-requests/{requestId}` | Obtiene solicitud por ID | Perfil específico de solicitud |
+| POST | `/api/v1/business-supplier-requests` | Crea solicitudes | Registrar nueva solicitudes |
+| PUT | `/api/v1/business-supplier-requests/{requestId}` | Actualiza solicitud | Modificar datos de solicitud |
+| **Observation Images** ||||
+| DELETE | `/api/v1/observations/{observationId}/images` | Borrar imagen de observaciones | Borra imagen de observaciones |
+| POST | `/api/v1/observations/{observationId}/images` | Crear nueva imagen de observaciones | Crear nueva imagen |
+Remover observación resuelta |
 | **Profile Images Management** ||||
 | POST | `/api/v1/profiles/{userId}/images/logo` | Sube logo de perfil | Actualizar imagen corporativa |
 | DELETE | `/api/v1/profiles/{userId}/images/logo` | Elimina logo de perfil | Remover imagen de perfil |
@@ -2924,23 +2918,36 @@ El objetivo principal del sprint backlog 4 es culminar el desarrollo de nuestro 
 | GET | `/api/v1/supplier-reviews/check/{supplierId}/{businessmanId}` | Verificar review existente | Comprobar si ya evaluó |
 | POST | `/api/v1/supplier-reviews` | Crea nueva review | Evaluar proveedor |
 | PUT | `/api/v1/supplier-reviews/{reviewId}` | Actualiza review existente | Modificar evaluación |
-| **Suppliers Management** ||||
-| GET | `/api/v1/suppliers` | Obtiene todos los proveedores | Catálogo de proveedores |
-| GET | `/api/v1/suppliers/{userId}` | Obtiene proveedor por ID | Perfil específico de proveedor |
-| POST | `/api/v1/suppliers/{userId}` | Crea perfil de proveedor | Registrar nuevo proveedor |
-| PUT | `/api/v1/suppliers/{userId}` | Actualiza perfil de proveedor | Modificar datos del proveedor |
-| **Users Management** ||||
-| GET | `/api/v1/users/{userId}` | Obtiene usuario por ID | Información básica del usuario |
-| PUT | `/api/v1/users/{userId}/role` | Actualiza rol del usuario | Cambiar permisos de usuario |
+
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+<p align="center">
+  <img src="images/LandingDeploy.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/FrontDeploy.png" alt="PB" width="850">
+</p>
+
+<p align="center">
+  <img src="images/BackDeploy.png" alt="PB" width="850">
+</p>
+
+
 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. Aqui adjuntamos una imagen que muestra la cotribucion de todos los miembros del equipo con los commits durante este proceso de desarrollo.
 
+<p align="center">
+  <img src="images/BackEnd_Insights.jpg" alt="PB" width="850">
+</p>
 
+<p align="center">
+  <img src="images/FrontEnd_Insights.png" alt="PB" width="850">
+</p>
 
 ### 5.3. Validation Interviews
 
